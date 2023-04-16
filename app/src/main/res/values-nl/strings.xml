@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="game_score">Score</string>
+    <string name="game_time">Tijd</string>
+    <string name="game_press_again">Klik hier om opnieuw te beginnen.</string>
+    <string name="game_auto_complete_text">Auto complete</string>
+    <string name="game_cancel">Cancel</string>
+    <string name="game_confirm">OK</string>
+    <string name="game_load_error">Het laden van de data is mislukt, start een nieuw spel…</string>
+    <string name="games_Freecell">FreeCell</string>
+    <string name="games_Klondike">Klondike</string>
+    <string name="games_Spider">Spider</string>
+    <string name="games_Canfield">Canfield</string>
+    <string name="games_Yukon">Yukon</string>
+    <string name="menu_main_menu">Menu</string>
+    <string name="menu_hint">Hint</string>
+    <string name="menu_statistics">Punten</string>
+    <string name="menu_settings">Instellingen</string>
+    <string name="menu_undo">Terug</string>
+    <string name="games_Golf">Golf</string>
+    <string name="games_SimpleSimon">SimpleSimon</string>
+    <string name="games_TriPeaks">TriPeaks</string>
+    <string name="games_Pyramid">Pyramid</string>
+    <string name="games_FortyEight">Forty&amp;Eight</string>
+    <string name="games_AcesUp">AcesUp</string>
+    <string name="games_mod3">Mod3</string>
+    <string name="games_Gypsy">Gypsy</string>
+    <string name="game_manual">Handleiding</string>
+    <string name="about_loading">Laden…</string>
+    <string name="app_version">Versie</string>
+    <string name="portrait">Portrait</string>
+    <string name="landscape">Liggend formaat</string>
+    <string name="games_GrandfathersClock">GrandfathersClock</string>
+    <string name="game_close">Spel stoppen</string>
+    <string name="game_main_menu">Hoofdmenu</string>
+    <string name="games_Vegas">Vegas</string>
+
+    <!-- colors -->
+    <string name="blue">blauw</string>
+    <string name="green">groen</string>
+    <string name="red">rood</string>
+    <string name="yellow">geel</string>
+    <string name="orange">oranje</string>
+    <string name="purple">paars</string>
+
+    <!-- game stuff -->
+    <string name="canfield_longest_run">Langste kaartenreeks:</string> <!-- also used by golf -->
+
+    <!-- dialog won-->
+    <string name="dialog_win_titel">Proficiat, u heeft gewonnen!</string>
+    <string name="dialog_win_score">Score: %1$d</string>
+    <string name="dialog_win_bonus">Bonus: %1$d</string>
+    <string name="dialog_win_total">Totaal: %1$d</string>
+</resources>

@@ -1,0 +1,25 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <be.kuleuven.drsolitaire.dialogs.DialogPreferenceMenuOrder
+        android:key="@string/pref_key_menu_order"
+        android:negativeButtonText="@string/game_cancel"
+        android:positiveButtonText="@string/game_confirm"
+        android:summary="@string/settings_menu_order_summary"
+        android:title="@string/settings_menu_order_title" />
+
+    <be.kuleuven.drsolitaire.dialogs.DialogPreferenceMenuHideGames
+        android:key="@string/pref_key_menu_games"
+        android:enabled="true"
+        android:negativeButtonText="@string/game_cancel"
+        android:positiveButtonText="@string/game_confirm"
+        android:summary="@string/settings_menu_games_description"
+        android:title="@string/settings_menu_games" />
+
+    <be.kuleuven.drsolitaire.dialogs.DialogPreferenceMenuRows
+        android:key="@string/pref_key_menu_columns"
+        android:negativeButtonText="@string/game_cancel"
+        android:positiveButtonText="@string/game_confirm"
+        android:summary="Portrait: 3, Landscape: 4"
+        android:title="@string/settings_menu_columns" />
+
+</PreferenceScreen>

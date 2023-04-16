@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_version">Versio</string>
+    <string name="portrait">Pystysuunta</string>
+    <string name="landscape">Vaakataso</string>
+
+    <string name="settings">Asetukset</string>
+    <string name="game_manual">Ohje</string>
+    <string name="game_score">Tulos</string>
+    <string name="game_time">Aika</string>
+
+    <string name="game_cancel">Peruuta</string>
+    <string name="game_confirm">Vahvista</string>
+    <string name="game_auto_complete_text">Automaattinen lopetus</string>
+    <string name="game_press_again">Poistu painamalla uudestaan</string>
+    <string name="game_load_error">Tietojen lataus epäonnistui, uusi peli aloitetaan…</string>
+    <string name="game_close">Sulje peli</string>
+    <string name="game_main_menu">Päävalikko</string>
+
+    <!-- Menu -->
+    <string name="menu_statistics">Kojelauta</string>
+    <string name="menu_undo">Kumoa</string>
+    <string name="menu_hint">Vihje</string>
+    <string name="menu_main_menu">Valikko</string>
+    <string name="menu_settings">Asetukset</string>
+
+    <!-- game names -->
+    <string name="games_Klondike">Klondike</string>
+    <string name="games_Freecell">FreeCell</string>
+    <string name="games_Yukon">Yukon</string>
+    <string name="games_Spider">Spider</string>
+    <string name="games_SimpleSimon">SimpleSimon</string>
+    <string name="games_Golf">Golf</string>
+    <string name="games_Pyramid">Pyramid</string>
+    <string name="games_TriPeaks">TriPeaks</string>
+    <string name="games_FortyEight">Forty&amp;Eight</string>
+    <string name="games_AcesUp">AcesUp</string>
+    <string name="games_Gypsy">Gypsy</string>
+    <string name="games_mod3">Mod3</string>
+    <string name="games_Canfield">Canfield</string>
+    <string name="games_GrandfathersClock">GrandfathersClock</string>
+    <string name="games_Vegas">Vegas</string>
+
+    <!-- colors -->
+    <string name="blue">Sininen</string>
+    <string name="green">Vihreä</string>
+    <string name="red">Punainen</string>
+    <string name="yellow">Keltainen</string>
+    <string name="orange">Oranssi</string>
+    <string name="purple">Purppura</string>
+
+    <!-- game stuff -->
+    <string name="canfield_longest_run">Pisin sarja:</string> <!-- also used by golf -->
+
+    <!-- dialog won-->
+    <string name="dialog_win_titel">Onnittelu!</string>
+    <string name="dialog_win_score">Tulos: %1$d</string>
+    <string name="dialog_win_bonus">Palkkio: %1$d</string>
+    <string name="dialog_win_total">Yleinen: %1$d</string>
+
+</resources>

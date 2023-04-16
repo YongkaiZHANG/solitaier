@@ -1,0 +1,423 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fitsSystemWindows="true"
+    android:background="@color/dashboardbackground">
+
+    <LinearLayout
+        android:id="@+id/statisticsLinearLayout1"
+        android:layout_width="453dp"
+        android:layout_height="65dp"
+        android:gravity="center_horizontal"
+        android:orientation="vertical"
+        android:paddingTop="5dp">
+
+        <TextView
+            android:id="@+id/statisticsTextViewGamesWon"
+            android:layout_width="1dp"
+            android:layout_height="1dp"
+            android:gravity="center_horizontal"
+            android:textAlignment="center"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:visibility="invisible" />
+
+        <TextView
+            android:id="@+id/dashboardTitle"
+            android:layout_width="210dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="0dp"
+            android:layout_marginEnd="@dimen/activity_horizontal_margin"
+            android:background="#140F24"
+            android:fontFamily="@font/work_sans_bold"
+            android:gravity="center_horizontal"
+            android:text="@string/game_dashboard"
+            android:textColor="#FFFFFF"
+            android:textSize="34sp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.0"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <TextView
+            android:id="@+id/statisticsTextViewWinPercentage"
+            android:layout_width="1dp"
+            android:layout_height="1dp"
+            android:gravity="center_horizontal"
+            android:text=""
+            android:textAlignment="center"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:visibility="invisible" />
+
+        <TextView
+            android:id="@+id/statisticsAdditionalText"
+            android:layout_width="1dp"
+            android:layout_height="1dp"
+            android:gravity="center_horizontal"
+            android:text=""
+            android:textAlignment="center"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:visibility="invisible" />
+
+    </LinearLayout>
+
+    <ScrollView
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_below="@id/statisticsLinearLayout1"
+        android:layout_marginTop="731dp"
+        android:fillViewport="true"
+        app:layout_behavior="@string/appbar_scrolling_view_behavior">
+
+        <HorizontalScrollView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fillViewport="true"
+            android:scrollbarSize="5dp">
+
+
+            <TableLayout
+                android:id="@+id/statisticsTableHighScores"
+                android:layout_width="1dp"
+                android:layout_height="1dp"
+                android:gravity="center_horizontal"
+                android:padding="@dimen/layout_padding">
+
+                <TableRow
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:gravity="center_horizontal">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="6dp"
+                        android:gravity="center"
+                        android:paddingLeft="@dimen/statistics_table_padding"
+                        android:paddingRight="@dimen/statistics_table_padding"
+                        android:text="@string/game_score"
+                        android:visibility="invisible" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:gravity="center"
+                        android:paddingLeft="@dimen/statistics_table_padding"
+                        android:paddingRight="@dimen/statistics_table_padding"
+                        android:text="@string/game_time"
+                        android:visibility="invisible" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:gravity="center"
+                        android:paddingLeft="@dimen/statistics_table_padding"
+                        android:paddingRight="@dimen/statistics_table_padding"
+                        android:text="@string/statistics_date"
+                        android:visibility="invisible" />
+
+                    <TextView
+                        android:layout_width="1dp"
+                        android:layout_height="1dp"
+                        android:gravity="center"
+                        android:paddingLeft="@dimen/statistics_table_padding"
+                        android:paddingRight="@dimen/statistics_table_padding"
+                        android:text="@string/statistics_time_of_day"
+                        android:visibility="invisible"/>
+                </TableRow>
+            </TableLayout>
+
+
+        </HorizontalScrollView>
+    </ScrollView>
+<androidx.cardview.widget.CardView
+    android:id="@+id/ability_chart_layout"
+    android:layout_width="400dp"
+    android:layout_height="690dp"
+    android:layout_marginLeft="30dp"
+    android:layout_marginTop="75dp"
+    android:background="#FFFFFF"
+    app:cardCornerRadius="50dp"
+    >
+    <ImageView
+        android:id="@+id/info_ablityScore"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:layout_marginLeft="350dp"
+        android:layout_marginTop="50dp"
+        android:src="@drawable/info_icon"></ImageView>
+    <TextView
+        android:id="@+id/the_ability_text"
+        android:layout_width="400dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="40dp"
+        android:fontFamily="serif"
+        android:gravity="center"
+        android:text="@string/ability_score"
+        android:textColor="#000000"
+        android:textSize="26sp"
+        android:textStyle="bold">
+
+    </TextView>
+
+    <TextView
+        android:id="@+id/the_ability_score"
+        android:layout_width="400dp"
+        android:layout_height="100dp"
+        android:layout_marginTop="100dp"
+        android:fontFamily="serif"
+        android:gravity="center"
+        android:text="@string/the_score"
+        android:textColor="#000000"
+        android:textSize="60dp"
+        android:textStyle="bold">
+
+    </TextView>
+    <com.github.mikephil.charting.charts.RadarChart
+        android:id="@+id/ability_RadarChart"
+        android:layout_width="360dp"
+        android:layout_height="360dp"
+        android:layout_marginTop="240dp"
+        android:layout_marginLeft="20dp">
+
+    </com.github.mikephil.charting.charts.RadarChart>
+
+</androidx.cardview.widget.CardView>
+
+    <androidx.cardview.widget.CardView
+        android:id="@+id/time_score_solve_bar_layout"
+        android:layout_width="772dp"
+        android:layout_height="150dp"
+        android:layout_marginLeft="470dp"
+        android:layout_marginTop="20dp"
+        android:background="#FFFFFF"
+        app:cardCornerRadius="50dp">
+
+        <ImageView
+            android:id="@+id/time_icon"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_gravity="center_vertical"
+            android:layout_marginLeft="40dp"
+            android:src="@drawable/icon_time"></ImageView>
+
+        <ImageView
+            android:id="@+id/score_icon"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_gravity="center_vertical"
+            android:layout_marginLeft="280dp"
+            android:src="@drawable/icon_score"></ImageView>
+
+        <ImageView
+            android:id="@+id/solve_rate_icon"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_gravity="center_vertical"
+            android:layout_marginLeft="520dp"
+            android:src="@drawable/icon_solve_rate"></ImageView>
+        <ImageView
+            android:id="@+id/info_moveTime"
+            android:layout_marginLeft="230dp"
+            android:layout_marginTop="40dp"
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:src="@drawable/info_icon"></ImageView>
+        <ImageView
+            android:id="@+id/info_averageScore"
+            android:layout_marginLeft="490dp"
+            android:layout_marginTop="40dp"
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:src="@drawable/info_icon"></ImageView>
+        <ImageView
+            android:id="@+id/info_selectAccuracy"
+            android:layout_marginLeft="745dp"
+            android:layout_marginTop="40dp"
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:src="@drawable/info_icon"></ImageView>
+
+        <TextView
+            android:layout_width="80dp"
+            android:layout_height="20dp"
+            android:layout_marginLeft="150dp"
+            android:layout_marginTop="40dp"
+            android:fontFamily="serif"
+            android:text="Move Time"
+            android:textColor="#ACACAC">
+
+        </TextView>
+
+        <TextView
+            android:layout_width="100dp"
+            android:layout_height="20dp"
+            android:layout_marginLeft="390dp"
+            android:layout_marginTop="40dp"
+            android:fontFamily="serif"
+            android:text="Average Score"
+            android:textColor="#ACACAC">
+
+        </TextView>
+
+        <TextView
+            android:layout_width="130dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="635dp"
+            android:layout_marginTop="40dp"
+            android:fontFamily="serif"
+            android:text="Select Accuracy"
+            android:textColor="#ACACAC">
+
+        </TextView>
+
+        <TextView
+            android:id="@+id/time_spend"
+            android:layout_width="140dp"
+            android:layout_height="50dp"
+            android:layout_marginLeft="150dp"
+            android:layout_marginTop="55dp"
+            android:fontFamily="serif"
+            android:gravity="center_vertical"
+            android:text="@string/move_time"
+            android:textColor="#000000"
+            android:textSize="26sp"
+            android:textStyle="bold">
+
+        </TextView>
+
+        <TextView
+            android:id="@+id/score_average"
+            android:layout_width="140dp"
+            android:layout_height="50dp"
+            android:layout_marginLeft="390dp"
+            android:layout_marginTop="55dp"
+            android:fontFamily="serif"
+            android:gravity="center_vertical"
+            android:text="@string/score_average"
+            android:textColor="#000000"
+            android:textSize="26sp"
+            android:textStyle="bold">
+
+        </TextView>
+
+        <TextView
+            android:id="@+id/select_accuracy"
+            android:layout_width="140dp"
+            android:layout_height="50dp"
+            android:layout_marginLeft="635dp"
+            android:layout_marginTop="55dp"
+            android:fontFamily="serif"
+            android:gravity="center_vertical"
+            android:text="@string/select_accuracy"
+            android:textColor="#000000"
+            android:textSize="26sp"
+            android:textStyle="bold">
+
+        </TextView>
+    </androidx.cardview.widget.CardView>
+
+<androidx.cardview.widget.CardView
+    android:id="@+id/Accuracy_chart_layout"
+    android:layout_width="250dp"
+    android:layout_height="530dp"
+    android:layout_marginTop="220dp"
+    android:layout_marginLeft="1000dp"
+    app:cardCornerRadius="50dp"
+    >
+    <ImageView
+        android:id="@+id/info_moveAccuracy"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:layout_marginTop="30dp"
+        android:layout_marginLeft="210dp"
+        android:src="@drawable/info_icon"></ImageView>
+
+    <TextView
+        android:id="@+id/accuracy_text"
+        android:layout_width="250dp"
+        android:layout_height="40dp"
+        android:layout_marginTop="25dp"
+        android:fontFamily="serif"
+        android:gravity="center_vertical"
+        android:text="   Move Accuracy"
+        android:textColor="#000000"
+        android:textSize="24dp"
+        android:textStyle="bold">
+
+    </TextView>
+
+    <TextView
+        android:id="@+id/move_accuracy"
+        android:layout_width="250dp"
+        android:layout_height="70dp"
+        android:layout_marginTop="70dp"
+        android:fontFamily="serif"
+        android:gravity="center"
+        android:text="@string/move_accuracy"
+        android:textColor="#000000"
+        android:textSize="60dp"
+        android:textStyle="bold">
+
+    </TextView>
+    <com.github.mikephil.charting.charts.PieChart
+        android:id="@+id/accuracy_chart"
+        android:layout_width="230dp"
+        android:layout_height="230dp"
+        android:layout_marginTop="200dp"
+        android:layout_marginLeft="10dp">
+
+    </com.github.mikephil.charting.charts.PieChart>
+
+</androidx.cardview.widget.CardView>
+    <androidx.cardview.widget.CardView
+        android:id="@+id/Results_chart_layout"
+        android:layout_width="500dp"
+        android:layout_height="530dp"
+        android:layout_marginTop="220dp"
+        android:layout_marginLeft="470dp"
+        app:cardCornerRadius="50dp"
+        >
+        <ImageView
+            android:id="@+id/info_gameResult"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:src="@drawable/info_icon"
+            android:layout_marginLeft="190dp"
+            android:layout_marginTop="18dp"
+            ></ImageView>
+        <TextView
+            android:id="@+id/testData"
+            android:layout_width="70dp"
+            android:layout_height="40dp"
+            android:layout_marginLeft="400dp"
+            android:layout_marginTop="50dp"
+            android:background="@color/blueBackground"
+            android:textColor="#000000"
+            android:textSize="20sp"
+            android:fontFamily="serif"
+            android:text="null"
+            ></TextView>
+        <TextView
+            android:layout_width="200dp"
+            android:layout_height="45dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="15dp"
+            android:fontFamily="serif"
+            android:text="Game Result"
+            android:textColor="#000000"
+            android:textSize="25sp"
+            android:textStyle="bold">
+
+        </TextView>
+        <com.github.mikephil.charting.charts.BarChart
+            android:id="@+id/Results_chart"
+            android:layout_width="450dp"
+            android:layout_height="360dp"
+            android:layout_marginTop="100dp"
+            android:layout_marginLeft="20dp">
+
+        </com.github.mikephil.charting.charts.BarChart>
+    </androidx.cardview.widget.CardView>
+</RelativeLayout>

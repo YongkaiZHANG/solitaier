@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_version">Versio</string>
+
+    <string name="portrait">Vertikale</string>
+    <string name="landscape">Horizontale</string>
+
+    <string name="settings">Agordoj</string>
+    <string name="game_manual">Manlibro</string>
+    <string name="game_score">Poentaro</string>
+    <string name="game_time">Tempo</string>
+    <string name="game_cancel">Nuligi</string>
+    <string name="game_confirm">Konfirmi</string>
+    <string name="game_auto_complete_text">Mem-kompletiĝo</string>
+    <string name="game_press_again">Repremu por eliri</string>
+    <string name="game_load_error">Malsukcesis ŝargi lud-datumojn, ekigante novan ludon…</string>
+    <string name="game_close">Fermi la ludon</string>
+    <string name="game_main_menu">Ĉefmenuo</string>
+
+    <!-- Menu -->
+    <string name="menu_statistics">Panel</string>
+    <string name="menu_undo">Malfari</string>
+    <string name="menu_hint">Konsilo</string>
+    <string name="menu_main_menu">Menuo</string>
+    <string name="menu_settings">Agordoj</string>
+
+    <!-- game names -->
+    <string name="games_Klondike">Klondiko</string>
+    <string name="games_Freecell">FreeCell</string>
+    <string name="games_Yukon">Jukono</string>
+    <string name="games_Spider">Araneo</string>
+    <string name="games_SimpleSimon">SimplaSimono</string>
+    <string name="games_Golf">Golfo</string>
+    <string name="games_Pyramid">Piramido</string>
+    <string name="games_TriPeaks">TriPintoj</string>
+    <string name="games_FortyEight">Kvardek&amp;Ok</string>
+    <string name="games_AcesUp">KvarAsoj</string>
+    <string name="games_Gypsy">Cigano</string>
+    <string name="games_mod3">Mod3</string>
+    <string name="games_Canfield">Canfield</string>
+    <string name="games_GrandfathersClock">AvaHorloĝo</string>
+    <string name="games_Vegas">Vegaso</string>
+
+    <!-- colors -->
+    <string name="blue">Blua</string>
+    <string name="green">Verda</string>
+    <string name="red">Ruĝa</string>
+    <string name="yellow">Flava</string>
+    <string name="orange">Oranĝkolora</string>
+    <string name="purple">Purpura</string>
+
+    <!-- game stuff -->
+    <string name="canfield_longest_run">Plej longa serio:</string> <!-- also used by golf -->
+
+    <!-- dialog won-->
+    <string name="dialog_win_titel">Gratulon!!</string>
+    <string name="dialog_win_score">Poentaro: %1$d</string>
+    <string name="dialog_win_bonus">Premio: %1$d</string>
+    <string name="dialog_win_total">Tute: %1$d</string>
+
+</resources>

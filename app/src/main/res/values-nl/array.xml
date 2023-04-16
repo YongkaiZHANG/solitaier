@@ -1,0 +1,91 @@
+<resources>
+
+    <string-array name="restart_menu">
+        <item>Nieuw spel starten</item>
+        <item>Spel opnieuw spelen</item>
+        <item>Spelregels</item>
+        <item>Uitloggen</item>
+    </string-array>
+
+    <string-array name="won_menu">
+        <item>Nieuw spel starten</item>
+        <item>Spel opnieuw spelen</item>
+    </string-array>
+
+    <string-array name="pref_orientation_titles">
+        <item>Systeem instellingen volgen</item>
+        <item>Portrait</item>
+        <item>Landschap</item>
+        <item>Landscape omgedraaid</item>
+    </string-array>
+
+    <string-array name="pref_spider_difficulty_titles">
+        <item>1 (Beginneling)</item>
+        <item>2 (Middel)</item>
+        <item>4 (Zwaar)</item>
+    </string-array>
+
+    <string-array name="pref_draw_titles">
+        <item>Trek 1</item>
+        <item>Trek 3</item>
+    </string-array>
+
+    <string-array name="pref_pyramid_difficulty_titles">
+        <item>Licht: Spel is gewonnen, wanneer het speelveld leeg is.</item>
+        <item>Zwaar: Spel is gewonnen, wanneer speelveld en hoofdstapel leeg zijn.</item>
+    </string-array>
+
+    <string-array name="pref_language_titles">
+        <item>Standaard taal</item>
+        <item>Duits</item>
+        <item>Engels</item>
+        <item>Esperanto</item>
+        <item>Fins</item>
+        <item>Frans</item>
+        <item>Japans</item>
+        <item>Nederlands</item>
+        <item>Pools</item>
+        <item>Turks</item>
+    </string-array>
+
+    <string-array name="pref_language_values">
+        <item>default</item>
+        <item>de</item>
+        <item>en</item>
+        <item>eo</item>
+        <item>fi</item>
+        <item>fr</item>
+        <item>ja</item>
+        <item>nl</item>
+        <item>pl</item>
+        <item>tr</item>
+    </string-array>
+
+    <string-array name="pref_yukon_rules_titles">
+        <item>unterschiedliche Farben (Standard)</item>
+        <item>selbe Familie (Russian Solitare)</item>
+    </string-array>
+
+    <string-array name="pref_movement_speed_titles">
+        <item>Zeer langzaam</item>
+        <item>Langzaam</item>
+        <item>Normaal</item>
+        <item>Snel</item>
+    </string-array>
+
+    <string-array name="pref_win_sounds_titles">
+        <item>Standaard</item>
+        <item>Piano</item>
+        <item>8-Bit Stem \"You win\"</item>
+        <item>Jubelende menigte</item>
+    </string-array>
+
+    <string-array name="pref_background_musics_titles">
+        <item>Afzetten</item>
+        <item>Melodie 1</item>
+        <item>Melodie 2</item>
+        <item>Melodie 3</item>
+        <item>Muziekbox</item>
+    </string-array>
+
+</resources>

@@ -1,0 +1,560 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2" xmlns:ns2="http://schemas.android.com/tools">
+    <string-array name="pref_background_musics_titles">
+        <item>使用禁止</item>
+        <item>楽想1</item>
+        <item>楽想2</item>
+        <item>楽想3</item>
+        <item>オルゴール</item>
+    </string-array>
+    <string-array name="pref_draw_titles">
+        <item>ドロー 1</item>
+        <item>ドロー 3</item>
+    </string-array>
+    <string-array name="pref_language_titles">
+        <item>デフォルト言語</item>
+        <item>英語</item>
+        <item>ドイツ語</item>
+        <item>日本語</item>
+        <item>エスペラント</item>
+        <item>ポーランド語</item>
+        <item>フランス語</item>
+        <item>フィンランド語</item>
+        <item>トルコ語</item>
+    </string-array>
+    <string-array name="pref_language_values">
+        <item>default</item>
+        <item>en</item>
+        <item>de</item>
+        <item>ja</item>
+        <item>eo</item>
+        <item>pl</item>
+        <item>fr</item>
+        <item>fi</item>
+        <item>tr</item>
+    </string-array>
+    <string-array name="pref_movement_speed_titles">
+        <item>非常にゆっくりと</item>
+        <item>ゆっくり</item>
+        <item>ノーマル</item>
+        <item>速い</item>
+    </string-array>
+    <string-array name="pref_orientation_titles">
+        <item>システム設定に従う</item>
+        <item>縦向き</item>
+        <item>横向き</item>
+        <item>横向き上下反転</item>
+    </string-array>
+    <string-array name="pref_pyramid_difficulty_titles">
+        <item>簡単: 場札が空のときにゲームに勝ち</item>
+        <item>難しい: 場札と山札が空のときに勝ち</item>
+    </string-array>
+    <string-array name="pref_spider_difficulty_titles">
+        <item>1 (簡単)</item>
+        <item>2 (中)</item>
+        <item>4 (難しい)</item>
+    </string-array>
+    <string-array name="pref_win_sounds_titles">
+        <item>デフォルト</item>
+        <item>ピアノ</item>
+        <item>8ビットの音声 "あなたが勝つ"</item>
+        <item>応援している群衆</item>
+    </string-array>
+    <string-array name="pref_yukon_rules_titles">
+        <item>異なる色（デフォルト）</item>
+        <item>同じカードファミリー（ロシアソリティア）</item>
+    </string-array>
+    <string-array name="restart_menu">
+        <item>新しいゲームを開始する</item>
+        <item>カードをもう一度配る</item>
+        <item>ゲームのルール</item>
+        <item>メインメニューに戻る</item>
+    </string-array>
+    <string-array name="won_menu">
+        <item>新しいゲームを開始する</item>
+        <item>カードをもう一度配る</item>
+        <item>メインメニューに戻る</item>
+    </string-array>
+    <plurals name="mtrl_badge_content_description">
+    <item quantity="one">%d 件の新しい通知</item>
+    <item quantity="other">%d 件の新しい通知</item>
+  </plurals>
+    <string name="Settings_background_music">バックグラウンドミュージック</string>
+    <string name="Settings_background_volume">バックグラウンドミュージックボリューム</string>
+    <string name="Settings_sound">ゲームでサウンドを有効にする</string>
+    <string name="Settings_sounds_text">サウンドを有効にし、異なるサウンドエフェクトを設定する</string>
+    <string name="Settings_sounds_title">サウンド</string>
+    <string name="Settings_win_sound_title">勝利効果</string>
+    <string msgid="5976598919945601918" name="abc_action_bar_home_description">"ホームに戻る"</string>
+    <string msgid="8388173803310557296" name="abc_action_bar_up_description">"前に戻る"</string>
+    <string msgid="3937310113216875497" name="abc_action_menu_overflow_description">"その他のオプション"</string>
+    <string msgid="4692188335987374352" name="abc_action_mode_done">"完了"</string>
+    <string msgid="1189761859438369441" name="abc_activity_chooser_view_see_all">"すべて表示"</string>
+    <string msgid="2165779757652331008" name="abc_activitychooserview_choose_application">"アプリの選択"</string>
+    <string msgid="4215997306490295099" name="abc_capital_off">"OFF"</string>
+    <string msgid="884982626291842264" name="abc_capital_on">"ON"</string>
+    <string msgid="8833365367933412986" name="abc_menu_alt_shortcut_label">"Alt+"</string>
+    <string msgid="2223301931652355242" name="abc_menu_ctrl_shortcut_label">"Ctrl+"</string>
+    <string msgid="838001238306846836" name="abc_menu_delete_shortcut_label">"Delete"</string>
+    <string msgid="7986526966204849475" name="abc_menu_enter_shortcut_label">"Enter"</string>
+    <string msgid="375214403600139847" name="abc_menu_function_shortcut_label">"Function+"</string>
+    <string msgid="4192209724446364286" name="abc_menu_meta_shortcut_label">"Meta+"</string>
+    <string msgid="4741552369836443843" name="abc_menu_shift_shortcut_label">"Shift+"</string>
+    <string msgid="5473865519181928982" name="abc_menu_space_shortcut_label">"Space"</string>
+    <string msgid="6180552449598693998" name="abc_menu_sym_shortcut_label">"Sym+"</string>
+    <string msgid="5520303668377388990" name="abc_prepend_shortcut_label">"Menu+"</string>
+    <string msgid="7208076849092622260" name="abc_search_hint">"検索…"</string>
+    <string msgid="3741173234950517107" name="abc_searchview_description_clear">"検索キーワードを削除"</string>
+    <string msgid="693312494995508443" name="abc_searchview_description_query">"検索キーワード"</string>
+    <string msgid="3417662926640357176" name="abc_searchview_description_search">"検索"</string>
+    <string msgid="1486535517437947103" name="abc_searchview_description_submit">"検索キーワードを送信"</string>
+    <string msgid="2293578557972875415" name="abc_searchview_description_voice">"音声検索"</string>
+    <string msgid="8875138169939072951" name="abc_shareactionprovider_share_with">"共有"</string>
+    <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"<ns1:g id="APPLICATION_NAME">%s</ns1:g>と共有"</string>
+    <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"折りたたむ"</string>
+    <string name="about_Text1">開発者 Tobias Bielefeld</string>
+    <string name="about_Text2">私のゲームをプレイしていただきありがとうございます :)</string>
+    <string name="about_build_date">ビルド日</string>
+    <string name="about_custom_color_picker">カスタムカラーピッカー：<a href="https://github.com/yukuku/ambilwarna/blob/master/LICENSE">Apache 2.0</a>
+        ライセンスで公開されている <a href="https://github.com/yukuku/ambilwarna"> AmbilWarnaライブラリ</a> を使用します</string>
+    <string name="about_license_top_text">このゲームは GPL 3.0 ライセンスの下に公開されています:</string>
+    <string name="about_loading">読み込み中…</string>
+    <string name="about_material_icons_text">材料デザインアイコンはGoogle Incによって作成され、
+        <a href="https://github.com/google/material-design-icons/blob/master/LICENSE">Apache 2.0 license</a>ライセンスで公開されています</string>
+    <string name="about_name">ゲームについて</string>
+    <string name="about_pixa_bay_license_text">他のカードとのテーマは、もともと
+        <a href="https://creativecommons.org/publicdomain/zero/1.0/legalcode">CC0</a>ライセンスの下で
+        <a href="www.pixabay.com">pixabay.com</a>に公開されました</string>
+    <string name="about_poker_theme">ポーカーカードのテーマは: Vectorized Playing Cards 2.0 - <a href="https://sourceforge.net/projects/vector-cards/">sourceforge.net</a> -
+        Copyright 2015 - Chris Aguilar - conjurenation@gmail.com - ライセンスを受けた <a href="https://www.gnu.org/licenses/lgpl-3.0.en.html">LGPL 3</a></string>
+    <string name="about_program_code_text">ソースコードはこちらで利用可能です:</string>
+    <string name="about_sounds">すべての音、もともと
+        <a href="https://creativecommons.org/publicdomain/zero/1.0/legalcode">CC0</a>ライセンスの下で
+        <a href="https://freesound.org">freesound.org</a>に公開されました</string>
+    <string name="about_tab_1">情報</string>
+    <string name="about_tab_2">ライセンス</string>
+    <string name="about_tab_3">変更履歴</string>
+    <string name="about_third_party_licenses">第三者のライセンス</string>
+    <string name="about_translations">翻訳</string>
+    <string name="about_translations_esperanto_polish">エスペラントとポーランド語: GitHubのユーザー verdulo</string>
+    <string name="about_translations_finnish">フィンランド語: GitHubのユーザー winjar</string>
+    <string name="about_translations_french">フランス語: GitHubのユーザー romainhk と cicithesquirrel</string>
+    <string name="about_translations_japanese">日本語: GitHubのユーザー naofum</string>
+    <string name="about_translations_turkish">トルコ語: GitHubのユーザー sekmenhuseyin</string>
+    <string name="app_version">バージョン</string>
+    <string name="blue">青</string>
+    <string name="bottomsheet_action_collapse">ボトムシートを閉じる</string>
+    <string name="bottomsheet_action_expand">ボトムシートを開く</string>
+    <string name="bottomsheet_action_expand_halfway">下半分を展開</string>
+    <string name="bottomsheet_drag_handle_clicked">ドラッグ ハンドルをダブルタップしました</string>
+    <string name="bottomsheet_drag_handle_content_description">ドラッグ ハンドル</string>
+    <string name="canfield_longest_run">最長シーケンス:</string>
+    <string name="character_counter_content_description">入力済み文字数: %1$d/%2$d</string>
+    <string name="character_counter_overflowed_content_description">文字数制限を超えています（%1$d/%2$d 文字）</string>
+    <string name="clear_text_end_icon_content_description">テキストを消去</string>
+    <string name="dialog_win_bonus">ボーナス: %1$d</string>
+    <string name="dialog_win_score">スコア: %1$d</string>
+    <string name="dialog_win_titel">おめでとう！</string>
+    <string name="dialog_win_total">合計: %1$d</string>
+    <string name="error_icon_content_description">エラー</string>
+    <string name="exposed_dropdown_menu_content_description">プルダウン メニューを表示</string>
+    <string name="game_auto_complete_text">オートコンプリート</string>
+    <string name="game_cancel">キャンセル</string>
+    <string name="game_close">ゲームを閉じる</string>
+    <string name="game_confirm">確認</string>
+    <string name="game_load_error">データの読み込みに失敗しました。新しいゲームを開始しています…</string>
+    <string name="game_main_menu">メインメニュー</string>
+    <string name="game_manual">マニュアル</string>
+    <string name="game_press_again">もう一度押すと終了します</string>
+    <string name="game_score">スコア</string>
+    <string name="game_time">時間</string>
+    <string name="games_AcesUp">エースアップ</string>
+    <string name="games_Canfield">カンフィールド</string>
+    <string name="games_FortyEight">フォーティ&amp;エイト</string>
+    <string name="games_Freecell">フリーセル</string>
+    <string name="games_Golf">ゴルフ</string>
+    <string name="games_GrandfathersClock">祖父の時計</string>
+    <string name="games_Gypsy">ジプシー</string>
+    <string name="games_Klondike">クロンダイク</string>
+    <string name="games_Pyramid">ピラミッド</string>
+    <string name="games_SimpleSimon">シンプルシモン</string>
+    <string name="games_Spider">スパイダー</string>
+    <string name="games_TriPeaks">トリピーク</string>
+    <string name="games_Vegas">ベガス</string>
+    <string name="games_Yukon">ユーコン</string>
+    <string name="games_mod3">Mod3</string>
+    <string name="green">緑</string>
+    <string name="icon_content_description">ダイアログ アイコン</string>
+    <string name="item_view_role_description">タブ</string>
+    <string name="landscape">横向き</string>
+    <string name="manual_AcesUp_objective">エース以外のすべてのカードを組札に置き、
+        残りのエースがそれぞれ場札に1枚あります。</string>
+    <string name="manual_AcesUp_rules">山の一番上のカードだけを移動できます。
+        同じマークで他の一番上のカードよりも小さい数のカードを組札に移動します。
+        例えば: 2つの場札にハートの5とハートの10があります。
+        その場合ハートの5を組札に移動できます。エースは他のすべてのカードよりも大きい数になります。
+        \n\n移動できるカードはすべて、空の場札に置くことができます。
+        \n\n山札を押して、1つのカードをそれぞれの場札に配ります。</string>
+    <string name="manual_AcesUp_scoring">カードを組札に移動: +50</string>
+    <string name="manual_AcesUp_structure">52枚のカードを1組。\n\n4列の場札、1列の山札、1列の組札。
+        \n\nエースは14の数になるので、キングより大きい数になります。</string>
+    <string name="manual_Canfield_objective">組札に、同じマークのカードをそれぞれ昇順に並べます。</string>
+    <string name="manual_Canfield_rules">カードは降順に、交互に色を場札に置くことができます。
+        一連のカード全体を一度に移動できます。 組札は、同じマークのカードを昇順にしか置くことができません。
+        \n\n空の場札には予備の積み荷からカードが入っています。 予約が空の場合、メインスタックのカードが使用されます。
+        \n\n基礎スタックに描かれた最初のカードの値は、空の基礎フィールドに配置できるカードを指定します。
+        例：ハート10が基礎スタックに引き込まれた場合、値10のカードのみが空の基礎フィールドに置くことができます。
+        しかし基礎スタックのカードはサイクリックに置くことができるので、王にエースを置くことも可能です
+        \n\n山札を押すことで、カードは使用できる場所から捨て札に移動します。
+        カードの数は、選んだ設定によって異なります。 \"ドロー 1\" が選択されている場合、
+        1枚のカードだけが移動されます（これはゲームを簡単にプレイするためのデフォルト設定です）。
+        \"ドロー 3\" を有効にすると、一度に3枚のカードが移動されます。\n\n山札が空の場合、それを押して、
+        捨て札からすべてのカードを山札に移動して、もう一度使用できます。</string>
+    <string name="manual_Canfield_scoring">場札から組札へ: +60\n\n捨て札から組札へ: +45
+        \n\n組札から場札へ: -75\n\nカードをめくる: +25
+        \n\n捨て札からすべてのカードを山札に戻す: -200</string>
+    <string name="manual_Canfield_structure">52枚のカードを1組。\n\n4列の場札、4列の組札、
+        1列の山札と1列の捨て札1つの予備。</string>
+    <string name="manual_FortyEight_objective">同じマークのすべてのカードを組札に昇順で並べる。</string>
+    <string name="manual_FortyEight_rules">カードは同じマークの降順で場札に置くことができます。
+        組札に、対応するマークの昇順にしかカードを置くことができません。
+
+        \n\n利用可能な空きの山（組札とマス）に、一度に多くのカードを（正しい順序で）移動できます。
+        これは、一度に1枚のカードしか移動できないというルールに対応していますが、
+        空きの山がある場合は、最初に空きの山に移動してから目的の山に移動できます。
+
+        \n\nすべてのカードは空の場札に置くことができ、エースだけは空の組札に置くことができます。
+        \n\n山札を押すと、1枚のカードが捨て札に移動し、そこからカードをプレイすることができます。
+        \n\n山札が空の場合、それを押して、捨て札からすべてのカードを山札に戻して再び使用することができます。
+        しかし、これはゲームで一度だけ可能です。 残りの量は山札の上に小さい数字で表示されます。</string>
+    <string name="manual_FortyEight_scoring">カードを組札に移動: +45\n\nカードを場札に戻す: -60
+        \n\nカードを捨て札から場札に移動: +60\n\nカードを捨て札から山札に戻す: -200</string>
+    <string name="manual_FortyEight_structure">52枚のカードを2組。\n\n8列の場札、8列の組札、
+        1列の山札、1列の捨て札。\n\nゲーム内で一度だけ、捨て札からのカードを山札に戻することができます。\n\n</string>
+    <string name="manual_Freecell_objective">組札に、同じマークのカードをそれぞれ昇順に並べます。</string>
+    <string name="manual_Freecell_rules">カードは降順に、交互に色を場札に置くことができます。
+        組札は、同じマークのカードを昇順にしか置くことができません。
+        上の4つのマスには、一度に1枚のカードしか入れることができません。
+        \n\n利用可能な空きの山（組札とマス）に、一度に多くのカードを（正しい順序で）移動できます。 
+        これは、一度に1枚のカードしか移動できないというルールに対応していますが、
+        空きの山がある場合は、最初に空きの山に移動してから目的の山に移動できます。
+        \n\nそれぞれのカードは 空きの場札とマスに置くことができます。 エースは空きの組札に置くことができます。</string>
+    <string name="manual_Freecell_scoring">カードを組札に移動: +60\n\nカードを組札から移動:
+        -75\n\nキングを空きフィールドに移動: +20</string>
+    <string name="manual_Freecell_structure">52枚のカードを1組。\n\n8列の場札、4列の組札、
+        4列の空きマス。</string>
+    <string name="manual_Golf_objective">すべてのカードを場札から捨て札に移動します。</string>
+    <string name="manual_Golf_rules">札のすべての一番上のカードを使用してプレイすることができます。
+        カードは、色に関係なく、捨て札にのみ昇順または降順に置くことができます。
+        \n\n設定に応じて、エースの上にキングを置くことも、その逆も可能です (より簡単なゲームプレイ)。
+        \n\nカードを移動できない場合は、山札を押して、1枚のカードを捨て札に配ります。</string>
+    <string name="manual_Golf_scoring">カードを捨て札に移動: +50</string>
+    <string name="manual_Golf_structure">52枚のカードを1組。\n\n7列の場札、1列の山札、1列の捨て札。
+        \n\n捨て札からカードを山札に戻すことはできません (元に戻すボタンを使用する場合を除き)。</string>
+    <string name="manual_GrandfathersClock_objective">組札に、同じマークのカードをそれぞれ昇順に並べます。
+        最後に、財団のカードの値は時計の値と一致します。</string>
+    <string name="manual_GrandfathersClock_rules">カードは降順に、色を場札に置くことできます、色は関係ありません。
+         組札に、対応するマークの昇順にしかカードを置くことができません。しかし、エースは王の上に置くことができます。
+
+        \n\n利用可能な空きの山（組札とマス）に、一度に多くのカードを（正しい順序で）移動できます。
+        これは、一度に1枚のカードしか移動できないというルールに対応していますが、
+        空きの山がある場合は、最初に空きの山に移動してから目的の山に移動できます。
+       </string>
+    <string name="manual_GrandfathersClock_scoring">場札から組札へ: +50</string>
+    <string name="manual_GrandfathersClock_structure">52枚のカードを1組。\n\n8列の場札、12列の組札時計の形で.
+        各基礎スタックには既に1枚のカードが含まれています</string>
+    <string name="manual_Gypsy_objective">同じマークのすべてのカードを組札に昇順で並べる。</string>
+    <string name="manual_Gypsy_rules">カードは降順に、交互に色を場札に置くことができます。
+        正しい順序のカード全体を一度に移動することができます。
+        組札は、同じマークのカードを昇順にしか置くことができません。
+        \n\nすべてのカードは空の場札に置くことができ、エースだけは空の組札に置くことができます。
+        \n\n山札を押すと、1枚のカードがそれぞれの場札に移動します。</string>
+    <string name="manual_Gypsy_scoring">カードを組札に移動: +75\n\nカードを組札から場札に移動: -100\n\n
+        カードをめくる: +50</string>
+    <string name="manual_Gypsy_structure">52枚のカードを2組。\n\n8列の場札、8列の組札、1列の山札。</string>
+    <string name="manual_Klondike_objective">組札に、同じマークのカードをそれぞれ昇順に並べます。</string>
+    <string name="manual_Klondike_rules">カードは降順に、交互に色を場札に置くことができます。
+        一連のカード全体を一度に移動できます。 組札は、同じマークのカードを昇順にしか置くことができません。
+        \n\nキングは空の場札にのみ置くことができ、エースは空の組札にのみ置くことができます。
+        \n\n山札を押すことで、カードは使用できる場所から捨て札に移動します。
+        カードの数は、選んだ設定によって異なります。 \"ドロー 1\" が選択されている場合、
+        1枚のカードだけが移動されます（これはゲームを簡単にプレイするためのデフォルト設定です）。
+        \"ドロー 3\" を有効にすると、一度に3枚のカードが移動されます。\n\n山札が空の場合、それを押して、
+        捨て札からすべてのカードを山札に移動して、もう一度使用できます。</string>
+    <string name="manual_Klondike_scoring">場札から組札へ: +60\n\n捨て札から組札へ: +45
+        \n\n組札から場札へ: -75\n\nカードをめくる: +25
+        \n\n捨て札からすべてのカードを山札に戻す: -200</string>
+    <string name="manual_Klondike_structure">52枚のカードを1組。\n\n7列の場札、4列の組札、
+        1列の山札と1列の捨て札。</string>
+    <string name="manual_Pyramid_objective">すべてのカードを場札からゴミに移動します。
+        設定に応じて、山札と捨て札のカードもすべてゴミに移動する必要があります。</string>
+    <string name="manual_Pyramid_rules">このゲームには若干異なるルールがあります。
+        別のカードがかぶさっていないすべてのカードをプレイできます。
+        足すと数が13になる2枚のカードをゴミに移動することができます。
+        そうするには、別の空きカードの上にカードを移動します。 両方の数が正しい場合、自動的にゴミに移動されます。
+        \n\n山札と捨て札のカードを使用することもできます。
+        カードの移動が不可能な場合は、これらの山の間の矢印を押して、山札から捨て札にカードを1枚移動します。
+        山札が空の場合は、それまたは矢印をもう一度押して、カードを捨て札から山札に戻します。
+        この動きはゲームで2回しか使用できません。 残りの量は、矢印の上に小さな数字で表示されます。</string>
+    <string name="manual_Pyramid_scoring">カードをゴミに移動: +50
+        \n\nすべてのカードを捨て札から山札に戻す: -200</string>
+    <string name="manual_Pyramid_structure">52枚のカードを1組。\n\n28列の場札、1列の山札、1列の捨て札、1
+        列のゴミ山。\n\nゲームの中で2回だけ捨て札からのカードを、山札に戻すことができます。</string>
+    <string name="manual_SimpleSimon_objective">場札の任意の場所に、すべて降順に同じマークのカードを置きます。
+        完成した一連のカードは自動的に組札に移されます。</string>
+    <string name="manual_SimpleSimon_rules">カードは、任意のカードの上に降順に置くことができます。
+        しかし、本当に同じマークのカードの並びだけを一度に移動することができます。
+        \n\nそれぞれのカードは、空の場札に置くことができます。</string>
+    <string name="manual_SimpleSimon_scoring">同じマークのカードを組札に移動: +200</string>
+    <string name="manual_SimpleSimon_structure">52枚のカードを1組。\n\n10列の場札と8列の組札。</string>
+    <string name="manual_Spider_objective">場札の任意の場所に、すべて降順に同じマークのカードを置きます。
+        完成した一連のカードは自動的に組札に移されます。</string>
+    <string name="manual_Spider_rules">カードは、任意のカードの上に降順に置くことができます。
+        しかし、本当に同じマークのカードの並びだけを一度に移動することができます。
+        \n\nそれぞれのカードは、空の場札に置くことができます。
+        \n\n山札を押すと、一度に1枚のカードをそれぞれの場札に配ります。</string>
+    <string name="manual_Spider_scoring">同じマークのカードを組札に移動: +200
+        カードをめくる: +25</string>
+    <string name="manual_Spider_structure">52枚のカードを2組。\n\n10列の場札と8列の組札。
+        \n\n1列の山札を、5組に分ける。\n\n設定に応じて: 1、2または4つの異なるカードのマーク。</string>
+    <string name="manual_TriPeaks_objective">すべてのカードを場札から捨て札に移動します。</string>
+    <string name="manual_TriPeaks_rules">このゲームのルールは \"ゴルフ\" に似ています。
+        別のカードが上がかぶさっていないすべてのカードをプレイに使用することができます。
+        カードは、色に関係なく、捨て札にのみ昇順または降順に置くことができます。
+        \n\nまた、エースの上にキングをプレイすることも、その逆も可能です。
+        \n\nカードを移動できない場合は、山札を押して、1枚のカードを捨て札に配ります。</string>
+    <string name="manual_TriPeaks_scoring">カードを捨て札に移動: +50</string>
+    <string name="manual_TriPeaks_structure">52枚のカードを1組。\n\n28列の場札、1列の山札、1列の捨て札。
+        \n\n捨て札からカードを山札に戻すことはできません (元に戻すボタンを使用する場合を除き)。</string>
+    <string name="manual_Vegas_objective">より多くのお金を得るために基盤にカードを再生します。</string>
+    <string name="manual_Vegas_rules">このルールは、「クローンディケ」ルールと同じです。
+        \n\nカードは降順に、交互に色を場札に置くことができます。
+        一連のカード全体を一度に移動できます。 組札は、同じマークのカードを昇順にしか置くことができません。
+        \n\nキングは空の場札にのみ置くことができ、エースは空の組札にのみ置くことができます。
+        \n\n山札を押すことで、カードは使用できる場所から捨て札に移動します。
+        カードの数は、選んだ設定によって異なります。 \"ドロー 1\" が選択されている場合、
+        1枚のカードだけが移動されます。
+        \"ドロー 3\" を有効にすると、一度に3枚のカードが移動されます。\n\n山札が空の場合、それを押して、
+        捨て札からすべてのカードを山札に移動して、もう一度使用できます。</string>
+    <string name="manual_Vegas_scoring">あなたが勝つお金の金額は、あなたが設定で設定した賭けに依存します..あなたは例えば支払う。
+        50 $で、ベットの1/10を勝利したファンデーションにプレーされたすべてのカードで。
+        \n\nスコアが0を超えると、ゲームは勝利として保存されます。基礎からのプレイバックカードは、賭け金の2/10を負担します。
+        \n\nヒントまたは元に戻す機能を使用すると、賭け金の1/10もかかります。
+        \n\n免責事項：あなたはこのゲームで本当のお金のために遊んでいない :)</string>
+    <string name="manual_Vegas_structure">@string/manual_Klondike_structure</string>
+    <string name="manual_Yukon_objective">組札に、同じマークのカードをそれぞれ昇順に並べます。</string>
+    <string name="manual_Yukon_rules">カードは降順に、交互に色を場札に置くことができます。
+        組札は、同じマークのカードを昇順にしか置くことができません。
+        \n\n何枚のカードでも、カード上の順序に、上向きのカードを移動することができます。
+        \n\nキングは空の場札にのみ置くことができ、エースは空の組札にのみ置くことができます。</string>
+    <string name="manual_Yukon_scoring">場札から組札に: +60\n\n組札から場札に:
+        -75\n\nキングを空のフィールドに移動: +20\n\nカードをめくる: +25</string>
+    <string name="manual_Yukon_structure">52枚のカードを1組。\n\n7列の場札、4列の組札。</string>
+    <string name="manual_back_to_game">ゲームに戻る</string>
+    <string name="manual_bonus">ゲームに勝った後、あなたはボーナスを得る：速く勝つほど、ボーナスは高くなる。</string>
+    <string name="manual_feedback">フィードバック</string>
+    <string name="manual_feedback_text">バグやエラーを見つけましたか? 何か改善すべきことがありますか?
+        コレクションに別のゲームを追加する必要がありますか? 翻訳の手伝いをしたいですか? それとも別のアイデアがありますか?
+        \n\n何かフィードバックをいただけると有難いです。 私に連絡する必要がある場合は、次の2つのオプションを考慮してください:
+        \n\nGitHub上のイシュートラッカーを使用する: GitHub上のこのアプリのプロジェクトは、問題を報告するための素敵な機能があります。
+        画面の左側にあるボタンをクリックするだけで、インターネットブラウザでイシュートラッカーを開くことができます。
+        \n\nGoogle Playで評価を使用する: このアプリのページで評価を残して、何か書き込んでください。 右側にあるボタンをクリックして
+        Google Playストアを開きます（インストールされている場合）。\n\nご意見をお寄せいただきありがとうございます :)</string>
+    <string name="manual_games">ゲーム</string>
+    <string name="manual_games_text1">仕組み、目的、ルール、スコアの数え方を表示するゲームを選択してください。</string>
+    <string name="manual_general_main_menu">メインメニューの使用は比較的簡単です。 ゲームをタップして起動するだけです。
+        \n\nアプリを一時停止した場合、再起動時に最後にプレイしたゲームが自動的に読み込まれます。
+        この動作は、\"全般\" 設定で無効にすることができます。\n\nまた、\"メインメニュー\" セクションもあり、
+        メニューからゲームを非表示にしたり、より多くのゲームが一つの画面に収まるように列の数を変更することができます。</string>
+    <string name="manual_main_menu">メインメニュー</string>
+    <string name="manual_mod3_objective">場札の上3行にあるすべてのカードを、次の方法で同じ色で順に並べる:
+        \n\n最初の行: 2–5–8–J の順\n次の行: 3–6–9–Q の順\n三番目の行: 4–7–10–K の順\n\nエースは離します。</string>
+    <string name="manual_mod3_rules">山の一番上から一度に1枚のカードしか移動できません。
+        カードは、\"目的\" の下に表示されている順序が正しい場合にのみ置くことができます。
+        たとえば、ハートの5をハートの2の上に置ことができますが、ハートの2が場札の最初の行にある場合に限ります。
+        異なるマークも置くことはできません。
+        \n\nエースを山札の上にあるエース山に移動することで、カードを置くための山を空けることができます。
+        \n\n4番目の行は、山札からのカードの捨て行です。どのカードも4行目のフリースタックに置くことができます。
+        \n\n山札を押すと、4行目のそれぞれのスタックに1枚のカードを配ります。\n\n</string>
+    <string name="manual_mod3_scoring">場札の正しいフィールドにカードを移動: +50\n\n場札の4行目にカードを戻す: -75</string>
+    <string name="manual_mod3_structure">52枚のカードを2組。\n\n32列の場札、1列の山札、1列のエースの山。\n\n</string>
+    <string name="manual_objective">目的</string>
+    <string name="manual_open_github">GitHubリポジトリを開く</string>
+    <string name="manual_open_google_play">Google Playを開く</string>
+    <string name="manual_rules">ルール</string>
+    <string name="manual_scoring">スコアの数え方</string>
+    <string name="manual_startpage">開始ページ</string>
+    <string name="manual_startpage_text">\n\nこのゲームコレクションのマニュアルへようこそ! すべて説明されていることを願っています。
+        \n\n他のマニュアルページにアクセスするには、左側のメニューを使用します。</string>
+    <string name="manual_structure">仕組み</string>
+    <string name="manual_ui">ユーザーインターフェース</string>
+    <string name="manual_ui_text">ゲームは常に、画面の下部（縦向きモード）または右側（横向きモード）に小さなメニューを表示します。
+        また、ゲームの現在のスコアと現在のプレイ時間も表示されます。 可能であれば、これら2つの値がハイスコアリストに保存されます。
+        メニューには5つのアイテムがあり、以下のような効果があります（左から右のボタン）:\n\n\"スコア\" ボタンは、
+        現在のゲームのハイスコアと勝ち数を表示する新しいウィンドウを表示します。 \n\n\"ヒント\" ボタンは、
+        1度に3回までの可能なカードの動きを表示して助けてくれます。 しかし、これは現在のスコアを25減らします。
+        すべてのカードを空のフィールドに移動する、またはメインスタックを押すなどの簡単な動きは、ヒントとして表示されません。
+        ヒントが表示されていない場合、スコアは減りません。\n\n\"メニュー\" ボタンは3つの異なるアクションを表示します:
+        カードを混ぜて新しい札を引き出し、新しいゲームを開始します。 カードをもう一度配ると、混ぜないで同じことが起こります。
+        現在のゲームを再開するようです。 最後のオプションは、現在のゲームを終了し、メインメニューに戻ります。\n\n\"元に戻す\"
+        ボタンは最後の動きを元に戻しますが、これには25ポイント必要です。 これは最大20回まで最後の動きに使用できます。
+        \n\n\"設定\" ボタンは設定メニューを開きます。</string>
+    <string name="material_clock_toggle_content_description">午前または午後を選択</string>
+    <string name="material_hour_24h_suffix">%1$s 時間</string>
+    <string name="material_hour_selection">時刻を選択してください</string>
+    <string name="material_hour_suffix">%1$s時</string>
+    <string name="material_minute_selection">分を選択</string>
+    <string name="material_minute_suffix">%1$s分</string>
+    <string name="material_timepicker_am">AM</string>
+    <string name="material_timepicker_clock_mode_description">時刻を時計で入力するモードに切り替えます。</string>
+    <string name="material_timepicker_hour">時間</string>
+    <string name="material_timepicker_minute">分</string>
+    <string name="material_timepicker_pm">PM</string>
+    <string name="material_timepicker_select_time">時間を選択</string>
+    <string name="material_timepicker_text_input_mode_description">時刻をテキストで入力するモードに切り替えます。</string>
+    <string name="menu_hint">ヒント</string>
+    <string name="menu_main_menu">メニュー</string>
+    <string name="menu_settings">設定</string>
+    <string name="menu_statistics">スコア</string>
+    <string name="menu_undo">元に戻す</string>
+    <string name="mtrl_badge_numberless_content_description">新しい通知</string>
+    <string name="mtrl_chip_close_icon_content_description">%1$s を削除します</string>
+    <string name="mtrl_exceed_max_badge_number_content_description" ns2:ignore="PluralsCandidate">%1$d 件以上の新しい通知</string>
+    <string name="mtrl_picker_a11y_next_month">翌月に変更</string>
+    <string name="mtrl_picker_a11y_prev_month">前月に変更</string>
+    <string name="mtrl_picker_announce_current_selection">現在の選択: %1$s</string>
+    <string name="mtrl_picker_cancel">キャンセル</string>
+    <string name="mtrl_picker_confirm">OK</string>
+    <string name="mtrl_picker_date_header_selected">%1$s</string>
+    <string name="mtrl_picker_date_header_title">日付を選択してください</string>
+    <string name="mtrl_picker_date_header_unselected">選択した日付</string>
+    <string name="mtrl_picker_day_of_week_column_header">曜日の列: %1$s</string>
+    <string name="mtrl_picker_invalid_format">形式が無効です。</string>
+    <string name="mtrl_picker_invalid_format_example">例: %1$s</string>
+    <string name="mtrl_picker_invalid_format_use">使用: %1$s</string>
+    <string name="mtrl_picker_invalid_range">範囲が無効です。</string>
+    <string name="mtrl_picker_navigate_to_year_description">%1$s 年に移動</string>
+    <string name="mtrl_picker_out_of_range">範囲外: %1$s</string>
+    <string name="mtrl_picker_range_header_only_end_selected">開始日～%1$s</string>
+    <string name="mtrl_picker_range_header_only_start_selected">%1$s～終了日</string>
+    <string name="mtrl_picker_range_header_selected">%1$s～%2$s</string>
+    <string name="mtrl_picker_range_header_title">期間を選択してください</string>
+    <string name="mtrl_picker_range_header_unselected">開始日～終了日</string>
+    <string name="mtrl_picker_save">保存</string>
+    <string name="mtrl_picker_text_input_date_hint">日付</string>
+    <string name="mtrl_picker_text_input_date_range_end_hint">終了日</string>
+    <string name="mtrl_picker_text_input_date_range_start_hint">開始日</string>
+    <string name="mtrl_picker_text_input_day_abbr">d</string>
+    <string name="mtrl_picker_text_input_month_abbr">m</string>
+    <string name="mtrl_picker_text_input_year_abbr">y</string>
+    <string name="mtrl_picker_toggle_to_calendar_input_mode">カレンダー入力モードに切り替え</string>
+    <string name="mtrl_picker_toggle_to_day_selection">タップすると、日の選択に切り替わります</string>
+    <string name="mtrl_picker_toggle_to_text_input_mode">テキスト入力モードに切り替え</string>
+    <string name="mtrl_picker_toggle_to_year_selection">タップすると、年の選択に切り替わります</string>
+    <string name="mtrl_timepicker_cancel">キャンセル</string>
+    <string name="mtrl_timepicker_confirm">OK</string>
+    <string name="orange">オレンジ</string>
+    <string name="page_load_error">このゲームのページはありません…</string>
+    <string name="password_toggle_content_description">パスワードを表示</string>
+    <string name="portrait">縦向き</string>
+    <string name="purple">紫</string>
+    <string name="red">赤</string>
+    <string msgid="6264217191555673260" name="search_menu_title">"検索"</string>
+    <string name="settings">設定</string>
+    <string name="settings_4_color_mode_text">青と緑、クラブ、ダイヤモンドの色を変更</string>
+    <string name="settings_4_color_mode_title">4色デッキ</string>
+    <string name="settings_about_description">ライセンスや変更履歴など、ゲームに関する情報を表示します</string>
+    <string name="settings_abstract">無地</string>
+    <string name="settings_additional_movements">追加カードの動き</string>
+    <string name="settings_additional_movements_description">ダブルタップなどの移動方法を有効または無効にする</string>
+    <string name="settings_auto_start_new_game_text">すでに勝利したゲームに戻った場合は自動的に新しいゲームを開始します</string>
+    <string name="settings_auto_start_new_game_title">勝ったら新しいゲームを始める</string>
+    <string name="settings_back_press">ゲームの終了を確認</string>
+    <string name="settings_back_press_description">戻るボタンを２回押すとゲームを終了します</string>
+    <string name="settings_background">背景の番号</string>
+    <string name="settings_background_color">背景の色</string>
+    <string name="settings_background_color_custom">カスタム</string>
+    <string name="settings_basic">基本</string>
+    <string name="settings_canfield_draw">描画するカードの数</string>
+    <string name="settings_cards">カード</string>
+    <string name="settings_cards_back">カードの背景</string>
+    <string name="settings_change_language">言語の変更</string>
+    <string name="settings_classic">クラシック</string>
+    <string name="settings_customization">外観</string>
+    <string name="settings_customization_description">カードと背景をカスタマイズします</string>
+    <string name="settings_double_tap">ダブルタップ</string>
+    <string name="settings_double_tap_all_cards">すべての可能なカードを移動する</string>
+    <string name="settings_double_tap_all_cards_text">スタックからできるだけ多くのカードを移動します。 タッチされたカードだけでなく</string>
+    <string name="settings_double_tap_enable">ダブルタップ移動を有効にする</string>
+    <string name="settings_double_tap_enable_text">カードを2回押すと、次のスタックに移動します</string>
+    <string name="settings_double_tap_foundation_first">最初に基礎スタックに移動する</string>
+    <string name="settings_double_tap_foundation_first_text">他のカードを移動する前に、タップされたスタックの一番上のカードを土台に移動してみてください</string>
+    <string name="settings_games">ゲーム</string>
+    <string name="settings_games_description">"ゲームのバリアントを設定します"</string>
+    <string name="settings_golf_easy">循環的な移動 （より簡単に）</string>
+    <string name="settings_golf_easy_description">エースをキングに置くことを許可する、またはその逆</string>
+    <string name="settings_hide_status_bar">ステータスバーを隠す</string>
+    <string name="settings_icon_theme">アイコンのテーマ</string>
+    <string name="settings_klondike_draw">描画するカードの数</string>
+    <string name="settings_left_handed_mode">左ききモード</string>
+    <string name="settings_left_handed_mode_description">カードと置き場の位置を左側に反転します</string>
+    <string name="settings_limit_number_of_recycles">再取引の数を制限する</string>
+    <string name="settings_limit_number_of_recycles_text">メインスタックへの廃棄物のリサイクルは制限されています</string>
+    <string name="settings_menu">メインメニュー</string>
+    <string name="settings_menu_bar_position">メニューバーの位置</string>
+    <string name="settings_menu_bar_position_bottom">ボトム</string>
+    <string name="settings_menu_bar_position_left">左</string>
+    <string name="settings_menu_bar_position_right">右</string>
+    <string name="settings_menu_bar_position_top">上</string>
+    <string name="settings_menu_columns">列の数</string>
+    <string name="settings_menu_description">列数の変更、ゲームの表示と非表示</string>
+    <string name="settings_menu_games">ゲームの表示と非表示</string>
+    <string name="settings_menu_games_description">メニューに表示されるゲームを選択します</string>
+    <string name="settings_menu_order_set_default">注文をリセットする</string>
+    <string name="settings_menu_order_summary">エントリをロングクリックし、ドラッグアンドドロップを使ってメニューエントリを並べ替えます</string>
+    <string name="settings_menu_order_title">メニュー順</string>
+    <string name="settings_modern">モダン</string>
+    <string name="settings_movement_speed">カードの移動速度</string>
+    <string name="settings_number_of_recycles">リサイクル量</string>
+    <string name="settings_orientation">画面の向き</string>
+    <string name="settings_other">全般</string>
+    <string name="settings_other_description">他のすべての設定を設定します</string>
+    <string name="settings_oxygen_dark">酸素ダーク</string>
+    <string name="settings_oxygen_light">酸素ライト</string>
+    <string name="settings_poker">ポーカー</string>
+    <string name="settings_pyramid_difficulty">難易度</string>
+    <string name="settings_restart_canfield">変更を適用するために新しいカンフィールドゲームを開始します</string>
+    <string name="settings_restart_fortyeight">変更を適用するための新しいフォーティ&amp;エイトゲームを開始します</string>
+    <string name="settings_restart_klondike">変更を適用するために新しいクロンダイクゲームを開始します</string>
+    <string name="settings_restart_spider">  変更を適用するために新しいスパイダーゲームを開始します</string>
+    <string name="settings_restart_vegas">変更を適用するために新しいベガスゲームを始める</string>
+    <string name="settings_restart_yukon">変更を適用するために新しいユーコンゲームを開始します</string>
+    <string name="settings_show_main_menu">メインメニューで開始</string>
+    <string name="settings_show_main_menu_description">開始時に、最後にプレイしたゲームに入りません</string>
+    <string name="settings_show_manual_in_menu">ゲームメニューにマニュアルページ</string>
+    <string name="settings_show_manual_in_menu_description">マニュアルに現在のゲームを開くためのアイテムを表示します</string>
+    <string name="settings_simple">シンプル</string>
+    <string name="settings_single_tap">シングルタップ</string>
+    <string name="settings_single_tap_enable">シングルタップムーブを有効にする</string>
+    <string name="settings_single_tap_enable_text">ゴルフとトリックのみ：カードを一度押して、それを廃棄スタックに移動する</string>
+    <string name="settings_spider_difficulty">異なるカードファミリーの数</string>
+    <string name="settings_tap_to_select">タップ・ツー・セレクト</string>
+    <string name="settings_tap_to_select_enable">タップを有効にしてムーブメントを選択する</string>
+    <string name="settings_tap_to_select_enable_text">カードをタップして選択し、目的のスタックをタップして移動します</string>
+    <string name="settings_vegas_bet_amount">ベット額</string>
+    <string name="settings_vegas_bet_amount_progress_text">最初の取引には%1$d$がかかり、基金に支払われた各カードは%2$d$を獲得します。</string>
+    <string name="settings_vegas_bet_amount_summary">最初の取引：-%1$d$、基金：+%2$d$</string>
+    <string name="settings_yukon_rules">カードを置く…</string>
+    <string name="statistics_button_delete">すべてのエントリーを削除!</string>
+    <string name="statistics_button_delete_text">このゲームのすべてのエントリーを削除します! よろしいですか?</string>
+    <string name="statistics_button_deleted_all_entries">すべてのエントリーを削除しました</string>
+    <string name="statistics_date">日付</string>
+    <string name="statistics_text_won_games">%2$d試合のうち%1$d勝利</string>
+    <string name="statistics_time_of_day">時刻</string>
+    <string name="statistics_win_percentage">勝率： %1$.0f%%</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="title_activity_manual">マニュアル</string>
+    <string name="title_activity_settings">設定</string>
+    <string name="title_activity_statistics">ハイスコア</string>
+    <string name="yellow">黄</string>
+</resources>

@@ -1,0 +1,606 @@
+[
+    {
+        "merged": "be.kuleuven.drsolitaire.app-merged_res-40:/drawable-pl-nodpi_backgrounds_menu.png.flat",
+        "source": "be.kuleuven.drsolitaire.app-main-42:/drawable-pl-nodpi/backgrounds_menu.png"
+    },
+    {
+        "merged": "be.kuleuven.drsolitaire.app-merged_res-40:/raw_card_set2.mp3.flat",
+        "source": "be.kuleuven.drsolitaire.app-main-42:/raw/card_set2.mp3"
+    },
+    {
+        "merged": "be.kuleuven.drsolitaire.app-merged_res-40:/drawable-eo-nodpi_backgrounds_menu.png.flat",
+        "source": "be.kuleuven.drsolitaire.app-main-42:/drawable-eo-nodpi/backgrounds_menu.png"
+    },
+    {
+        "merged": "be.kuleuven.drsolitaire.app-merged_res-40:/xml_pref_other.xml.flat",
+        "source": "be.kuleuven.drsolitaire.app-main-42:/xml/pref_other.xml"
+    },
+    {
+        "merged": "be.kuleuven.drsolitaire.app-merged_res-40:/drawable-nodpi_cards_oxygen_light.png.flat",
+        "source": "be.kuleuven.drsolitaire.app-main-42:/drawable-nodpi/cards_oxygen_light.png"
+    },
+    {
+        "merged": "be.kuleuven.drsolitaire.app-merged_res-40:/drawable_image_border.xml.flat",
+        "source": "be.kuleuven.drsolitaire.app-main-42:/drawable/image_border.xml"
+    },
+    {
+        "merged": "be.kuleuven.drsolitaire.app-merged_res-40:/font_roboto_bold.xml.flat",
+        "source": "be.kuleuven.drsolitaire.app-main-42:/font/roboto_bold.xml"
+    },
+    {
+        "merged": "be.kuleuven.drsolitaire.app-merged_res-40:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "be.kuleuven.drsolitaire.app-main-42:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "be.kuleuven.drsolitaire.app-merged_res-40:/drawable-fr-nodpi_backgrounds_menu.png.flat",
+        "source": "be.kuleuven.drsolitaire.app-main-42:/drawable-fr-nodpi/backgrounds_menu.png"
+    },
+    {
+        "merged": "be.kuleuven.drsolitaire.app-merged_res-40:/layout-land_dialog_settings_cards_background.xml.flat",
+        "source": "be.kuleuven.drsolitaire.app-main-42:/layout-land/dialog_settings_cards_background.xml"
+    },
+    {
+        "merged": "be.kuleuven.drsolitaire.app-merged_res-40:/drawable-nodpi_cards_modern.png.flat",
+        "source": "be.kuleuven.drsolitaire.app-main-42:/drawable-nodpi/cards_modern.png"
+    },
+    {
+        "merged": "be.kuleuven.drsolitaire.app-merged_res-40:/xml_pref_sounds.xml.flat",
+        "source": "be.kuleuven.drsolitaire.app-main-42:/xml/pref_sounds.xml"
+    },
+    {
+        "merged": "be.kuleuven.drsolitaire.app-merged_res-40:/layout-land_dialog_settings_cards.xml.flat",
+        "source": "be.kuleuven.drsolitaire.app-main-42:/layout-land/dialog_settings_cards.xml"
+    },
+    {
+        "merged": "be.kuleuven.drsolitaire.app-merged_res-40:/layout_dialog_background_volume.xml.flat",
+        "source": "be.kuleuven.drsolitaire.app-main-42:/layout/dialog_background_volume.xml"
+    },
+    {
+        "merged": "be.kuleuven.drsolitaire.app-merged_res-40:/drawable-xhdpi_ic_calendar_age.png.flat",
+        "source": "be.kuleuven.drsolitaire.app-main-42:/drawable-xhdpi/ic_calendar_age.png"
+    },
+    {
+        "merged": "be.kuleuven.drsolitaire.app-merged_res-40:/drawable_ic_password_24dp.xml.flat",
+        "source": "be.kuleuven.drsolitaire.app-main-42:/drawable/ic_password_24dp.xml"
+    },
+    {
+        "merged": "be.kuleuven.drsolitaire.app-merged_res-40:/animator_card_from_middle.xml.flat",
+        "source": "be.kuleuven.drsolitaire.app-main-42:/animator/card_from_middle.xml"
+    },
+    {
+        "merged": "be.kuleuven.drsolitaire.app-merged_res-40:/layout_dialog_vegas_bet_amount.xml.flat",
+        "source": "be.kuleuven.drsolitaire.app-main-42:/layout/dialog_vegas_bet_amount.xml"
+    },
+    {
+        "merged": "be.kuleuven.drsolitaire.app-merged_res-40:/drawable_icon_undo.xml.flat",
+        "source": "be.kuleuven.drsolitaire.app-main-42:/drawable/icon_undo.xml"
+    },
+    {
+        "merged": "be.kuleuven.drsolitaire.app-merged_res-40:/xml_pref_games_spider.xml.flat",
+        "source": "be.kuleuven.drsolitaire.app-main-42:/xml/pref_games_spider.xml"
+    },
+    {
+        "merged": "be.kuleuven.drsolitaire.app-merged_res-40:/drawable_window_background.xml.flat",
+        "source": "be.kuleuven.drsolitaire.app-main-42:/drawable/window_background.xml"
+    },
+    {
+        "merged": "be.kuleuven.drsolitaire.app-merged_res-40:/drawable_icon_menu.xml.flat",
+        "source": "be.kuleuven.drsolitaire.app-main-42:/drawable/icon_menu.xml"
+    },
+    {
+        "merged": "be.kuleuven.drsolitaire.app-merged_res-40:/layout-land_activity_game_manager.xml.flat",
+        "source": "be.kuleuven.drsolitaire.app-main-42:/layout-land/activity_game_manager.xml"
+    },
+    {
+        "merged": "be.kuleuven.drsolitaire.app-merged_res-40:/anim_card_fade_in.xml.flat",
+        "source": "be.kuleuven.drsolitaire.app-main-42:/anim/card_fade_in.xml"
+    },
+    {
+        "merged": "be.kuleuven.drsolitaire.app-merged_res-40:/drawable_background_color_red.xml.flat",
+        "source": "be.kuleuven.drsolitaire.app-main-42:/drawable/background_color_red.xml"
+    },
+    {
+        "merged": "be.kuleuven.drsolitaire.app-merged_res-40:/layout_content_game_selector.xml.flat",
+        "source": "be.kuleuven.drsolitaire.app-main-42:/layout/content_game_selector.xml"
+    },
+    {
+        "merged": "be.kuleuven.drsolitaire.app-merged_res-40:/raw_card_return.mp3.flat",
+        "source": "be.kuleuven.drsolitaire.app-main-42:/raw/card_return.mp3"
+    },
+    {
+        "merged": "be.kuleuven.drsolitaire.app-merged_res-40:/layout_preference_widget_layout_cards_background.xml.flat",
+        "source": "be.kuleuven.drsolitaire.app-main-42:/layout/preference_widget_layout_cards_background.xml"
+    },
+    {
+        "merged": "be.kuleuven.drsolitaire.app-merged_res-40:/layout_nav_header_game_selector.xml.flat",
+        "source": "be.kuleuven.drsolitaire.app-main-42:/layout/nav_header_game_selector.xml"
+    },
+    {
+        "merged": "be.kuleuven.drsolitaire.app-merged_res-40:/drawable_cards.png.flat",
+        "source": "be.kuleuven.drsolitaire.app-main-42:/drawable/cards.png"
+    },
+    {
+        "merged": "be.kuleuven.drsolitaire.app-merged_res-40:/layout_fragment_registration_userpassword.xml.flat",
+        "source": "be.kuleuven.drsolitaire.app-main-42:/layout/fragment_registration_userpassword.xml"
+    },
+    {
+        "merged": "be.kuleuven.drsolitaire.app-merged_res-40:/layout_fragment_manual_feedback.xml.flat",
+        "source": "be.kuleuven.drsolitaire.app-main-42:/layout/fragment_manual_feedback.xml"
+    },
+    {
+        "merged": "be.kuleuven.drsolitaire.app-merged_res-40:/drawable-xxhdpi_ic_calendar_age.png.flat",
+        "source": "be.kuleuven.drsolitaire.app-main-42:/drawable-xxhdpi/ic_calendar_age.png"
+    },
+    {
+        "merged": "be.kuleuven.drsolitaire.app-merged_res-40:/layout_activity_login.xml.flat",
+        "source": "be.kuleuven.drsolitaire.app-main-42:/layout/activity_login.xml"
+    },
+    {
+        "merged": "be.kuleuven.drsolitaire.app-merged_res-40:/layout_activty_about.xml.flat",
+        "source": "be.kuleuven.drsolitaire.app-main-42:/layout/activty_about.xml"
+    },
+    {
+        "merged": "be.kuleuven.drsolitaire.app-merged_res-40:/layout-v21_content_register.xml.flat",
+        "source": "be.kuleuven.drsolitaire.app-main-42:/layout-v21/content_register.xml"
+    },
+    {
+        "merged": "be.kuleuven.drsolitaire.app-merged_res-40:/drawable_icon_hint.xml.flat",
+        "source": "be.kuleuven.drsolitaire.app-main-42:/drawable/icon_hint.xml"
+    },
+    {
+        "merged": "be.kuleuven.drsolitaire.app-merged_res-40:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "be.kuleuven.drsolitaire.app-main-42:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "be.kuleuven.drsolitaire.app-merged_res-40:/drawable_background_color_green.xml.flat",
+        "source": "be.kuleuven.drsolitaire.app-main-42:/drawable/background_color_green.xml"
+    },
+    {
+        "merged": "be.kuleuven.drsolitaire.app-merged_res-40:/drawable_icon_score.xml.flat",
+        "source": "be.kuleuven.drsolitaire.app-main-42:/drawable/icon_score.xml"
+    },
+    {
+        "merged": "be.kuleuven.drsolitaire.app-merged_res-40:/drawable_card_highlight.xml.flat",
+        "source": "be.kuleuven.drsolitaire.app-main-42:/drawable/card_highlight.xml"
+    },
+    {
+        "merged": "be.kuleuven.drsolitaire.app-merged_res-40:/drawable_background_color_purple.xml.flat",
+        "source": "be.kuleuven.drsolitaire.app-main-42:/drawable/background_color_purple.xml"
+    },
+    {
+        "merged": "be.kuleuven.drsolitaire.app-merged_res-40:/raw_win_2.mp3.flat",
+        "source": "be.kuleuven.drsolitaire.app-main-42:/raw/win_2.mp3"
+    },
+    {
+        "merged": "be.kuleuven.drsolitaire.app-merged_res-40:/xml_pref_games_forty_eight.xml.flat",
+        "source": "be.kuleuven.drsolitaire.app-main-42:/xml/pref_games_forty_eight.xml"
+    },
+    {
+        "merged": "be.kuleuven.drsolitaire.app-merged_res-40:/layout_fragment_registration_experience.xml.flat",
+        "source": "be.kuleuven.drsolitaire.app-main-42:/layout/fragment_registration_experience.xml"
+    },
+    {
+        "merged": "be.kuleuven.drsolitaire.app-merged_res-40:/menu_drawer_manual.xml.flat",
+        "source": "be.kuleuven.drsolitaire.app-main-42:/menu/drawer_manual.xml"
+    },
+    {
+        "merged": "be.kuleuven.drsolitaire.app-merged_res-40:/drawable-nodpi_backgrounds_cards.png.flat",
+        "source": "be.kuleuven.drsolitaire.app-main-42:/drawable-nodpi/backgrounds_cards.png"
+    },
+    {
+        "merged": "be.kuleuven.drsolitaire.app-merged_res-40:/drawable_shadow_left_to_right.xml.flat",
+        "source": "be.kuleuven.drsolitaire.app-main-42:/drawable/shadow_left_to_right.xml"
+    },
+    {
+        "merged": "be.kuleuven.drsolitaire.app-merged_res-40:/layout_content_login.xml.flat",
+        "source": "be.kuleuven.drsolitaire.app-main-42:/layout/content_login.xml"
+    },
+    {
+        "merged": "be.kuleuven.drsolitaire.app-merged_res-40:/drawable_icon_manual.xml.flat",
+        "source": "be.kuleuven.drsolitaire.app-main-42:/drawable/icon_manual.xml"
+    },
+    {
+        "merged": "be.kuleuven.drsolitaire.app-merged_res-40:/layout_activity_start.xml.flat",
+        "source": "be.kuleuven.drsolitaire.app-main-42:/layout/activity_start.xml"
+    },
+    {
+        "merged": "be.kuleuven.drsolitaire.app-merged_res-40:/drawable_info_icon.xml.flat",
+        "source": "be.kuleuven.drsolitaire.app-main-42:/drawable/info_icon.xml"
+    },
+    {
+        "merged": "be.kuleuven.drsolitaire.app-merged_res-40:/drawable-nodpi_cards_oxygen_dark.png.flat",
+        "source": "be.kuleuven.drsolitaire.app-main-42:/drawable-nodpi/cards_oxygen_dark.png"
+    },
+    {
+        "merged": "be.kuleuven.drsolitaire.app-merged_res-40:/raw_background_music_4.mp3.flat",
+        "source": "be.kuleuven.drsolitaire.app-main-42:/raw/background_music_4.mp3"
+    },
+    {
+        "merged": "be.kuleuven.drsolitaire.app-merged_res-40:/drawable-nodpi_backgrounds_stacks.png.flat",
+        "source": "be.kuleuven.drsolitaire.app-main-42:/drawable-nodpi/backgrounds_stacks.png"
+    },
+    {
+        "merged": "be.kuleuven.drsolitaire.app-merged_res-40:/drawable-nodpi_cards_abstract.png.flat",
+        "source": "be.kuleuven.drsolitaire.app-main-42:/drawable-nodpi/cards_abstract.png"
+    },
+    {
+        "merged": "be.kuleuven.drsolitaire.app-merged_res-40:/menu_menu_registration.xml.flat",
+        "source": "be.kuleuven.drsolitaire.app-main-42:/menu/menu_registration.xml"
+    },
+    {
+        "merged": "be.kuleuven.drsolitaire.app-merged_res-40:/layout_activity_registration.xml.flat",
+        "source": "be.kuleuven.drsolitaire.app-main-42:/layout/activity_registration.xml"
+    },
+    {
+        "merged": "be.kuleuven.drsolitaire.app-merged_res-40:/drawable_circle.xml.flat",
+        "source": "be.kuleuven.drsolitaire.app-main-42:/drawable/circle.xml"
+    },
+    {
+        "merged": "be.kuleuven.drsolitaire.app-merged_res-40:/layout_fragment_manual_user_interface.xml.flat",
+        "source": "be.kuleuven.drsolitaire.app-main-42:/layout/fragment_manual_user_interface.xml"
+    },
+    {
+        "merged": "be.kuleuven.drsolitaire.app-merged_res-40:/drawable_shadow_top_to_bottom.xml.flat",
+        "source": "be.kuleuven.drsolitaire.app-main-42:/drawable/shadow_top_to_bottom.xml"
+    },
+    {
+        "merged": "be.kuleuven.drsolitaire.app-merged_res-40:/layout_fragment_registration_demography.xml.flat",
+        "source": "be.kuleuven.drsolitaire.app-main-42:/layout/fragment_registration_demography.xml"
+    },
+    {
+        "merged": "be.kuleuven.drsolitaire.app-merged_res-40:/drawable-nodpi_backgrounds_menu.png.flat",
+        "source": "be.kuleuven.drsolitaire.app-main-42:/drawable-nodpi/backgrounds_menu.png"
+    },
+    {
+        "merged": "be.kuleuven.drsolitaire.app-merged_res-40:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "be.kuleuven.drsolitaire.app-main-42:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "be.kuleuven.drsolitaire.app-merged_res-40:/drawable-nodpi_card_previews.png.flat",
+        "source": "be.kuleuven.drsolitaire.app-main-42:/drawable-nodpi/card_previews.png"
+    },
+    {
+        "merged": "be.kuleuven.drsolitaire.app-merged_res-40:/layout_fragment_manual_games.xml.flat",
+        "source": "be.kuleuven.drsolitaire.app-main-42:/layout/fragment_manual_games.xml"
+    },
+    {
+        "merged": "be.kuleuven.drsolitaire.app-merged_res-40:/raw_hint.mp3.flat",
+        "source": "be.kuleuven.drsolitaire.app-main-42:/raw/hint.mp3"
+    },
+    {
+        "merged": "be.kuleuven.drsolitaire.app-merged_res-40:/drawable_kuleuvenlogo.png.flat",
+        "source": "be.kuleuven.drsolitaire.app-main-42:/drawable/kuleuvenlogo.png"
+    },
+    {
+        "merged": "be.kuleuven.drsolitaire.app-merged_res-40:/drawable-nodpi_backgrounds_cards_2.png.flat",
+        "source": "be.kuleuven.drsolitaire.app-main-42:/drawable-nodpi/backgrounds_cards_2.png"
+    },
+    {
+        "merged": "be.kuleuven.drsolitaire.app-merged_res-40:/drawable_settings_highlight.xml.flat",
+        "source": "be.kuleuven.drsolitaire.app-main-42:/drawable/settings_highlight.xml"
+    },
+    {
+        "merged": "be.kuleuven.drsolitaire.app-merged_res-40:/xml_pref_games_canfield.xml.flat",
+        "source": "be.kuleuven.drsolitaire.app-main-42:/xml/pref_games_canfield.xml"
+    },
+    {
+        "merged": "be.kuleuven.drsolitaire.app-merged_res-40:/layout_dialog_settings_menu_order.xml.flat",
+        "source": "be.kuleuven.drsolitaire.app-main-42:/layout/dialog_settings_menu_order.xml"
+    },
+    {
+        "merged": "be.kuleuven.drsolitaire.app-merged_res-40:/drawable_shadow_right_to_left.xml.flat",
+        "source": "be.kuleuven.drsolitaire.app-main-42:/drawable/shadow_right_to_left.xml"
+    },
+    {
+        "merged": "be.kuleuven.drsolitaire.app-merged_res-40:/layout_fragment_about_tab2.xml.flat",
+        "source": "be.kuleuven.drsolitaire.app-main-42:/layout/fragment_about_tab2.xml"
+    },
+    {
+        "merged": "be.kuleuven.drsolitaire.app-merged_res-40:/layout_activity_register.xml.flat",
+        "source": "be.kuleuven.drsolitaire.app-main-42:/layout/activity_register.xml"
+    },
+    {
+        "merged": "be.kuleuven.drsolitaire.app-merged_res-40:/xml_my_backup_rules.xml.flat",
+        "source": "be.kuleuven.drsolitaire.app-main-42:/xml/my_backup_rules.xml"
+    },
+    {
+        "merged": "be.kuleuven.drsolitaire.app-merged_res-40:/menu_drawer_game_selector.xml.flat",
+        "source": "be.kuleuven.drsolitaire.app-main-42:/menu/drawer_game_selector.xml"
+    },
+    {
+        "merged": "be.kuleuven.drsolitaire.app-merged_res-40:/anim_button_fade_in.xml.flat",
+        "source": "be.kuleuven.drsolitaire.app-main-42:/anim/button_fade_in.xml"
+    },
+    {
+        "merged": "be.kuleuven.drsolitaire.app-merged_res-40:/drawable_menu_preview_background.xml.flat",
+        "source": "be.kuleuven.drsolitaire.app-main-42:/drawable/menu_preview_background.xml"
+    },
+    {
+        "merged": "be.kuleuven.drsolitaire.app-merged_res-40:/layout_preference_widget_layout_cards.xml.flat",
+        "source": "be.kuleuven.drsolitaire.app-main-42:/layout/preference_widget_layout_cards.xml"
+    },
+    {
+        "merged": "be.kuleuven.drsolitaire.app-merged_res-40:/layout_dialog_background_color.xml.flat",
+        "source": "be.kuleuven.drsolitaire.app-main-42:/layout/dialog_background_color.xml"
+    },
+    {
+        "merged": "be.kuleuven.drsolitaire.app-merged_res-40:/raw_card_set.mp3.flat",
+        "source": "be.kuleuven.drsolitaire.app-main-42:/raw/card_set.mp3"
+    },
+    {
+        "merged": "be.kuleuven.drsolitaire.app-merged_res-40:/layout_fragment_manual_start_page.xml.flat",
+        "source": "be.kuleuven.drsolitaire.app-main-42:/layout/fragment_manual_start_page.xml"
+    },
+    {
+        "merged": "be.kuleuven.drsolitaire.app-merged_res-40:/drawable-hdpi_ic_calendar_age.png.flat",
+        "source": "be.kuleuven.drsolitaire.app-main-42:/drawable-hdpi/ic_calendar_age.png"
+    },
+    {
+        "merged": "be.kuleuven.drsolitaire.app-merged_res-40:/layout_activity_game_selector.xml.flat",
+        "source": "be.kuleuven.drsolitaire.app-main-42:/layout/activity_game_selector.xml"
+    },
+    {
+        "merged": "be.kuleuven.drsolitaire.app-merged_res-40:/layout_app_bar_manual.xml.flat",
+        "source": "be.kuleuven.drsolitaire.app-main-42:/layout/app_bar_manual.xml"
+    },
+    {
+        "merged": "be.kuleuven.drsolitaire.app-merged_res-40:/layout_dialog_settings_menu_columns.xml.flat",
+        "source": "be.kuleuven.drsolitaire.app-main-42:/layout/dialog_settings_menu_columns.xml"
+    },
+    {
+        "merged": "be.kuleuven.drsolitaire.app-merged_res-40:/layout_dialog_settings_cards_background.xml.flat",
+        "source": "be.kuleuven.drsolitaire.app-main-42:/layout/dialog_settings_cards_background.xml"
+    },
+    {
+        "merged": "be.kuleuven.drsolitaire.app-merged_res-40:/raw_background_music_2.mp3.flat",
+        "source": "be.kuleuven.drsolitaire.app-main-42:/raw/background_music_2.mp3"
+    },
+    {
+        "merged": "be.kuleuven.drsolitaire.app-merged_res-40:/font_work_sans_bold.xml.flat",
+        "source": "be.kuleuven.drsolitaire.app-main-42:/font/work_sans_bold.xml"
+    },
+    {
+        "merged": "be.kuleuven.drsolitaire.app-merged_res-40:/xml_pref_games_golf.xml.flat",
+        "source": "be.kuleuven.drsolitaire.app-main-42:/xml/pref_games_golf.xml"
+    },
+    {
+        "merged": "be.kuleuven.drsolitaire.app-merged_res-40:/xml_pref_games_klondike.xml.flat",
+        "source": "be.kuleuven.drsolitaire.app-main-42:/xml/pref_games_klondike.xml"
+    },
+    {
+        "merged": "be.kuleuven.drsolitaire.app-merged_res-40:/raw_win_4.mp3.flat",
+        "source": "be.kuleuven.drsolitaire.app-main-42:/raw/win_4.mp3"
+    },
+    {
+        "merged": "be.kuleuven.drsolitaire.app-merged_res-40:/xml_pref_customize.xml.flat",
+        "source": "be.kuleuven.drsolitaire.app-main-42:/xml/pref_customize.xml"
+    },
+    {
+        "merged": "be.kuleuven.drsolitaire.app-merged_res-40:/layout_fragment_about_tab1.xml.flat",
+        "source": "be.kuleuven.drsolitaire.app-main-42:/layout/fragment_about_tab1.xml"
+    },
+    {
+        "merged": "be.kuleuven.drsolitaire.app-merged_res-40:/drawable_ic_user_24dp.xml.flat",
+        "source": "be.kuleuven.drsolitaire.app-main-42:/drawable/ic_user_24dp.xml"
+    },
+    {
+        "merged": "be.kuleuven.drsolitaire.app-merged_res-40:/xml_pref_headers.xml.flat",
+        "source": "be.kuleuven.drsolitaire.app-main-42:/xml/pref_headers.xml"
+    },
+    {
+        "merged": "be.kuleuven.drsolitaire.app-merged_res-40:/drawable-xhdpi_cards.png.flat",
+        "source": "be.kuleuven.drsolitaire.app-main-42:/drawable-xhdpi/cards.png"
+    },
+    {
+        "merged": "be.kuleuven.drsolitaire.app-merged_res-40:/layout_preference_widget_layout_background_color.xml.flat",
+        "source": "be.kuleuven.drsolitaire.app-main-42:/layout/preference_widget_layout_background_color.xml"
+    },
+    {
+        "merged": "be.kuleuven.drsolitaire.app-merged_res-40:/drawable_background_color_yellow.xml.flat",
+        "source": "be.kuleuven.drsolitaire.app-main-42:/drawable/background_color_yellow.xml"
+    },
+    {
+        "merged": "be.kuleuven.drsolitaire.app-merged_res-40:/drawable_icon_close.xml.flat",
+        "source": "be.kuleuven.drsolitaire.app-main-42:/drawable/icon_close.xml"
+    },
+    {
+        "merged": "be.kuleuven.drsolitaire.app-merged_res-40:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "be.kuleuven.drsolitaire.app-main-42:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "be.kuleuven.drsolitaire.app-merged_res-40:/raw_background_music_1.mp3.flat",
+        "source": "be.kuleuven.drsolitaire.app-main-42:/raw/background_music_1.mp3"
+    },
+    {
+        "merged": "be.kuleuven.drsolitaire.app-merged_res-40:/drawable_icon_time.xml.flat",
+        "source": "be.kuleuven.drsolitaire.app-main-42:/drawable/icon_time.xml"
+    },
+    {
+        "merged": "be.kuleuven.drsolitaire.app-merged_res-40:/drawable_side_nav_bar.xml.flat",
+        "source": "be.kuleuven.drsolitaire.app-main-42:/drawable/side_nav_bar.xml"
+    },
+    {
+        "merged": "be.kuleuven.drsolitaire.app-merged_res-40:/drawable_icon_solve_rate.xml.flat",
+        "source": "be.kuleuven.drsolitaire.app-main-42:/drawable/icon_solve_rate.xml"
+    },
+    {
+        "merged": "be.kuleuven.drsolitaire.app-merged_res-40:/xml_pref_menu.xml.flat",
+        "source": "be.kuleuven.drsolitaire.app-main-42:/xml/pref_menu.xml"
+    },
+    {
+        "merged": "be.kuleuven.drsolitaire.app-merged_res-40:/drawable-nodpi_cards_classic.png.flat",
+        "source": "be.kuleuven.drsolitaire.app-main-42:/drawable-nodpi/cards_classic.png"
+    },
+    {
+        "merged": "be.kuleuven.drsolitaire.app-merged_res-40:/drawable_background_color_orange.xml.flat",
+        "source": "be.kuleuven.drsolitaire.app-main-42:/drawable/background_color_orange.xml"
+    },
+    {
+        "merged": "be.kuleuven.drsolitaire.app-merged_res-40:/layout_app_bar_game_selector.xml.flat",
+        "source": "be.kuleuven.drsolitaire.app-main-42:/layout/app_bar_game_selector.xml"
+    },
+    {
+        "merged": "be.kuleuven.drsolitaire.app-merged_res-40:/drawable-nodpi_no_picture_available.png.flat",
+        "source": "be.kuleuven.drsolitaire.app-main-42:/drawable-nodpi/no_picture_available.png"
+    },
+    {
+        "merged": "be.kuleuven.drsolitaire.app-merged_res-40:/drawable_icon_scores.xml.flat",
+        "source": "be.kuleuven.drsolitaire.app-main-42:/drawable/icon_scores.xml"
+    },
+    {
+        "merged": "be.kuleuven.drsolitaire.app-merged_res-40:/drawable_icon_settings.xml.flat",
+        "source": "be.kuleuven.drsolitaire.app-main-42:/drawable/icon_settings.xml"
+    },
+    {
+        "merged": "be.kuleuven.drsolitaire.app-merged_res-40:/xml_pref_movement_methods.xml.flat",
+        "source": "be.kuleuven.drsolitaire.app-main-42:/xml/pref_movement_methods.xml"
+    },
+    {
+        "merged": "be.kuleuven.drsolitaire.app-merged_res-40:/layout_dialog_settings_menu_bar_position.xml.flat",
+        "source": "be.kuleuven.drsolitaire.app-main-42:/layout/dialog_settings_menu_bar_position.xml"
+    },
+    {
+        "merged": "be.kuleuven.drsolitaire.app-merged_res-40:/raw_win_3.mp3.flat",
+        "source": "be.kuleuven.drsolitaire.app-main-42:/raw/win_3.mp3"
+    },
+    {
+        "merged": "be.kuleuven.drsolitaire.app-merged_res-40:/layout_activty_statistics.xml.flat",
+        "source": "be.kuleuven.drsolitaire.app-main-42:/layout/activty_statistics.xml"
+    },
+    {
+        "merged": "be.kuleuven.drsolitaire.app-merged_res-40:/xml_pref_games_pyramid.xml.flat",
+        "source": "be.kuleuven.drsolitaire.app-main-42:/xml/pref_games_pyramid.xml"
+    },
+    {
+        "merged": "be.kuleuven.drsolitaire.app-merged_res-40:/drawable-nodpi_cards_basic.png.flat",
+        "source": "be.kuleuven.drsolitaire.app-main-42:/drawable-nodpi/cards_basic.png"
+    },
+    {
+        "merged": "be.kuleuven.drsolitaire.app-merged_res-40:/layout_fragment_about_tab3.xml.flat",
+        "source": "be.kuleuven.drsolitaire.app-main-42:/layout/fragment_about_tab3.xml"
+    },
+    {
+        "merged": "be.kuleuven.drsolitaire.app-merged_res-40:/drawable-xxhdpi_cards.png.flat",
+        "source": "be.kuleuven.drsolitaire.app-main-42:/drawable-xxhdpi/cards.png"
+    },
+    {
+        "merged": "be.kuleuven.drsolitaire.app-merged_res-40:/drawable_icon_dashboard.xml.flat",
+        "source": "be.kuleuven.drsolitaire.app-main-42:/drawable/icon_dashboard.xml"
+    },
+    {
+        "merged": "be.kuleuven.drsolitaire.app-merged_res-40:/xml_pref_games_yukon.xml.flat",
+        "source": "be.kuleuven.drsolitaire.app-main-42:/xml/pref_games_yukon.xml"
+    },
+    {
+        "merged": "be.kuleuven.drsolitaire.app-merged_res-40:/drawable-xxxhdpi_cards.png.flat",
+        "source": "be.kuleuven.drsolitaire.app-main-42:/drawable-xxxhdpi/cards.png"
+    },
+    {
+        "merged": "be.kuleuven.drsolitaire.app-merged_res-40:/layout_activity_game_manager.xml.flat",
+        "source": "be.kuleuven.drsolitaire.app-main-42:/layout/activity_game_manager.xml"
+    },
+    {
+        "merged": "be.kuleuven.drsolitaire.app-merged_res-40:/raw_deal_cards.mp3.flat",
+        "source": "be.kuleuven.drsolitaire.app-main-42:/raw/deal_cards.mp3"
+    },
+    {
+        "merged": "be.kuleuven.drsolitaire.app-merged_res-40:/anim_card_fade_out.xml.flat",
+        "source": "be.kuleuven.drsolitaire.app-main-42:/anim/card_fade_out.xml"
+    },
+    {
+        "merged": "be.kuleuven.drsolitaire.app-merged_res-40:/drawable-mdpi_ic_calendar_age.png.flat",
+        "source": "be.kuleuven.drsolitaire.app-main-42:/drawable-mdpi/ic_calendar_age.png"
+    },
+    {
+        "merged": "be.kuleuven.drsolitaire.app-merged_res-40:/layout_dialog_settings_cards.xml.flat",
+        "source": "be.kuleuven.drsolitaire.app-main-42:/layout/dialog_settings_cards.xml"
+    },
+    {
+        "merged": "be.kuleuven.drsolitaire.app-merged_res-40:/layout_fragment_manual_menu.xml.flat",
+        "source": "be.kuleuven.drsolitaire.app-main-42:/layout/fragment_manual_menu.xml"
+    },
+    {
+        "merged": "be.kuleuven.drsolitaire.app-merged_res-40:/drawable-nodpi_cards_simple.png.flat",
+        "source": "be.kuleuven.drsolitaire.app-main-42:/drawable-nodpi/cards_simple.png"
+    },
+    {
+        "merged": "be.kuleuven.drsolitaire.app-merged_res-40:/menu_menu_statistics.xml.flat",
+        "source": "be.kuleuven.drsolitaire.app-main-42:/menu/menu_statistics.xml"
+    },
+    {
+        "merged": "be.kuleuven.drsolitaire.app-merged_res-40:/layout_content_start.xml.flat",
+        "source": "be.kuleuven.drsolitaire.app-main-42:/layout/content_start.xml"
+    },
+    {
+        "merged": "be.kuleuven.drsolitaire.app-merged_res-40:/drawable-ja-nodpi_backgrounds_menu.png.flat",
+        "source": "be.kuleuven.drsolitaire.app-main-42:/drawable-ja-nodpi/backgrounds_menu.png"
+    },
+    {
+        "merged": "be.kuleuven.drsolitaire.app-merged_res-40:/xml_pref_headers_games.xml.flat",
+        "source": "be.kuleuven.drsolitaire.app-main-42:/xml/pref_headers_games.xml"
+    },
+    {
+        "merged": "be.kuleuven.drsolitaire.app-merged_res-40:/animator_card_to_middle.xml.flat",
+        "source": "be.kuleuven.drsolitaire.app-main-42:/animator/card_to_middle.xml"
+    },
+    {
+        "merged": "be.kuleuven.drsolitaire.app-merged_res-40:/drawable_background_color_blue.xml.flat",
+        "source": "be.kuleuven.drsolitaire.app-main-42:/drawable/background_color_blue.xml"
+    },
+    {
+        "merged": "be.kuleuven.drsolitaire.app-merged_res-40:/drawable-nodpi_cards_poker.png.flat",
+        "source": "be.kuleuven.drsolitaire.app-main-42:/drawable-nodpi/cards_poker.png"
+    },
+    {
+        "merged": "be.kuleuven.drsolitaire.app-merged_res-40:/xml_pref_games_vegas.xml.flat",
+        "source": "be.kuleuven.drsolitaire.app-main-42:/xml/pref_games_vegas.xml"
+    },
+    {
+        "merged": "be.kuleuven.drsolitaire.app-merged_res-40:/raw_win_1.mp3.flat",
+        "source": "be.kuleuven.drsolitaire.app-main-42:/raw/win_1.mp3"
+    },
+    {
+        "merged": "be.kuleuven.drsolitaire.app-merged_res-40:/layout_dialog_menu_show_games.xml.flat",
+        "source": "be.kuleuven.drsolitaire.app-main-42:/layout/dialog_menu_show_games.xml"
+    },
+    {
+        "merged": "be.kuleuven.drsolitaire.app-merged_res-40:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "be.kuleuven.drsolitaire.app-main-42:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "be.kuleuven.drsolitaire.app-merged_res-40:/raw_background_music_3.mp3.flat",
+        "source": "be.kuleuven.drsolitaire.app-main-42:/raw/background_music_3.mp3"
+    },
+    {
+        "merged": "be.kuleuven.drsolitaire.app-merged_res-40:/layout_nav_header_manual.xml.flat",
+        "source": "be.kuleuven.drsolitaire.app-main-42:/layout/nav_header_manual.xml"
+    },
+    {
+        "merged": "be.kuleuven.drsolitaire.app-merged_res-40:/layout_text_view.xml.flat",
+        "source": "be.kuleuven.drsolitaire.app-main-42:/layout/text_view.xml"
+    },
+    {
+        "merged": "be.kuleuven.drsolitaire.app-merged_res-40:/drawable_icon_about.xml.flat",
+        "source": "be.kuleuven.drsolitaire.app-main-42:/drawable/icon_about.xml"
+    },
+    {
+        "merged": "be.kuleuven.drsolitaire.app-merged_res-40:/layout_dialog_won.xml.flat",
+        "source": "be.kuleuven.drsolitaire.app-main-42:/layout/dialog_won.xml"
+    },
+    {
+        "merged": "be.kuleuven.drsolitaire.app-merged_res-40:/layout-xlarge_activity_manual.xml.flat",
+        "source": "be.kuleuven.drsolitaire.app-main-42:/layout-xlarge/activity_manual.xml"
+    },
+    {
+        "merged": "be.kuleuven.drsolitaire.app-merged_res-40:/raw_show_autocomplete.mp3.flat",
+        "source": "be.kuleuven.drsolitaire.app-main-42:/raw/show_autocomplete.mp3"
+    },
+    {
+        "merged": "be.kuleuven.drsolitaire.app-merged_res-40:/layout_activity_manual.xml.flat",
+        "source": "be.kuleuven.drsolitaire.app-main-42:/layout/activity_manual.xml"
+    },
+    {
+        "merged": "be.kuleuven.drsolitaire.app-merged_res-40:/drawable_shadow_bottom_to_top.xml.flat",
+        "source": "be.kuleuven.drsolitaire.app-main-42:/drawable/shadow_bottom_to_top.xml"
+    }
+]

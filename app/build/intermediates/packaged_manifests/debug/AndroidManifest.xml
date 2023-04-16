@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="be.kuleuven.drsolitaire"
+    android:versionCode="11"
+    android:versionName="2.5" >
+
+    <uses-sdk
+        android:minSdkVersion="21"
+        android:targetSdkVersion="33" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <permission
+        android:name="be.kuleuven.drsolitaire.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+        android:protectionLevel="signature" />
+
+    <uses-permission android:name="be.kuleuven.drsolitaire.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+
+    <application
+        android:name="be.kuleuven.drsolitaire.MainApplication"
+        android:allowBackup="true"
+        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+        android:debuggable="true"
+        android:fullBackupContent="@xml/my_backup_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:installLocation="auto"
+        android:label="@string/app_name"
+        android:largeHeap="true"
+        android:testOnly="true"
+        android:theme="@style/AppThemeNoActionBar" >
+        <activity
+            android:name="be.kuleuven.drsolitaire.ui.about.AboutActivity"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:label="@string/about_name"
+            android:theme="@style/AppThemeActionBar" />
+        <activity
+            android:name="be.kuleuven.drsolitaire.ui.Statistics"
+            android:label="@string/title_activity_statistics"
+            android:theme="@style/AppThemeActionBar" />
+        <activity
+            android:name="be.kuleuven.drsolitaire.ui.settings.Settings"
+            android:label="@string/title_activity_settings"
+            android:theme="@style/AppThemeActionBar" />
+        <activity
+            android:name="be.kuleuven.drsolitaire.ui.settings.SettingsGames"
+            android:label="@string/settings_games"
+            android:theme="@style/AppThemeActionBar" />
+        <activity android:name="be.kuleuven.drsolitaire.ui.GameManager" />
+        <activity
+            android:name="be.kuleuven.drsolitaire.ui.manual.Manual"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:label="@string/game_manual"
+            android:theme="@style/AppThemeNoActionBar" />
+        <activity
+            android:name="be.kuleuven.drsolitaire.ui.GameSelector"
+            android:label="@string/app_name"
+            android:theme="@style/AppThemeNoActionBar" />
+        <activity
+            android:name="be.kuleuven.drsolitaire.LoginActivity"
+            android:exported="true"
+            android:label="@string/DrSolitaire"
+            android:theme="@style/AppThemeNoActionBar" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="be.kuleuven.drsolitaire.RegistrationActivity"
+            android:label="@string/title_activity_registration"
+            android:theme="@style/AppThemeNoActionBar" >
+        </activity>
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+
+        <provider
+            android:name="androidx.startup.InitializationProvider"
+            android:authorities="be.kuleuven.drsolitaire.androidx-startup"
+            android:exported="false" >
+            <meta-data
+                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+                android:value="androidx.startup" />
+            <meta-data
+                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+                android:value="androidx.startup" />
+            <meta-data
+                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
+                android:value="androidx.startup" />
+        </provider>
+
+        <service
+            android:name="androidx.room.MultiInstanceInvalidationService"
+            android:directBootAware="true"
+            android:exported="false" />
+
+        <receiver
+            android:name="androidx.profileinstaller.ProfileInstallReceiver"
+            android:directBootAware="false"
+            android:enabled="true"
+            android:exported="true"
+            android:permission="android.permission.DUMP" >
+            <intent-filter>
+                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
+            </intent-filter>
+        </receiver>
+    </application>
+
+</manifest>

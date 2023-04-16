@@ -1,0 +1,81 @@
+<resources>
+    <string name="app_name" translatable="false">Dr. Solitaire</string>
+    <string name="app_version">Version</string>
+
+    <string name="portrait">Portrait</string>
+    <string name="landscape">Landscape</string>
+
+    <string name="settings">Settings</string>
+    <string name="game_manual">Manual</string>
+    <string name="game_dashboard">Dashboard</string>
+    <string name="game_time">Time</string>
+    <string name="game_score">Scores</string>
+
+
+
+    <string name="game_cancel">Cancel</string>
+    <string name="game_confirm">Confirm</string>
+    <string name="game_auto_complete_text">Autocomplete</string>
+    <string name="game_press_again">Press again to exit</string>
+    <string name="game_load_error">Loading data failed, starting new game…</string>
+    <string name="game_close">Close game</string>
+    <string name="game_main_menu">Main menu</string>
+
+    <!-- Menu -->
+    <string name="menu_statistics" translatable="false">Dashboard</string>
+    <string name="menu_undo">Undo</string>
+    <string name="menu_hint">Hint</string>
+    <string name="menu_main_menu">Menu</string>
+    <string name="menu_settings">Settings</string>
+
+    <!-- game names -->
+    <string name="games_Klondike">Klondike</string>
+    <string name="games_Freecell">FreeCell</string>
+    <string name="games_Yukon">Yukon</string>
+    <string name="games_Spider">Spider</string>
+    <string name="games_SimpleSimon">SimpleSimon</string>
+    <string name="games_Golf">Golf</string>
+    <string name="games_Pyramid">Pyramid</string>
+    <string name="games_TriPeaks">TriPeaks</string>
+    <string name="games_FortyEight">Forty&amp;Eight</string>
+    <string name="games_AcesUp">AcesUp</string>
+    <string name="games_Gypsy">Gypsy</string>
+    <string name="games_mod3">Mod3</string>
+    <string name="games_Canfield">Canfield</string>
+    <string name="games_GrandfathersClock">GrandfathersClock</string>
+    <string name="games_Vegas">Vegas</string>
+
+
+    <!-- colors -->
+    <string name="blue">Blue</string>
+    <string name="green">Green</string>
+    <string name="red">Red</string>
+    <string name="yellow">Yellow</string>
+    <string name="orange">Orange</string>
+    <string name="purple">Purple</string>
+
+    <!-- game stuff -->
+    <string name="canfield_longest_run">Longest sequence:</string> <!-- also used by golf -->
+
+    <!-- dialog won-->
+    <string name="dialog_win_titel">Congratulation!</string>
+    <string name="dialog_win_score">Score: %1$d</string>
+    <string name="dialog_win_bonus">Bonus: %1$d</string>
+    <string name="dialog_win_total">Total: %1$d</string>
+    <string name="DrSolitaire" translatable="false">Dr. Solitaire</string>
+    <string name="title_activity_login" translatable="false">LoginActivity</string>
+    <string name="title_activity_start" translatable="false">Dr Solitaire</string>
+    <string name="game_seed" translatable="false">GameSeed</string>
+    <string name="registeractivity" translatable="false">Register Activity</string>
+    <string name="title_activity_registration">RegistrationActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <!--dashboard-->
+    <string name="ability_score">Ability Average Score</string>
+    <string name="the_score">NULL</string>
+    <string name="move_accuracy">NULL</string>
+    <string name="move_time">NULL</string>
+    <string name="score_average">NULL</string>
+    <string name="select_accuracy">NULL</string>
+
+</resources>

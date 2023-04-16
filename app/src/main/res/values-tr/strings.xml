@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_version">Versiyon</string>
+
+    <string name="portrait">Dikey</string>
+    <string name="landscape">Yatay</string>
+
+    <string name="settings">Ayarlar</string>
+    <string name="game_manual">Kılavuz</string>
+    <string name="game_score">Puan</string>
+    <string name="game_time">Zaman</string>
+
+
+    <string name="game_cancel">İptal</string>
+    <string name="game_confirm">Onay</string>
+    <string name="game_auto_complete_text">Otomatik Bitir</string>
+    <string name="game_press_again">Çıkmak için tekrar basın</string>
+    <string name="game_load_error">Veri yüklenemedi, yeni oyun başlatılıyor…</string>
+    <string name="game_close">Oyunu kapat</string>
+    <string name="game_main_menu">Ana menü</string>
+
+    <!-- Menu -->
+    <string name="menu_statistics">Puanlar</string>
+    <string name="menu_undo">Geri Al</string>
+    <string name="menu_hint">İpucu</string>
+    <string name="menu_main_menu">Menü</string>
+    <string name="menu_settings">Ayarlar</string>
+
+    <!-- game names -->
+    <string name="games_Klondike">Klondike</string>
+    <string name="games_Freecell">FreeCell</string>
+    <string name="games_Yukon">Yukon</string>
+    <string name="games_Spider">Spider</string>
+    <string name="games_SimpleSimon">SimpleSimon</string>
+    <string name="games_Golf">Golf</string>
+    <string name="games_Pyramid">Pyramid</string>
+    <string name="games_TriPeaks">TriPeaks</string>
+    <string name="games_FortyEight">Forty&amp;Eight</string>
+    <string name="games_AcesUp">AcesUp</string>
+    <string name="games_Gypsy">Gypsy</string>
+    <string name="games_mod3">Mod3</string>
+    <string name="games_Canfield">Canfield</string>
+    <string name="games_GrandfathersClock">GrandfathersClock</string>
+    <string name="games_Vegas">Vegas</string>
+
+
+    <!-- colors -->
+    <string name="blue">Mavi</string>
+    <string name="green">Yeşil</string>
+    <string name="red">Kırmızı</string>
+    <string name="yellow">Sarı</string>
+    <string name="orange">Turuncu</string>
+    <string name="purple">Mor</string>
+
+    <!-- game stuff -->
+    <string name="canfield_longest_run">En uzun dizi:</string> <!-- also used by golf -->
+
+    <!-- dialog won-->
+    <string name="dialog_win_titel">Tebrikler!</string>
+    <string name="dialog_win_score">Puan: %1$d</string>
+    <string name="dialog_win_bonus">Bonus: %1$d</string>
+    <string name="dialog_win_total">Toplam: %1$d</string>
+
+</resources>

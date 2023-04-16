@@ -1,0 +1,203 @@
+{
+  "formatVersion": 1,
+  "database": {
+    "version": 8,
+    "identityHash": "262a871ff001e17501d667a7ee72bbab",
+    "entities": [
+      {
+        "tableName": "GamePlayed",
+        "createSql": "CREATE TABLE IF NOT EXISTS `${TABLE_NAME}` (`id` INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, `personID` INTEGER NOT NULL, `gameTime` INTEGER NOT NULL, `isSolved` INTEGER NOT NULL, `gameseed` INTEGER NOT NULL, `score` INTEGER NOT NULL)",
+        "fields": [
+          {
+            "fieldPath": "id",
+            "columnName": "id",
+            "affinity": "INTEGER",
+            "notNull": true
+          },
+          {
+            "fieldPath": "personID",
+            "columnName": "personID",
+            "affinity": "INTEGER",
+            "notNull": true
+          },
+          {
+            "fieldPath": "gameTime",
+            "columnName": "gameTime",
+            "affinity": "INTEGER",
+            "notNull": true
+          },
+          {
+            "fieldPath": "isSolved",
+            "columnName": "isSolved",
+            "affinity": "INTEGER",
+            "notNull": true
+          },
+          {
+            "fieldPath": "gameseed",
+            "columnName": "gameseed",
+            "affinity": "INTEGER",
+            "notNull": true
+          },
+          {
+            "fieldPath": "score",
+            "columnName": "score",
+            "affinity": "INTEGER",
+            "notNull": true
+          }
+        ],
+        "primaryKey": {
+          "columnNames": [
+            "id"
+          ],
+          "autoGenerate": true
+        },
+        "indices": [],
+        "foreignKeys": []
+      },
+      {
+        "tableName": "Move",
+        "createSql": "CREATE TABLE IF NOT EXISTS `${TABLE_NAME}` (`id` INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, `gameId` INTEGER NOT NULL, `type` TEXT, `timestamp` INTEGER NOT NULL, `time` INTEGER NOT NULL, `accuracy` REAL NOT NULL, `originStack` INTEGER NOT NULL, `destinationStack` INTEGER NOT NULL, `originCard` TEXT, `destinationCard` TEXT, `numberOfCardsMoved` INTEGER NOT NULL, `score` INTEGER NOT NULL, `xCoordinate` REAL NOT NULL, `yCoordinate` REAL NOT NULL, `betaError` INTEGER NOT NULL, `suitError` INTEGER NOT NULL, `rankError` INTEGER NOT NULL, `aceBetaError` INTEGER NOT NULL, `kingBetaError` INTEGER NOT NULL, `noAceOnSuitError` INTEGER NOT NULL, `noKingOnBuildStackError` INTEGER NOT NULL)",
+        "fields": [
+          {
+            "fieldPath": "id",
+            "columnName": "id",
+            "affinity": "INTEGER",
+            "notNull": true
+          },
+          {
+            "fieldPath": "gameid",
+            "columnName": "gameId",
+            "affinity": "INTEGER",
+            "notNull": true
+          },
+          {
+            "fieldPath": "type",
+            "columnName": "type",
+            "affinity": "TEXT",
+            "notNull": false
+          },
+          {
+            "fieldPath": "timestamp",
+            "columnName": "timestamp",
+            "affinity": "INTEGER",
+            "notNull": true
+          },
+          {
+            "fieldPath": "time",
+            "columnName": "time",
+            "affinity": "INTEGER",
+            "notNull": true
+          },
+          {
+            "fieldPath": "accuracy",
+            "columnName": "accuracy",
+            "affinity": "REAL",
+            "notNull": true
+          },
+          {
+            "fieldPath": "originstack",
+            "columnName": "originStack",
+            "affinity": "INTEGER",
+            "notNull": true
+          },
+          {
+            "fieldPath": "destinationstack",
+            "columnName": "destinationStack",
+            "affinity": "INTEGER",
+            "notNull": true
+          },
+          {
+            "fieldPath": "origincard",
+            "columnName": "originCard",
+            "affinity": "TEXT",
+            "notNull": false
+          },
+          {
+            "fieldPath": "destinationcard",
+            "columnName": "destinationCard",
+            "affinity": "TEXT",
+            "notNull": false
+          },
+          {
+            "fieldPath": "numberOfCardsMoved",
+            "columnName": "numberOfCardsMoved",
+            "affinity": "INTEGER",
+            "notNull": true
+          },
+          {
+            "fieldPath": "score",
+            "columnName": "score",
+            "affinity": "INTEGER",
+            "notNull": true
+          },
+          {
+            "fieldPath": "xCoordinate",
+            "columnName": "xCoordinate",
+            "affinity": "REAL",
+            "notNull": true
+          },
+          {
+            "fieldPath": "yCoordinate",
+            "columnName": "yCoordinate",
+            "affinity": "REAL",
+            "notNull": true
+          },
+          {
+            "fieldPath": "betaError",
+            "columnName": "betaError",
+            "affinity": "INTEGER",
+            "notNull": true
+          },
+          {
+            "fieldPath": "suitError",
+            "columnName": "suitError",
+            "affinity": "INTEGER",
+            "notNull": true
+          },
+          {
+            "fieldPath": "rankError",
+            "columnName": "rankError",
+            "affinity": "INTEGER",
+            "notNull": true
+          },
+          {
+            "fieldPath": "aceBetaError",
+            "columnName": "aceBetaError",
+            "affinity": "INTEGER",
+            "notNull": true
+          },
+          {
+            "fieldPath": "kingBetaError",
+            "columnName": "kingBetaError",
+            "affinity": "INTEGER",
+            "notNull": true
+          },
+          {
+            "fieldPath": "noAceOnSuitError",
+            "columnName": "noAceOnSuitError",
+            "affinity": "INTEGER",
+            "notNull": true
+          },
+          {
+            "fieldPath": "noKingOnBuildStackError",
+            "columnName": "noKingOnBuildStackError",
+            "affinity": "INTEGER",
+            "notNull": true
+          }
+        ],
+        "primaryKey": {
+          "columnNames": [
+            "id"
+          ],
+          "autoGenerate": true
+        },
+        "indices": [],
+        "foreignKeys": []
+      }
+    ],
+    "setupQueries": [
+      "CREATE TABLE IF NOT EXISTS room_master_table (id INTEGER PRIMARY KEY,identity_hash TEXT)",
+      "INSERT OR REPLACE INTO room_master_table (id,identity_hash) VALUES(42, \"262a871ff001e17501d667a7ee72bbab\")"
+    ]
+  }
+}

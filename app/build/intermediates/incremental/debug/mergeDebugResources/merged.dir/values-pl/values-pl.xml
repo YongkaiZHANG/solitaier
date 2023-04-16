@@ -1,0 +1,525 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2" xmlns:ns2="http://schemas.android.com/tools">
+    <string-array name="pref_background_musics_titles">
+        <item>Brak</item>
+        <item>Temat 1</item>
+        <item>Temat 2</item>
+        <item>Temat 3</item>
+        <item>Pozytywka</item>
+    </string-array>
+    <string-array name="pref_draw_titles">
+        <item>Rozdaj 1</item>
+        <item>Rozdaj 3</item>
+    </string-array>
+    <string-array name="pref_language_titles">
+        <item>Domyślny</item>
+        <item>Angielski</item>
+        <item>Esperanto</item>
+        <item>Fiński</item>
+        <item>Francuski</item>
+        <item>Japoński</item>
+        <item>Niemiecki</item>
+        <item>Polski</item>
+        <item>Turecki</item>
+    </string-array>
+    <string-array name="pref_language_values">
+        <item>default</item>
+        <item>en</item>
+        <item>eo</item>
+        <item>fi</item>
+        <item>fr</item>
+        <item>ja</item>
+        <item>de</item>
+        <item>pl</item>
+        <item>tr</item>
+    </string-array>
+    <string-array name="pref_movement_speed_titles">
+        <item>Bardzo powolne</item>
+        <item>Powolne</item>
+        <item>Normalne</item>
+        <item>Szybkie</item>
+    </string-array>
+    <string-array name="pref_orientation_titles">
+        <item>Ustawienia systemu</item>
+        <item>Pionowa</item>
+        <item>Pozioma</item>
+        <item>Pozioma do góry nogami</item>
+    </string-array>
+    <string-array name="pref_pyramid_difficulty_titles">
+        <item>Łatwy: gra jest wygrana gdy pole gry jest puste</item>
+        <item>Trudny: gra jest wygrana gdy pole gry i stos są puste</item>
+    </string-array>
+    <string-array name="pref_spider_difficulty_titles">
+        <item>1 (łatwy)</item>
+        <item>2 (średni)</item>
+        <item>4 (trudny)</item>
+    </string-array>
+    <string-array name="pref_win_sounds_titles">
+        <item>Domyślny</item>
+        <item>Pianino</item>
+        <item>8-bitowy głos \"You win\"</item>
+        <item>Oklaski</item>
+    </string-array>
+    <string-array name="pref_yukon_rules_titles">
+        <item>Różne kolory (domyślnie)</item>
+        <item>Ten sam kolor (ruski pasjans)</item>
+    </string-array>
+    <string-array name="restart_menu">
+        <item>Rozpocznij nową grę</item>
+        <item>Ponownie rozdaj karty</item>
+        <item>Zasady gry</item>
+        <item>Powrót do menu głównego</item>
+    </string-array>
+    <string-array name="won_menu">
+        <item>Rozpocznij nową grę</item>
+        <item>Ponownie rozdaj karty</item>
+        <item>Powrót do menu głównego</item>
+    </string-array>
+    <plurals name="mtrl_badge_content_description">
+    <item quantity="one">%d nowe powiadomienie</item>
+    <item quantity="few">%d nowe powiadomienia</item>
+    <item quantity="many">%d nowych powiadomień</item>
+    <item quantity="other">%d nowego powiadomienia</item>
+  </plurals>
+    <string name="Settings_background_music">Muzyka w tle</string>
+    <string name="Settings_background_volume">Głośność muzyki w tle</string>
+    <string name="Settings_sound">Włącz dźwięki w grze</string>
+    <string name="Settings_sounds_text">Włącz dźwięki, ustaw różne efekty dźwiękowe</string>
+    <string name="Settings_sounds_title">Dźwięki</string>
+    <string name="Settings_win_sound_title">Dźwięk wygranej</string>
+    <string msgid="5976598919945601918" name="abc_action_bar_home_description">"Przejdź na stronę główną"</string>
+    <string msgid="8388173803310557296" name="abc_action_bar_up_description">"Przejdź wyżej"</string>
+    <string msgid="3937310113216875497" name="abc_action_menu_overflow_description">"Więcej opcji"</string>
+    <string msgid="4692188335987374352" name="abc_action_mode_done">"Gotowe"</string>
+    <string msgid="1189761859438369441" name="abc_activity_chooser_view_see_all">"Pokaż wszystko"</string>
+    <string msgid="2165779757652331008" name="abc_activitychooserview_choose_application">"Wybierz aplikację"</string>
+    <string msgid="4215997306490295099" name="abc_capital_off">"WYŁ."</string>
+    <string msgid="884982626291842264" name="abc_capital_on">"WŁ."</string>
+    <string msgid="8833365367933412986" name="abc_menu_alt_shortcut_label">"Alt+"</string>
+    <string msgid="2223301931652355242" name="abc_menu_ctrl_shortcut_label">"Ctrl+"</string>
+    <string msgid="838001238306846836" name="abc_menu_delete_shortcut_label">"Delete"</string>
+    <string msgid="7986526966204849475" name="abc_menu_enter_shortcut_label">"Enter"</string>
+    <string msgid="375214403600139847" name="abc_menu_function_shortcut_label">"Funkcyjny+"</string>
+    <string msgid="4192209724446364286" name="abc_menu_meta_shortcut_label">"Meta+"</string>
+    <string msgid="4741552369836443843" name="abc_menu_shift_shortcut_label">"Shift+"</string>
+    <string msgid="5473865519181928982" name="abc_menu_space_shortcut_label">"spacja"</string>
+    <string msgid="6180552449598693998" name="abc_menu_sym_shortcut_label">"Sym+"</string>
+    <string msgid="5520303668377388990" name="abc_prepend_shortcut_label">"Menu+"</string>
+    <string msgid="7208076849092622260" name="abc_search_hint">"Szukaj…"</string>
+    <string msgid="3741173234950517107" name="abc_searchview_description_clear">"Wyczyść zapytanie"</string>
+    <string msgid="693312494995508443" name="abc_searchview_description_query">"Zapytanie"</string>
+    <string msgid="3417662926640357176" name="abc_searchview_description_search">"Szukaj"</string>
+    <string msgid="1486535517437947103" name="abc_searchview_description_submit">"Wyślij zapytanie"</string>
+    <string msgid="2293578557972875415" name="abc_searchview_description_voice">"Wyszukiwanie głosowe"</string>
+    <string msgid="8875138169939072951" name="abc_shareactionprovider_share_with">"Udostępnij przez:"</string>
+    <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"Udostępnij przez: <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"Zwiń"</string>
+    <string name="about_Text1">twórca: Tobias Bielefeld</string>
+    <string name="about_Text2">dziękuję za granie w moją grę :)</string>
+    <string name="about_build_date">Data kompilacji</string>
+    <string name="about_custom_color_picker">Wybierak własnych kolorów: używa <a href="https://github.com/yukuku/ambilwarna">biblioteki AmbilWarna</a>
+        wydanej na <a href="https://github.com/yukuku/ambilwarna/blob/master/LICENSE">licencji Apache 2.0</a></string>
+    <string name="about_license_top_text">Ta gra została wydana na licencji GPL 3.0:</string>
+    <string name="about_loading">Ładowanie…</string>
+    <string name="about_material_icons_text">Ikony \'Material design\' autorstwa Google Inc i wydane na <a href="https://github.com/google/material-design-icons/blob/master/LICENSE">licencji Apache 2.0</a></string>
+    <string name="about_name">O grze</string>
+    <string name="about_pixa_bay_license_text">Inne tematy kart oryginalnie opublikowano na <a href="www.pixabay.com">pixabay.com</a> na <a href="https://creativecommons.org/publicdomain/zero/1.0/legalcode.pl">licencji CC0</a></string>
+    <string name="about_poker_theme">Pokerowy styl kart: Vectorized Playing Cards 2.0 - <a href="https://sourceforge.net/projects/vector-cards/">sourceforge.net</a> -
+        Copyright 2015 - Chris Aguilar - conjurenation@gmail.com - na licencji <a href="https://www.gnu.org/licenses/lgpl-3.0.en.html">LGPL 3</a></string>
+    <string name="about_program_code_text">Kod źródłowy jest dostępny na:</string>
+    <string name="about_sounds">Wszystkie dźwięki zostały oryginalnie opublikowane na <a href="https://freesound.org">freesound.org</a> na <a href="https://creativecommons.org/publicdomain/zero/1.0/legalcode.pl">licencji CC0</a></string>
+    <string name="about_tab_1">Informacje</string>
+    <string name="about_tab_2">Licencja</string>
+    <string name="about_tab_3">Zmiany</string>
+    <string name="about_third_party_licenses">Licencje stron trzecich</string>
+    <string name="about_translations">Tłumaczenia</string>
+    <string name="about_translations_esperanto_polish">Esperanto i Polski: użytkownik GitHuba verdulo</string>
+    <string name="about_translations_finnish">Fiński: użytkownik GitHuba winjar</string>
+    <string name="about_translations_french">Francuski: użytkownicy GitHuba romainhk i cicithesquirrel</string>
+    <string name="about_translations_japanese">Japoński: użytkownik GitHuba naofum</string>
+    <string name="about_translations_turkish">Turecki: użytkownik GitHuba sekmenhuseyin</string>
+    <string name="app_version">Wersja</string>
+    <string name="blue">Niebieski</string>
+    <string name="bottomsheet_action_collapse">Zwiń planszę dolną</string>
+    <string name="bottomsheet_action_expand">Rozwiń planszę dolną</string>
+    <string name="bottomsheet_action_expand_halfway">Rozwiń do połowy</string>
+    <string name="bottomsheet_drag_handle_clicked">Dwukrotnie kliknięto uchwyt do przeciągania</string>
+    <string name="bottomsheet_drag_handle_content_description">Uchwyt do przeciągania</string>
+    <string name="canfield_longest_run">Najdłuższa seria:</string>
+    <string name="character_counter_content_description">%1$d z %2$d znaków</string>
+    <string name="character_counter_overflowed_content_description">Przekroczono limit znaków (%1$d z %2$d)</string>
+    <string name="clear_text_end_icon_content_description">Wyczyść tekst</string>
+    <string name="dialog_win_bonus">Premia: %1$d</string>
+    <string name="dialog_win_score">Punkty: %1$d</string>
+    <string name="dialog_win_titel">Gratulacje!</string>
+    <string name="dialog_win_total">Ogółem: %1$d</string>
+    <string name="error_icon_content_description">Błąd</string>
+    <string name="exposed_dropdown_menu_content_description">Pokaż menu</string>
+    <string name="game_auto_complete_text">Autouzupełnianie</string>
+    <string name="game_cancel">Anuluj</string>
+    <string name="game_close">Zamknij grę</string>
+    <string name="game_confirm">Potwierdź</string>
+    <string name="game_load_error">Wczytywanie danych nie powiodło się, zaczynam nową grę…</string>
+    <string name="game_main_menu">Menu główne</string>
+    <string name="game_manual">Podręcznik</string>
+    <string name="game_press_again">Naciśnij ponownie aby wyjść</string>
+    <string name="game_score">Punkty</string>
+    <string name="game_time">Czas</string>
+    <string name="games_AcesUp">CzteryAsy</string>
+    <string name="games_Canfield">Canfield</string>
+    <string name="games_FortyEight">Czterdzieści&amp;Osiem</string>
+    <string name="games_Freecell">FreeCell</string>
+    <string name="games_Golf">Golf</string>
+    <string name="games_GrandfathersClock">ZegarekDziadka</string>
+    <string name="games_Gypsy">Cygan</string>
+    <string name="games_Klondike">Klondike</string>
+    <string name="games_Pyramid">Piramida</string>
+    <string name="games_SimpleSimon">SimpleSimon</string>
+    <string name="games_Spider">Pająk</string>
+    <string name="games_TriPeaks">TrzyWieże</string>
+    <string name="games_Vegas">Vegas</string>
+    <string name="games_Yukon">Jukon</string>
+    <string name="games_mod3">Mod3</string>
+    <string name="green">Zielony</string>
+    <string name="icon_content_description">Ikona okna</string>
+    <string name="item_view_role_description">Karta</string>
+    <string name="landscape">Poziomo</string>
+    <string name="manual_AcesUp_objective">Umieść wszystkie kart z wyjątkiem asów na stosach bazowych, tak aby tylko jeden as pozostał na każdym polu gry.</string>
+    <string name="manual_AcesUp_rules">Możesz przesunąć tylko górną kartę ze stosu. Przesuń karty, które mają niższą wartość niż inne karty tego samego koloru na stosy bazowe. Przykład: na dwóch polach gry znajduje się kier 5 i kier 10. Możesz przesunąć kier 5 na pole bazowe. Asy mają wyższą wartość niż wszystkie inne karty.
+	\n\nKażdą przesuwalną kartę można umieścić na pustych polach gry.
+	\n\nStuknij w główny stos, aby rozdać po jednej karcie na każdy stos gry.</string>
+    <string name="manual_AcesUp_scoring">Umieszczenie karty na stosie bazowym: +50</string>
+    <string name="manual_AcesUp_structure">! talia po 52 karty.
+	\n\n4 stosy gry, 1 główny i 1 stos bazowy.
+	\n\nAsy mają wartość 14, więc mają większą wartość niż króle.</string>
+    <string name="manual_Canfield_objective">Uszereguj wszystkie karty w rodziny tego samego koloru w kolejności rosnącej na stosach bazowych.</string>
+    <string name="manual_Canfield_rules">Karty można umieszczać na stosach gry w kolejności malejącej i naprzemiennych kolorach. Możesz przenieść całą sekwencję kart naraz. Na stosach bazowych karty można układać tylko w kolejności rosnącej i tego samego koloru.
+	    \n\nPuste pola gry są zapełniane kartami ze stosu rezerwowego. Jeżeli stos rezerwowy jest pusty, karta ze stosu głównego zostanie użyta.
+	    \n\nWartość pierwszej karty położonej na stosie bazowym determinuje jakie karty można kłaść na pozostałych pustych polach bazowych. Przykład: położono 10 kier na puste pole bazowe, więc tylko karty o wartości 10 można kłaść na pozostałych polach bazowych. Ale karty na stosach bazowych można układać cyklicznie, więc możesz położyć asa na króla.
+	    \n\nKlikając główny stos karty trafią do stosu odrzutów, skąd możesz je użyć. Liczba kart zależy od wybranych ustawień. Jeżeli wybrałeś /"Rozdaj 1/", tylko pojedyncza karta zostanie przeniesiona. Przy opcji /"Rozdaj 3/", 3 karty zostaną przeniesione naraz.
+	    \n\nJeżeli stos główny jest pusty, wciąż możesz go kliknąć, aby przenieść wszystkie karty ze stosu odrzutów do stosu głównego i użyć ich ponownie.</string>
+    <string name="manual_Canfield_scoring">Ze stosu gry na bazowy: +60
+		\n\nZe stosu odrzutów na bazowy: +45
+		\n\nZe stosu bazowego na stos gry: -75
+		\n\nOdsłonięcie karty: +25
+		\n\nPrzeniesienie wszystkich kart ze stosu odrzutów do głównego: -200</string>
+    <string name="manual_Canfield_structure">1 talia po 52 karty.
+	\n\n4 stosy gry, 4 stosy bazowe, 1 główny stos, 1 stos odrzutów i 1 rezerwowy.</string>
+    <string name="manual_FortyEight_objective">Uszereguj wszystkie karty w rodziny tego samego koloru w kolejności rosnącej na stosach bazowych.</string>
+    <string name="manual_FortyEight_rules">Karty można kłaść na stosach gry w kolejności malejącej i tego samego koloru kart. Na stosach bazowych karty można układać tylko w kolejności rosnącej i tego samego koloru.
+
+		\n\nMożesz przenieść tyle kart (poprawnie uszeregowanych) jednocześnie, ile jest pustych pól. To odpowiada zasadzie, że możesz przenosić karty pojedynczo, ale jeżeli są dostępne puste komórki, można kartę umieścić w pustej komórce i następnie na docelowym stosie.
+
+		\n\nKażdą kartę można umieścić na pustym polu gry i tylko asy można umieścić na pustych polach bazowych.
+	\n\nKlikając na stos główny, jedna karta zostanie przeniesiona do stosu odrzutów, skąd będziesz mógł ją użyć.
+	\n\nJeżeli stos główny jest pusty, stuknij w niego, aby przenieść wszystkie karty ze stosu odrzutów do stosu głównego i użyć ich ponownie. Ale możesz to zrobić tylko raz w ciągu gry. Pozostała liczba jest wyświetlana jako niewielki numer nad głównym stosem.</string>
+    <string name="manual_FortyEight_scoring">Przeniesienie karty na stos bazowy: +45
+	\n\nPrzeniesienie karty z powrotem na pole gry: -60
+	\n\nPrzeniesienie karty ze stosu odrzutów na pole gry: +60
+	\n\nPrzeniesienie kart ze stosu odrzutów na stos główny: -200</string>
+    <string name="manual_FortyEight_structure">2 talie po 52 karty.
+	\n\n8 stosów gry, 8 stosów bazowych, 1 główny i 1 stos odrzutów.
+	\n\nKarty ze stosu odrzutów można przenieść na stos główny tylko 1 raz podczas gry.</string>
+    <string name="manual_Freecell_objective">Uszereguj wszystkie karty w rodziny tego samego koloru w kolejności rosnącej na stosach bazowych.</string>
+    <string name="manual_Freecell_rules">Karty można kłaść na stosach gry w kolejności malejącej i naprzemiennych kolorach. Na stosach bazowych karty można umieszczać tylko w kolejności rosnącej i tego samego koloru. 4 komórki na górze mogą pomieścić po jednej karcie każda.
+	\n\nMożesz przenieść tyle kart (poprawnie uszeregowanych) jednocześnie, ile jest pustych pól (zarówno komórek i stosów gry). To odpowiada zasadzie, że możesz przenosić karty pojedynczo, ale jeżeli są dostępne puste komórki, można kartę umieścić w pustej komórce i następnie na docelowym stosie.
+	\n\nKażdą kartę można umieścić na pustych polach gry i wolnych komórkach. Asy można umieścić na pustych komórkach bazowych.</string>
+    <string name="manual_Freecell_scoring">Przeniesienie karty na stos bazowy: +60
+	\n\nPrzeniesienie karty ze stosu bazowego: -75
+	\n\nUmieszczenie króla na pustym polu: +20</string>
+    <string name="manual_Freecell_structure">1 talia po 52 karty.
+	\n\n8 stosów gry, 4 stosy bazowe i 4 puste komórki.</string>
+    <string name="manual_Golf_objective">Przenieś wszystkie karty z pola gry na stos odrzutów.</string>
+    <string name="manual_Golf_rules">Każda karta z wierzchu stosu może zostać użyta do gry. Karty można kłaść na stos odrzutów w kolejności rosnącej lub malejącej bez względu na kolor.
+	\n\nZależnie od ustawień, możesz także kłaść króla na asa i odwrotnie (łatwiejsza rozgrywka).
+	\n\nJeżeli nie możesz przesunąć żadnej karty, stuknij w stos główny, aby przenieść jedną kartę do stosu odrzutów.</string>
+    <string name="manual_Golf_scoring">Przeniesienie karty na stos odrzutów: +50</string>
+    <string name="manual_Golf_structure">1 talia po 52 karty.
+	\n\n7 stosów gry, 1 główny i 1 stos odrzutów.
+	\n\nPrzeniesienie kart ze stosu odrzutów do głównego nie jest możliwe (za wyjątkiem użycia przycisku cofnij).</string>
+    <string name="manual_GrandfathersClock_objective">Uszereguj wszystkie karty w rodziny tego samego koloru w kolejności rosnącej na stosach bazowych.
+		Ostatecznie wartości kart powinny odpowiadać wartościom na tarczy zegara.</string>
+    <string name="manual_GrandfathersClock_rules">Karty można uukładać na stosach gry w kolejności malejącej, kolor nie ma znaczenia.
+        Na stosach bazowych karty można układać tylko w kolejności rosnącej i tego samego koloru. Asy można kłaść na króli.
+       \n\nMożesz przenieść tyle kart (poprawnie uszeregowanych) jednocześnie, ile jest pustych pól.
+		To odpowiada zasadzie, że możesz przenosić karty pojedynczo, ale jeżeli są dostępne puste komórki,
+		można kartę umieścić w pustej komórce i następnie na docelowym stosie.</string>
+    <string name="manual_GrandfathersClock_scoring">Ze stosu gry na stos bazowy: +50</string>
+    <string name="manual_GrandfathersClock_structure">1 talia po 52 karty.
+		\n\n8 stosów gry, 12 stosy bazowe tworzące tarczę zegara. Każdy stos bazowy już zawiera jedną kartę.</string>
+    <string name="manual_Gypsy_objective">Uszereguj wszystkie karty w rodziny tego samego koloru w kolejności rosnącej na stosach bazowych.</string>
+    <string name="manual_Gypsy_rules">Karty można umieszczać na stosach gry w kolejności malejącej i naprzemiennych kolorach. Można przenosić całą serię kart naraz. Na stosach bazowych karty można układać tylko w kolejności rosnącej i tego samego koloru.
+	\n\nKażdą kartę można umieścić na pustych polach gry i tylko asy można kłaść na pustych polach bazowych.
+	\n\nPo kliknięciu w główny stos, po jednej karcie zostanie umieszczonej w każdym stosie gry.</string>
+    <string name="manual_Gypsy_scoring">Przeniesienie karty na stos bazowy: +75
+	\n\nPrzeniesienie karty ze stosu bazowego na pole gry: -100
+	\n\nOdkrycie karty: +50</string>
+    <string name="manual_Gypsy_structure">2 talie po 52 karty.
+	\n\n8 stosów gry, 8 stosów bazowych i 1 stos główny.</string>
+    <string name="manual_Klondike_objective">Uszereguj wszystkie karty w rodziny tego samego koloru w kolejności rosnącej na stosach bazowych.</string>
+    <string name="manual_Klondike_rules">Karty można umieszczać na stosach gry w kolejności malejącej i naprzemiennych kolorach. Możesz przenieść całą sekwencję kart naraz. Na stosach bazowych karty można układać tylko w kolejności rosnącej i tego samego koloru.
+	\n\nTylko króli można kłaść na puste pola gry i tylko asy na puste pola bazowe.
+	\n\nKlikając główny stos karty trafią do stosu odrzutów, skąd możesz je użyć. Liczba kart zależy od wybranych ustawień. Jeżeli wybrałeś /"Rozdaj 1/", tylko pojedyncza karta zostanie przeniesiona (to jest domyślne ustawienie, łatwiejsze). Przy opcji /"Rozdaj 3/", 3 karty zostaną przeniesione naraz.
+	\n\nJeżeli stos główny jest pusty, wciąż możesz go kliknąć, aby przenieść wszystkie karty ze stosu odrzutów do stosu głównego i użyć ich ponownie.</string>
+    <string name="manual_Klondike_scoring">Ze stosu gry na bazowy: +60
+	\n\nZe stosu odrzutów na bazowy: +45
+	\n\nZe stosu bazowego na stos gry: -75
+	\n\nOdsłonięcie karty: +25
+	\n\nPrzeniesienie wszystkich kart ze stosu odrzutów do głównego: -200</string>
+    <string name="manual_Klondike_structure">1 talia po 52 karty.
+	\n\n7 stosów gry, 4 stosy bazowe, 1 główny stos i 1 stos odrzutów.</string>
+    <string name="manual_Pyramid_objective">Przenieś wszystkie karty z pola gry na stos docelowy. Zależnie od ustawień, być może będziesz także musiał przenieść wszystkie karty ze stosu głównego i odrzutów na stos docelowy.</string>
+    <string name="manual_Pyramid_rules">Ta gra ma odrobinę inne zasady niż inne pasjanse. Każda karta z wierzchu stosu może zostać użyta do gry. 2 karty, których wartości sumują się do 13 można przenieść do stosu docelowego. Aby to zrobić, przenieś kartę na inną wolną kartę, jeżeli ich wartości są poprawne, zostaną one automatycznie przeniesione do stosu docelowego.
+	\n\nJest także możliwe użycie kart ze stosu głównego i odrzutów. Jeżeli nie możesz wykonać żadnego ruchu, stuknij na strzałkę pomiędzy stosami aby przenieść jedną kartę ze stosu głównego do odrzutów. Jeżeli stos główny jest pusty, stuknij go lub strzałkę aby przenieść wszystkie karty z niego do stosu odrzutów do głównego. Ten ruch możesz wykonać tylko dwa razy w ciągu gry. Pozostała liczba razy wyświetla się jako niewielki numer nad strzałką.</string>
+    <string name="manual_Pyramid_scoring">Przeniesienie karty na stos docelowy: +50
+	\n\nPrzeniesienie wszystkich kart ze stosu odrzutów do stosu głównego: -200</string>
+    <string name="manual_Pyramid_structure">1 talia po 52 karty.
+	\n\n28 stosów gry, 1 główny, 1 odrzutów i 1 stos docelowy.
+	\n\nKarty ze stosu odrzutów można przenieść na stos główny tylko 2 razy podczas gry.</string>
+    <string name="manual_SimpleSimon_objective">Uszereguj wszystkie karty w rodziny tego samego koloru malejąco gdziekolwiek na polu gry. Kompletne rodziny kart zostaną automatycznie przeniesione do stosów bazowych.</string>
+    <string name="manual_SimpleSimon_rules">Karty można kłaść na dowolną inną w kolejności malejącej. Ale tylko poprawne sekwencje tego samego koloru kart można razem przenosić.
+	\n\nKażdą kartę można położyć na pustych polach gry.</string>
+    <string name="manual_SimpleSimon_scoring">Przeniesienie rodziny kart na stos bazowy: +200</string>
+    <string name="manual_SimpleSimon_structure">1 talia po 52 karty.
+	\n\n10 stosów gry i 4 stosy bazowe.</string>
+    <string name="manual_Spider_objective">Uszereguj wszystkie karty w rodziny tego samego koloru malejąco gdziekolwiek na polu gry. Kompletne rodziny kart zostaną automatycznie przeniesione do stosów bazowych.</string>
+    <string name="manual_Spider_rules">Karty można kłaść na dowolną inną w kolejności malejącej. Ale tylko poprawne sekwencje tego samego koloru kart można razem przenosić.
+	\n\nKażdą kartę można położyć na pustych polach gry.
+	\n\nStuknij w główny stos, aby rozdać po jednej karcie na każdy stos gry.</string>
+    <string name="manual_Spider_scoring">Przeniesienie rodziny kart na stos bazowy: +200
+	\n\nOdsłonięcie karty: +25</string>
+    <string name="manual_Spider_structure">2 talie po 52 karty.
+	\n\n10 stosów gry i 8 stosów bazowych.
+	\n\n1 główny stos, rozdawany w 5 rzutach.
+	\n\nZależnie od ustawień: 1, 2 lub 4 różne kolory kart.</string>
+    <string name="manual_TriPeaks_objective">Przenieś wszystkie karty z pola gry na stos odrzutów.</string>
+    <string name="manual_TriPeaks_rules">Reguły tej gry są podobne do gry \"Golf\". Każda karta z wierzchu stosu może zostać użyta do gry. Karty można kłaść na stos odrzutów w kolejności rosnącej lub malejącej bez względu na kolor.
+	\n\nMożna także kłaść króla na asa i odwrotnie.
+	\n\nJeżeli nie możesz przesunąć jakielkolwiek karty, stuknij w stos główny, aby przenieść jedną kartę do stosu odrzutów.</string>
+    <string name="manual_TriPeaks_scoring">Przeniesienie karty do stosu odrzutów: +50</string>
+    <string name="manual_TriPeaks_structure">1 talia po 52 karty.
+	\n\n28 stosów gry, 1 główny i 1 stos odrzutów.
+	\n\nPrzeniesienie kart ze stosu odrzutów do głównego nie jest możliwe (za wyjątkiem użycia przycisku cofnij).</string>
+    <string name="manual_Vegas_objective">Przenoś karty na stosy bazowe, aby wygrać więcej pieniędzy.</string>
+    <string name="manual_Vegas_rules">Zasady są identyczne jak w grze “Klondike”.
+    \n\nKarty można umieszczać na stosach gry w kolejności malejącej i naprzemiennych kolorach. Możesz przenieść całą sekwencję kart naraz. Na stosach bazowych karty można układać tylko w kolejności rosnącej i tego samego koloru.
+	\n\nTylko króli można kłaść na puste pola gry i tylko asy na puste pola bazowe.
+	\n\nKlikając główny stos karty trafią do stosu odrzutów, skąd możesz je użyć. Liczba kart zależy od wybranych ustawień. Jeżeli wybrałeś /"Rozdaj 1/", tylko pojedyncza karta zostanie przeniesiona. Przy opcji /"Rozdaj 3/", 3 karty zostaną przeniesione naraz.
+	\n\nJeżeli stos główny jest pusty, wciąż możesz go kliknąć, aby przenieść wszystkie karty ze stosu odrzutów do stosu głównego i użyć ich ponownie.</string>
+    <string name="manual_Vegas_scoring">Ilość wygranych pieniędzy jest zależna od wysokości zakładu konfigurowalnego w opcjach. Płacisz np. 50$ za rozdanie i za każdą kartę umieszczoną na stosie bazowym otrzymujesz 1/10 kwoty zakładu.
+        \n\nGra zostanie uznana jako wygrana wtedy, gdy zdobędziesz więcej niż 0 punktów. Przeniesienie karty ze stosu bazowego kosztuje 2/10 kwoty zakładu.
+		\n\nUżycie podpowiedzi lub cofnięcie także kosztuje 1/10 kwoty zakładu.
+        \n\nNOTA: nie grasz o prawdziwą kasę w tej grze :)</string>
+    <string name="manual_Vegas_structure">@string/manual_Klondike_structure</string>
+    <string name="manual_Yukon_objective">Uszereguj wszystkie karty w rodziny tego samego koloru w kolejności rosnącej na stosach bazowych.</string>
+    <string name="manual_Yukon_rules">Karty można kłaść na stosach gry w kolejności malejącej i naprzemiennych kolorach. Na stosach bazowych karty można umieszczać tylko w kolejności rosnącej i tego samego koloru.
+	\n\nMożesz przenieść każdą odkrytą kartę, bez znaczenia w jakiej kolejności i ile kart znajduje się na niej.
+	\n\nTylko króli można kłaść na pustych polach gry i tylko asy na pustych polach bazowych.</string>
+    <string name="manual_Yukon_scoring">Ze stosu gry na stos bazowy: +60
+	\n\nZe stosu bazowego na stos gry: -75
+	\n\nPrzeniesienie króla na puste pole: +20
+	\n\nOdsłonięcie karty: +25</string>
+    <string name="manual_Yukon_structure">1 talia po 52 karty.
+	\n\n7 stosów gry i 4 stosy bazowe.</string>
+    <string name="manual_back_to_game">Powrót do gry</string>
+    <string name="manual_bonus">Po wygraniu gry dostajesz bonus: im szybciej wygrasz, tym wyższy bonus dostajesz.</string>
+    <string name="manual_feedback">Kontakt</string>
+    <string name="manual_feedback_text">Znalazłeś jakiś błąd? Coś powinienem ulepszyć? Może powinienem dodać jakąś grę do kolekcji? Może chcesz pomóc tłumaczyć? Masz jakiś inny pomysł?
+	\n\nBędę wdzięczny za jakikolwiek odzew. Jeżeli chcesz się ze mną skontaktować, rozważ następujące opcje:
+	\n\nZgłoś błąd na Githubie: strona projektu tego programu na GitHubie oferuje fajną funkcję zgłaszania błędów. Po prostu kliknij na przycisk po lewej stronie ekranu, aby otworzyć stronę śledzenia błędów w przeglądarce internetowej.
+	\n\nOceń na Google Play: po prostu oceń grę na stronie sklepu i napisz co chcesz. Kliknij przycisk po prawej stronie, aby otworzyć sklep Google Play (jeżeli zainstalowany).
+	\n\nZ góry dziękuję Ci za Twoją opinię :)</string>
+    <string name="manual_games">Gry</string>
+    <string name="manual_games_text1">Wybierz grę, aby poznać jej strukturę, cel, zasady i punktację.</string>
+    <string name="manual_general_main_menu">Korzystanie z menu głównego jest względnie proste. Po prostu stuknij w grę, aby w nią zagrać.
+	\n\nProgram automatycznie wznowi ostatnio otwartą grę podczas startu, jeżeli program został na niej zatrzymany. To zachowanie można zmienić w opcjach w sekcji \"Ogólne\".
+	\n\nZnajdziesz tam też sekcję \"Menu główne\", gdzie możesz ukryć gry z menu, wybrać liczbę kolumn, tak aby więcej gier zmieściło się na ekranie jednocześnie.</string>
+    <string name="manual_main_menu">Menu główne</string>
+    <string name="manual_mod3_objective">Uszereguj wszystkie karty w 3 górnych rzędach na stosach gry jako sekwencje kart tego samego koloru w następujący sposób:
+	\n\nPierwszy rząd: sekwencja 2-5-8-J
+	\n\nDrugi rząd: sekwencja 3-6-9-Q
+	\n\nTrzeci rząd: sekwencja 4-7-10-K
+	\n\nAsy są odrzucane.</string>
+    <string name="manual_mod3_rules">Możesz przenosić tylko jedną kartę z wierzchu stosu naraz. Karty można układać tylko wtedy, gdy sekwencja pokazana w polu \"Cele\" jest poprawna. Możesz na przykład położyć 5 kier na 2 kier, ale tylko jeżeli 2 kier znajduje się w pierwszym rzędzie pola gry. Różne kolory kart też nie są dozwolone.
+	\n\nUzyskaj puste pola na karty wrzucając asy do stosu asów nad głównym stosem.
+	\n\nCzwarty rząd jest także rzędem odrzutów dla kart z głównego stosu. Każdą kartę można położyć na pustym polu w czwartym rzędzie.
+	\n\nStuknij w główny stos, aby rozdać po jednej karcie na każdy stos w czwartym rzędzie.</string>
+    <string name="manual_mod3_scoring">Przeniesienie karty na poprawne miejsce na stos gry: +50
+	\n\nPrzeniesienie karty z pola gry na czwarty rząd: -75</string>
+    <string name="manual_mod3_structure">2 talie po 52 karty.
+	\n\n32 stosy gry, 1 główny i 1 stos asów.</string>
+    <string name="manual_objective">Cel</string>
+    <string name="manual_open_github">Otwórz GitHub Repo</string>
+    <string name="manual_open_google_play">Otwórz Google Play</string>
+    <string name="manual_rules">Zasady</string>
+    <string name="manual_scoring">Punktacja</string>
+    <string name="manual_startpage">Strona główna</string>
+    <string name="manual_startpage_text">Witamy w podręczniku naszej kolekcji gier! Mam nadzieję, że wszytko zostanie objaśnione.
+	\n\nUżyj menu po lewej stronie, aby dostać się do innych stron podręcznika.</string>
+    <string name="manual_structure">Struktura</string>
+    <string name="manual_ui">Interfejs użytkownika</string>
+    <string name="manual_ui_text">Gra zawsze będzie pokazywała niewielkie menu na dole ekranu (orientacja pionowa) lub po prawej stronie (orientacja pozioma). Będzie także widoczna obecna punktacja i czas gry. Jeżeli to możliwe, te wartości zostaną wpisane na listę wyników. Menu zawiera 5 elementów, które wywołują następujące akcje (przyciski od lewej do prawej):
+	\n\nPrzycisk \"Punktacja\" wywoła nowe okno z listą najlepszych wyników i liczbą rozegranych gier obecnej gry.
+	\n\nPrzycisk \"Wskazówka\" pomoże Ci wyświetlając maksymalnie 3 możliwe ruchy jednocześnie. Ale to zabierze Ci 25 punktów. Zauważ, że banalne ruchy, takie jak przeniesienie karty na puste pole lub stuknięcie w główny stos nie będą pokazane jako podpowiedź. Jeżeli żadna wskazówka nie zostanie wyświetlona, Twoje punkty nie zmaleją.
+	\n\nPrzycisk \"Menu\" umożliwi trzy różne czynności: Rozpoczęcie nowej gry przetasowując karty i rozdając je ponownie. Opcja ponownie rozdaj karty działa tak samo, ale bez przetasowania, jest to po prostu restart obecnej gry. Ostatnia opcja zakończy obecną grę i przeniesie Cię do menu głównego.
+	\n\nPrzycisk \"Cofnij\" cofnie ostatni ruch, ale będzie to kosztowało 25 punktów. Można użyć tej opcji dla 20 ostatnich ruchów.
+	\n\nPrzycisk \"Ustawienia\" zwyczajnie otworzy menu ustawień.</string>
+    <string name="material_clock_toggle_content_description">Wybierz: przed południem czy po południu</string>
+    <string name="material_hour_24h_suffix">%1$s godz.</string>
+    <string name="material_hour_selection">Wybierz godzinę</string>
+    <string name="material_hour_suffix">%1$s</string>
+    <string name="material_minute_selection">Wybierz minuty</string>
+    <string name="material_minute_suffix">%1$s minut</string>
+    <string name="material_timepicker_am">AM</string>
+    <string name="material_timepicker_clock_mode_description">Aby wprowadzić czas, włącz tryb zegara.</string>
+    <string name="material_timepicker_hour">Godzina</string>
+    <string name="material_timepicker_minute">Minuta</string>
+    <string name="material_timepicker_pm">PM</string>
+    <string name="material_timepicker_select_time">Określ czas</string>
+    <string name="material_timepicker_text_input_mode_description">Aby wprowadzić czas, włącz tryb wprowadzania tekstu.</string>
+    <string name="menu_hint">Wskazówka</string>
+    <string name="menu_main_menu">Menu</string>
+    <string name="menu_settings">Ustawienia</string>
+    <string name="menu_statistics">Punkty</string>
+    <string name="menu_undo">Cofnij</string>
+    <string name="mtrl_badge_numberless_content_description">Nowe powiadomienie</string>
+    <string name="mtrl_chip_close_icon_content_description">Usuń: (%1$s)</string>
+    <string name="mtrl_exceed_max_badge_number_content_description" ns2:ignore="PluralsCandidate">Liczba nowych powiadomień przekracza %1$d</string>
+    <string name="mtrl_picker_a11y_next_month">Zmień na następny miesiąc</string>
+    <string name="mtrl_picker_a11y_prev_month">Zmień na poprzedni miesiąc</string>
+    <string name="mtrl_picker_announce_current_selection">Bieżący wybór: %1$s</string>
+    <string name="mtrl_picker_cancel">Anuluj</string>
+    <string name="mtrl_picker_confirm">OK</string>
+    <string name="mtrl_picker_date_header_selected">%1$s</string>
+    <string name="mtrl_picker_date_header_title">Wybierz datę</string>
+    <string name="mtrl_picker_date_header_unselected">Wybrana data</string>
+    <string name="mtrl_picker_day_of_week_column_header">Kolumna z dniami: %1$s</string>
+    <string name="mtrl_picker_invalid_format">Nieprawidłowy format.</string>
+    <string name="mtrl_picker_invalid_format_example">Przykład: %1$s</string>
+    <string name="mtrl_picker_invalid_format_use">Użyj formatu: %1$s</string>
+    <string name="mtrl_picker_invalid_range">Nieprawidłowy zakres.</string>
+    <string name="mtrl_picker_navigate_to_year_description">Przejdź do roku %1$s</string>
+    <string name="mtrl_picker_out_of_range">Poza zakresem: %1$s</string>
+    <string name="mtrl_picker_range_header_only_end_selected">Data rozpoczęcia – %1$s</string>
+    <string name="mtrl_picker_range_header_only_start_selected">%1$s – data zakończenia</string>
+    <string name="mtrl_picker_range_header_selected">%1$s–%2$s</string>
+    <string name="mtrl_picker_range_header_title">Wybierz zakres</string>
+    <string name="mtrl_picker_range_header_unselected">Data rozpoczęcia – data zakończenia</string>
+    <string name="mtrl_picker_save">Zapisz</string>
+    <string name="mtrl_picker_text_input_date_hint">Data</string>
+    <string name="mtrl_picker_text_input_date_range_end_hint">Data zakończenia</string>
+    <string name="mtrl_picker_text_input_date_range_start_hint">Data rozpoczęcia</string>
+    <string name="mtrl_picker_text_input_day_abbr">d</string>
+    <string name="mtrl_picker_text_input_month_abbr">m</string>
+    <string name="mtrl_picker_text_input_year_abbr">r</string>
+    <string name="mtrl_picker_toggle_to_calendar_input_mode">Włącz kalendarzowy tryb wprowadzania</string>
+    <string name="mtrl_picker_toggle_to_day_selection">Kliknij, by wybrać dzień</string>
+    <string name="mtrl_picker_toggle_to_text_input_mode">Włącz tekstowy tryb wprowadzania</string>
+    <string name="mtrl_picker_toggle_to_year_selection">Kliknij, by wybrać rok</string>
+    <string name="mtrl_timepicker_cancel">Anuluj</string>
+    <string name="mtrl_timepicker_confirm">OK</string>
+    <string name="orange">Pomarańczowy</string>
+    <string name="page_load_error">Strona tej gry nie jest dostępna…</string>
+    <string name="password_toggle_content_description">Pokaż hasło</string>
+    <string name="portrait">Pionowo</string>
+    <string name="purple">Purpurowy</string>
+    <string name="red">Czerwony</string>
+    <string msgid="6264217191555673260" name="search_menu_title">"Szukaj"</string>
+    <string name="settings">Ustawienia</string>
+    <string name="settings_4_color_mode_text">Pokoloruj trefle na zielono i karo na niebiesko</string>
+    <string name="settings_4_color_mode_title">4 kolory kart</string>
+    <string name="settings_about_description">Pokaż informacje o grze takie jak licencja i lista zmian</string>
+    <string name="settings_abstract">Abstrakcyjne</string>
+    <string name="settings_additional_movements">Dodatkowe ruchy kart</string>
+    <string name="settings_additional_movements_description">Włącza lub wyłącza podwójne stuknięcia i inne ruchy</string>
+    <string name="settings_auto_start_new_game_text">Po powrocie do właśnie wygranej gry, automatycznie rozpoczynaj nową grę</string>
+    <string name="settings_auto_start_new_game_title">Rozpocznij nową grę po wygranej</string>
+    <string name="settings_back_press">Potwierdź zamykanie gry</string>
+    <string name="settings_back_press_description">Naciśnij przycisk wstecz dwukrotnie, aby wyjść z gry</string>
+    <string name="settings_background">Koszulka numer</string>
+    <string name="settings_background_color">Kolor tła</string>
+    <string name="settings_background_color_custom">Własny</string>
+    <string name="settings_basic">Zwykłe</string>
+    <string name="settings_canfield_draw">Po ile kart rozdawać</string>
+    <string name="settings_cards">Karty</string>
+    <string name="settings_cards_back">Koszulki kart</string>
+    <string name="settings_change_language">Zmień język</string>
+    <string name="settings_classic">Klasyczne</string>
+    <string name="settings_customization">Wygląd</string>
+    <string name="settings_customization_description">Dostosuj karty i tło</string>
+    <string name="settings_double_tap">Podwójne stuknięcie</string>
+    <string name="settings_double_tap_all_cards">Przenoś wszystkie możliwe karty</string>
+    <string name="settings_double_tap_all_cards_text">Przenoś jak najwięcej kart ze stosu, nie tylko dotykaną kartę</string>
+    <string name="settings_double_tap_enable">Włącz ruchy przy podwójnym stuknięciu</string>
+    <string name="settings_double_tap_enable_text">Podwójnie stuknij w kartę, aby przenieść ją na najbliższy możliwy stos</string>
+    <string name="settings_double_tap_foundation_first">Przenieś najpierw na stos bazowy</string>
+    <string name="settings_double_tap_foundation_first_text">Próbuj przenieś górną kartę z dotykanego stosu na stos bazowy przed przeniesieniem innych kart</string>
+    <string name="settings_games">Gry</string>
+    <string name="settings_games_description">Dostosuj opcje wariantów gier</string>
+    <string name="settings_golf_easy">Cykliczne ruchy (łatwiejsze)</string>
+    <string name="settings_golf_easy_description">Zezwól kłaść asy na króli i odwrotnie</string>
+    <string name="settings_hide_status_bar">Ukryj pasek stanu</string>
+    <string name="settings_icon_theme">Temat ikon</string>
+    <string name="settings_klondike_draw">Po ile kart rozdawać</string>
+    <string name="settings_left_handed_mode">Tryb dla leworęcznych</string>
+    <string name="settings_left_handed_mode_description">Odwraca pozycje kart i stosów do lewej strony</string>
+    <string name="settings_limit_number_of_recycles">Ogranicz liczbę ponownych rozdań</string>
+    <string name="settings_limit_number_of_recycles_text">Ogranicz możliwość ponownego wykorzystania kart ze stosu odrzutów</string>
+    <string name="settings_menu">Menu główne</string>
+    <string name="settings_menu_bar_position">Pozycja paska menu</string>
+    <string name="settings_menu_bar_position_bottom">Dół</string>
+    <string name="settings_menu_bar_position_left">Lewo</string>
+    <string name="settings_menu_bar_position_right">Prawo</string>
+    <string name="settings_menu_bar_position_top">Góra</string>
+    <string name="settings_menu_columns">Liczba kolumn</string>
+    <string name="settings_menu_description">Zmień liczbę kolumn, pokaż i ukryj gry</string>
+    <string name="settings_menu_games">Pokaż i ukryj gry</string>
+    <string name="settings_menu_games_description">Wybierz które gry mają być widoczne w menu</string>
+    <string name="settings_menu_order_set_default">Domyślny układ</string>
+    <string name="settings_menu_order_summary">Stuknij i przytrzymaj wpis, a następnie przeciągnij i upuść go w żądane miejsce</string>
+    <string name="settings_menu_order_title">Kolejność menu</string>
+    <string name="settings_modern">Nowoczesne</string>
+    <string name="settings_movement_speed">Szybkość przenoszenia kart</string>
+    <string name="settings_number_of_recycles">Liczba ponownych rozdań</string>
+    <string name="settings_orientation">Orientacja ekranu</string>
+    <string name="settings_other">Ogólne</string>
+    <string name="settings_other_description">Dostosuj wszystkie inne opcje</string>
+    <string name="settings_oxygen_dark">Oxygen Ciemny</string>
+    <string name="settings_oxygen_light">Oxygen Jasny</string>
+    <string name="settings_poker">Poker</string>
+    <string name="settings_pyramid_difficulty">Trudność</string>
+    <string name="settings_restart_canfield">Aby zastosować zmiany, rozpocznij nową grę Canfield</string>
+    <string name="settings_restart_fortyeight">Aby zastosować zmiany, rozpocznij nową grę Czterdzieści&amp;Osiem</string>
+    <string name="settings_restart_klondike">Aby zastosować zmiany, rozpocznij nową grę Klondkie</string>
+    <string name="settings_restart_spider">Aby zastosować zmiany, rozpocznij nową grę Pająk</string>
+    <string name="settings_restart_vegas">Aby zastosować zmiany, rozpocznij nową grę Vegas</string>
+    <string name="settings_restart_yukon">Aby zastosować zmiany, rozpocznij nową grę Yukon</string>
+    <string name="settings_show_main_menu">Rozpocznij w menu głównym</string>
+    <string name="settings_show_main_menu_description">Nie przechodź do ostatnio otwartej gry przy starcie</string>
+    <string name="settings_show_manual_in_menu">Strona podręcznika w menu głównym</string>
+    <string name="settings_show_manual_in_menu_description">Pokaż przycisk otwierający stronę dotyczącą gry w podręczniku</string>
+    <string name="settings_simple">Proste</string>
+    <string name="settings_single_tap">Pojedyncze stuknięcie</string>
+    <string name="settings_single_tap_enable">Włącz ruchy przy pojedynczym stuknięciu</string>
+    <string name="settings_single_tap_enable_text">Tylko w grach Golf i TrzyWieże: stuknij pojedynczo w kartę, aby przenieść ją na stos odrzutów</string>
+    <string name="settings_spider_difficulty">Liczba kolorów kart</string>
+    <string name="settings_tap_to_select">Wybierz przez stuknięcie</string>
+    <string name="settings_tap_to_select_enable">Włącz możliwość wyboru karty poprzez stuknięcie</string>
+    <string name="settings_tap_to_select_enable_text">Stuknij w kartę, aby ją wybrać, a następnie stuknij w stos docelowy, aby ją tam przenieść</string>
+    <string name="settings_vegas_bet_amount">Kwota zakładu</string>
+    <string name="settings_vegas_bet_amount_progress_text">Płacisz %1$d$ za pierwsze rozdanie kart, za przeniesienie każdej karty na stos bazowy dostajesz %2$d$.</string>
+    <string name="settings_vegas_bet_amount_summary">Rozdanie -%1$d$, wrzucenie karty: +%2$d$</string>
+    <string name="settings_yukon_rules">Kładź karty na…</string>
+    <string name="statistics_button_delete">Usuń wszystkie wpisy</string>
+    <string name="statistics_button_delete_text">Usunięte zostaną wszystkie wpisy dla tej gry! Czy na pewno?</string>
+    <string name="statistics_button_deleted_all_entries">Usunięto wszystkie wpisy</string>
+    <string name="statistics_date">Data</string>
+    <string name="statistics_text_won_games">Wygrałeś %1$d z %2$d gier.</string>
+    <string name="statistics_time_of_day">Godzina</string>
+    <string name="statistics_win_percentage">Procent wygranych: %1$.0f%%</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="title_activity_manual">Podręcznik</string>
+    <string name="title_activity_settings">Ustawienia</string>
+    <string name="title_activity_statistics">Najlepsze wyniki</string>
+    <string name="yellow">Żółty</string>
+</resources>

@@ -1,0 +1,210 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="be.kuleuven.drsolitaire"
+4    android:versionCode="11"
+5    android:versionName="2.5" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->/Users/kai/Desktop/master_thesis/solitaire/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="33" />
+9-->/Users/kai/Desktop/master_thesis/solitaire/app/src/main/AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->/Users/kai/Desktop/master_thesis/solitaire/app/src/main/AndroidManifest.xml:4:5-67
+11-->/Users/kai/Desktop/master_thesis/solitaire/app/src/main/AndroidManifest.xml:4:22-64
+12    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+12-->/Users/kai/Desktop/master_thesis/solitaire/app/src/main/AndroidManifest.xml:5:5-79
+12-->/Users/kai/Desktop/master_thesis/solitaire/app/src/main/AndroidManifest.xml:5:22-76
+13
+14    <permission
+14-->[androidx.core:core:1.9.0] /Users/kai/.gradle/caches/transforms-3/70f0f5f8a2a8d7f232df538e40c49368/transformed/core-1.9.0/AndroidManifest.xml:22:5-24:47
+15        android:name="be.kuleuven.drsolitaire.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+15-->[androidx.core:core:1.9.0] /Users/kai/.gradle/caches/transforms-3/70f0f5f8a2a8d7f232df538e40c49368/transformed/core-1.9.0/AndroidManifest.xml:23:9-81
+16        android:protectionLevel="signature" />
+16-->[androidx.core:core:1.9.0] /Users/kai/.gradle/caches/transforms-3/70f0f5f8a2a8d7f232df538e40c49368/transformed/core-1.9.0/AndroidManifest.xml:24:9-44
+17
+18    <uses-permission android:name="be.kuleuven.drsolitaire.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+18-->[androidx.core:core:1.9.0] /Users/kai/.gradle/caches/transforms-3/70f0f5f8a2a8d7f232df538e40c49368/transformed/core-1.9.0/AndroidManifest.xml:26:5-97
+18-->[androidx.core:core:1.9.0] /Users/kai/.gradle/caches/transforms-3/70f0f5f8a2a8d7f232df538e40c49368/transformed/core-1.9.0/AndroidManifest.xml:26:22-94
+19
+20    <application
+20-->/Users/kai/Desktop/master_thesis/solitaire/app/src/main/AndroidManifest.xml:7:5-63:19
+21        android:name="be.kuleuven.drsolitaire.MainApplication"
+21-->/Users/kai/Desktop/master_thesis/solitaire/app/src/main/AndroidManifest.xml:8:9-40
+22        android:allowBackup="true"
+22-->/Users/kai/Desktop/master_thesis/solitaire/app/src/main/AndroidManifest.xml:9:9-35
+23        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+23-->[androidx.core:core:1.9.0] /Users/kai/.gradle/caches/transforms-3/70f0f5f8a2a8d7f232df538e40c49368/transformed/core-1.9.0/AndroidManifest.xml:28:18-86
+24        android:debuggable="true"
+25        android:fullBackupContent="@xml/my_backup_rules"
+25-->/Users/kai/Desktop/master_thesis/solitaire/app/src/main/AndroidManifest.xml:10:9-57
+26        android:icon="@mipmap/ic_launcher"
+26-->/Users/kai/Desktop/master_thesis/solitaire/app/src/main/AndroidManifest.xml:11:9-43
+27        android:installLocation="auto"
+27-->/Users/kai/Desktop/master_thesis/solitaire/app/src/main/AndroidManifest.xml:12:9-39
+28        android:label="@string/app_name"
+28-->/Users/kai/Desktop/master_thesis/solitaire/app/src/main/AndroidManifest.xml:13:9-41
+29        android:largeHeap="true"
+29-->/Users/kai/Desktop/master_thesis/solitaire/app/src/main/AndroidManifest.xml:14:9-33
+30        android:testOnly="true"
+31        android:theme="@style/AppThemeNoActionBar" >
+31-->/Users/kai/Desktop/master_thesis/solitaire/app/src/main/AndroidManifest.xml:15:9-51
+32        <activity
+32-->/Users/kai/Desktop/master_thesis/solitaire/app/src/main/AndroidManifest.xml:16:9-20:56
+33            android:name="be.kuleuven.drsolitaire.ui.about.AboutActivity"
+33-->/Users/kai/Desktop/master_thesis/solitaire/app/src/main/AndroidManifest.xml:17:13-51
+34            android:configChanges="keyboardHidden|orientation|screenSize"
+34-->/Users/kai/Desktop/master_thesis/solitaire/app/src/main/AndroidManifest.xml:18:13-74
+35            android:label="@string/about_name"
+35-->/Users/kai/Desktop/master_thesis/solitaire/app/src/main/AndroidManifest.xml:19:13-47
+36            android:theme="@style/AppThemeActionBar" />
+36-->/Users/kai/Desktop/master_thesis/solitaire/app/src/main/AndroidManifest.xml:20:13-53
+37        <activity
+37-->/Users/kai/Desktop/master_thesis/solitaire/app/src/main/AndroidManifest.xml:21:9-24:56
+38            android:name="be.kuleuven.drsolitaire.ui.Statistics"
+38-->/Users/kai/Desktop/master_thesis/solitaire/app/src/main/AndroidManifest.xml:22:13-42
+39            android:label="@string/title_activity_statistics"
+39-->/Users/kai/Desktop/master_thesis/solitaire/app/src/main/AndroidManifest.xml:23:13-62
+40            android:theme="@style/AppThemeActionBar" />
+40-->/Users/kai/Desktop/master_thesis/solitaire/app/src/main/AndroidManifest.xml:24:13-53
+41        <activity
+41-->/Users/kai/Desktop/master_thesis/solitaire/app/src/main/AndroidManifest.xml:25:9-28:56
+42            android:name="be.kuleuven.drsolitaire.ui.settings.Settings"
+42-->/Users/kai/Desktop/master_thesis/solitaire/app/src/main/AndroidManifest.xml:26:13-49
+43            android:label="@string/title_activity_settings"
+43-->/Users/kai/Desktop/master_thesis/solitaire/app/src/main/AndroidManifest.xml:27:13-60
+44            android:theme="@style/AppThemeActionBar" />
+44-->/Users/kai/Desktop/master_thesis/solitaire/app/src/main/AndroidManifest.xml:28:13-53
+45        <activity
+45-->/Users/kai/Desktop/master_thesis/solitaire/app/src/main/AndroidManifest.xml:29:9-32:56
+46            android:name="be.kuleuven.drsolitaire.ui.settings.SettingsGames"
+46-->/Users/kai/Desktop/master_thesis/solitaire/app/src/main/AndroidManifest.xml:30:13-54
+47            android:label="@string/settings_games"
+47-->/Users/kai/Desktop/master_thesis/solitaire/app/src/main/AndroidManifest.xml:31:13-51
+48            android:theme="@style/AppThemeActionBar" />
+48-->/Users/kai/Desktop/master_thesis/solitaire/app/src/main/AndroidManifest.xml:32:13-53
+49        <activity android:name="be.kuleuven.drsolitaire.ui.GameManager" />
+49-->/Users/kai/Desktop/master_thesis/solitaire/app/src/main/AndroidManifest.xml:33:9-52
+49-->/Users/kai/Desktop/master_thesis/solitaire/app/src/main/AndroidManifest.xml:33:19-49
+50        <activity
+50-->/Users/kai/Desktop/master_thesis/solitaire/app/src/main/AndroidManifest.xml:34:9-38:58
+51            android:name="be.kuleuven.drsolitaire.ui.manual.Manual"
+51-->/Users/kai/Desktop/master_thesis/solitaire/app/src/main/AndroidManifest.xml:35:13-45
+52            android:configChanges="keyboardHidden|orientation|screenSize"
+52-->/Users/kai/Desktop/master_thesis/solitaire/app/src/main/AndroidManifest.xml:36:13-74
+53            android:label="@string/game_manual"
+53-->/Users/kai/Desktop/master_thesis/solitaire/app/src/main/AndroidManifest.xml:37:13-48
+54            android:theme="@style/AppThemeNoActionBar" />
+54-->/Users/kai/Desktop/master_thesis/solitaire/app/src/main/AndroidManifest.xml:38:13-55
+55        <activity
+55-->/Users/kai/Desktop/master_thesis/solitaire/app/src/main/AndroidManifest.xml:39:9-42:67
+56            android:name="be.kuleuven.drsolitaire.ui.GameSelector"
+56-->/Users/kai/Desktop/master_thesis/solitaire/app/src/main/AndroidManifest.xml:40:13-44
+57            android:label="@string/app_name"
+57-->/Users/kai/Desktop/master_thesis/solitaire/app/src/main/AndroidManifest.xml:41:13-45
+58            android:theme="@style/AppThemeNoActionBar" />
+58-->/Users/kai/Desktop/master_thesis/solitaire/app/src/main/AndroidManifest.xml:42:13-55
+59        <activity
+59-->/Users/kai/Desktop/master_thesis/solitaire/app/src/main/AndroidManifest.xml:43:9-53:20
+60            android:name="be.kuleuven.drsolitaire.LoginActivity"
+60-->/Users/kai/Desktop/master_thesis/solitaire/app/src/main/AndroidManifest.xml:44:13-42
+61            android:exported="true"
+61-->/Users/kai/Desktop/master_thesis/solitaire/app/src/main/AndroidManifest.xml:47:13-36
+62            android:label="@string/DrSolitaire"
+62-->/Users/kai/Desktop/master_thesis/solitaire/app/src/main/AndroidManifest.xml:45:13-48
+63            android:theme="@style/AppThemeNoActionBar" >
+63-->/Users/kai/Desktop/master_thesis/solitaire/app/src/main/AndroidManifest.xml:46:13-55
+64            <intent-filter>
+64-->/Users/kai/Desktop/master_thesis/solitaire/app/src/main/AndroidManifest.xml:48:13-52:29
+65                <action android:name="android.intent.action.MAIN" />
+65-->/Users/kai/Desktop/master_thesis/solitaire/app/src/main/AndroidManifest.xml:49:17-69
+65-->/Users/kai/Desktop/master_thesis/solitaire/app/src/main/AndroidManifest.xml:49:25-66
+66
+67                <category android:name="android.intent.category.LAUNCHER" />
+67-->/Users/kai/Desktop/master_thesis/solitaire/app/src/main/AndroidManifest.xml:51:17-77
+67-->/Users/kai/Desktop/master_thesis/solitaire/app/src/main/AndroidManifest.xml:51:27-74
+68            </intent-filter>
+69        </activity>
+70        <activity
+70-->/Users/kai/Desktop/master_thesis/solitaire/app/src/main/AndroidManifest.xml:54:9-58:20
+71            android:name="be.kuleuven.drsolitaire.RegistrationActivity"
+71-->/Users/kai/Desktop/master_thesis/solitaire/app/src/main/AndroidManifest.xml:55:13-49
+72            android:label="@string/title_activity_registration"
+72-->/Users/kai/Desktop/master_thesis/solitaire/app/src/main/AndroidManifest.xml:56:13-64
+73            android:theme="@style/AppThemeNoActionBar" >
+73-->/Users/kai/Desktop/master_thesis/solitaire/app/src/main/AndroidManifest.xml:57:13-55
+74        </activity>
+75
+76        <meta-data
+76-->/Users/kai/Desktop/master_thesis/solitaire/app/src/main/AndroidManifest.xml:60:9-62:57
+77            android:name="preloaded_fonts"
+77-->/Users/kai/Desktop/master_thesis/solitaire/app/src/main/AndroidManifest.xml:61:13-43
+78            android:resource="@array/preloaded_fonts" />
+78-->/Users/kai/Desktop/master_thesis/solitaire/app/src/main/AndroidManifest.xml:62:13-54
+79
+80        <provider
+80-->[androidx.emoji2:emoji2:1.2.0] /Users/kai/.gradle/caches/transforms-3/14a1526b7367dd188ab5f7848e50bfc2/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:24:9-32:20
+81            android:name="androidx.startup.InitializationProvider"
+81-->[androidx.emoji2:emoji2:1.2.0] /Users/kai/.gradle/caches/transforms-3/14a1526b7367dd188ab5f7848e50bfc2/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:25:13-67
+82            android:authorities="be.kuleuven.drsolitaire.androidx-startup"
+82-->[androidx.emoji2:emoji2:1.2.0] /Users/kai/.gradle/caches/transforms-3/14a1526b7367dd188ab5f7848e50bfc2/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:26:13-68
+83            android:exported="false" >
+83-->[androidx.emoji2:emoji2:1.2.0] /Users/kai/.gradle/caches/transforms-3/14a1526b7367dd188ab5f7848e50bfc2/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:27:13-37
+84            <meta-data
+84-->[androidx.emoji2:emoji2:1.2.0] /Users/kai/.gradle/caches/transforms-3/14a1526b7367dd188ab5f7848e50bfc2/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:29:13-31:52
+85                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+85-->[androidx.emoji2:emoji2:1.2.0] /Users/kai/.gradle/caches/transforms-3/14a1526b7367dd188ab5f7848e50bfc2/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:30:17-75
+86                android:value="androidx.startup" />
+86-->[androidx.emoji2:emoji2:1.2.0] /Users/kai/.gradle/caches/transforms-3/14a1526b7367dd188ab5f7848e50bfc2/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:31:17-49
+87            <meta-data
+87-->[androidx.lifecycle:lifecycle-process:2.6.0] /Users/kai/.gradle/caches/transforms-3/9a162f83faeead3b46353357cf20b415/transformed/jetified-lifecycle-process-2.6.0/AndroidManifest.xml:29:13-31:52
+88                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+88-->[androidx.lifecycle:lifecycle-process:2.6.0] /Users/kai/.gradle/caches/transforms-3/9a162f83faeead3b46353357cf20b415/transformed/jetified-lifecycle-process-2.6.0/AndroidManifest.xml:30:17-78
+89                android:value="androidx.startup" />
+89-->[androidx.lifecycle:lifecycle-process:2.6.0] /Users/kai/.gradle/caches/transforms-3/9a162f83faeead3b46353357cf20b415/transformed/jetified-lifecycle-process-2.6.0/AndroidManifest.xml:31:17-49
+90            <meta-data
+90-->[androidx.profileinstaller:profileinstaller:1.2.1] /Users/kai/.gradle/caches/transforms-3/b0660bbec59ae51d713da0d6832ad28e/transformed/jetified-profileinstaller-1.2.1/AndroidManifest.xml:30:13-32:52
+91                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
+91-->[androidx.profileinstaller:profileinstaller:1.2.1] /Users/kai/.gradle/caches/transforms-3/b0660bbec59ae51d713da0d6832ad28e/transformed/jetified-profileinstaller-1.2.1/AndroidManifest.xml:31:17-85
+92                android:value="androidx.startup" />
+92-->[androidx.profileinstaller:profileinstaller:1.2.1] /Users/kai/.gradle/caches/transforms-3/b0660bbec59ae51d713da0d6832ad28e/transformed/jetified-profileinstaller-1.2.1/AndroidManifest.xml:32:17-49
+93        </provider>
+94
+95        <service
+95-->[androidx.room:room-runtime:2.5.0] /Users/kai/.gradle/caches/transforms-3/e7910bafdf06b2344202d36025fe4597/transformed/room-runtime-2.5.0/AndroidManifest.xml:24:9-28:63
+96            android:name="androidx.room.MultiInstanceInvalidationService"
+96-->[androidx.room:room-runtime:2.5.0] /Users/kai/.gradle/caches/transforms-3/e7910bafdf06b2344202d36025fe4597/transformed/room-runtime-2.5.0/AndroidManifest.xml:25:13-74
+97            android:directBootAware="true"
+97-->[androidx.room:room-runtime:2.5.0] /Users/kai/.gradle/caches/transforms-3/e7910bafdf06b2344202d36025fe4597/transformed/room-runtime-2.5.0/AndroidManifest.xml:26:13-43
+98            android:exported="false" />
+98-->[androidx.room:room-runtime:2.5.0] /Users/kai/.gradle/caches/transforms-3/e7910bafdf06b2344202d36025fe4597/transformed/room-runtime-2.5.0/AndroidManifest.xml:27:13-37
+99
+100        <receiver
+100-->[androidx.profileinstaller:profileinstaller:1.2.1] /Users/kai/.gradle/caches/transforms-3/b0660bbec59ae51d713da0d6832ad28e/transformed/jetified-profileinstaller-1.2.1/AndroidManifest.xml:35:9-47:20
+101            android:name="androidx.profileinstaller.ProfileInstallReceiver"
+101-->[androidx.profileinstaller:profileinstaller:1.2.1] /Users/kai/.gradle/caches/transforms-3/b0660bbec59ae51d713da0d6832ad28e/transformed/jetified-profileinstaller-1.2.1/AndroidManifest.xml:36:13-76
+102            android:directBootAware="false"
+102-->[androidx.profileinstaller:profileinstaller:1.2.1] /Users/kai/.gradle/caches/transforms-3/b0660bbec59ae51d713da0d6832ad28e/transformed/jetified-profileinstaller-1.2.1/AndroidManifest.xml:37:13-44
+103            android:enabled="true"
+103-->[androidx.profileinstaller:profileinstaller:1.2.1] /Users/kai/.gradle/caches/transforms-3/b0660bbec59ae51d713da0d6832ad28e/transformed/jetified-profileinstaller-1.2.1/AndroidManifest.xml:38:13-35
+104            android:exported="true"
+104-->[androidx.profileinstaller:profileinstaller:1.2.1] /Users/kai/.gradle/caches/transforms-3/b0660bbec59ae51d713da0d6832ad28e/transformed/jetified-profileinstaller-1.2.1/AndroidManifest.xml:39:13-36
+105            android:permission="android.permission.DUMP" >
+105-->[androidx.profileinstaller:profileinstaller:1.2.1] /Users/kai/.gradle/caches/transforms-3/b0660bbec59ae51d713da0d6832ad28e/transformed/jetified-profileinstaller-1.2.1/AndroidManifest.xml:40:13-57
+106            <intent-filter>
+106-->[androidx.profileinstaller:profileinstaller:1.2.1] /Users/kai/.gradle/caches/transforms-3/b0660bbec59ae51d713da0d6832ad28e/transformed/jetified-profileinstaller-1.2.1/AndroidManifest.xml:41:13-43:29
+107                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
+107-->[androidx.profileinstaller:profileinstaller:1.2.1] /Users/kai/.gradle/caches/transforms-3/b0660bbec59ae51d713da0d6832ad28e/transformed/jetified-profileinstaller-1.2.1/AndroidManifest.xml:42:17-91
+107-->[androidx.profileinstaller:profileinstaller:1.2.1] /Users/kai/.gradle/caches/transforms-3/b0660bbec59ae51d713da0d6832ad28e/transformed/jetified-profileinstaller-1.2.1/AndroidManifest.xml:42:25-88
+108            </intent-filter>
+109            <intent-filter>
+109-->[androidx.profileinstaller:profileinstaller:1.2.1] /Users/kai/.gradle/caches/transforms-3/b0660bbec59ae51d713da0d6832ad28e/transformed/jetified-profileinstaller-1.2.1/AndroidManifest.xml:44:13-46:29
+110                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
+110-->[androidx.profileinstaller:profileinstaller:1.2.1] /Users/kai/.gradle/caches/transforms-3/b0660bbec59ae51d713da0d6832ad28e/transformed/jetified-profileinstaller-1.2.1/AndroidManifest.xml:45:17-85
+110-->[androidx.profileinstaller:profileinstaller:1.2.1] /Users/kai/.gradle/caches/transforms-3/b0660bbec59ae51d713da0d6832ad28e/transformed/jetified-profileinstaller-1.2.1/AndroidManifest.xml:45:25-82
+111            </intent-filter>
+112        </receiver>
+113    </application>
+114
+115</manifest>

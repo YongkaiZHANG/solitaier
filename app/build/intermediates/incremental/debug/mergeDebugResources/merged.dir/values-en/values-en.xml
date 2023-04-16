@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="manual_side_menu_tablet" translatable="false">
+        <item>@string/manual_startpage</item>
+        <item>@string/manual_main_menu</item>
+        <item>@string/manual_ui</item>
+        <item>@string/manual_games</item>
+        <item>@string/manual_feedback</item>
+        <item>@string/manual_back_to_game</item>
+    </string-array>
+    <string-array name="pref_background_music_values" translatable="false">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </string-array>
+    <string-array name="pref_background_musics_titles">
+        <item>Disabled</item>
+        <item>Theme 1</item>
+        <item>Theme 2</item>
+        <item>Theme 3</item>
+        <item>Music Box</item>
+    </string-array>
+    <string-array name="pref_draw_titles">
+        <item>Draw 3</item>
+    </string-array>
+    <string-array name="pref_draw_values" translatable="false">
+        <item>3</item>
+    </string-array>
+    <string-array name="pref_language_titles">
+        <item>Default language</item>
+        <item>English</item>
+        <item>Esperanto</item>
+        <item>Finnish</item>
+        <item>French</item>
+        <item>German</item>
+        <item>Japanese</item>
+        <item>Nederlands</item>
+        <item>Polish</item>
+        <item>Turkish</item>
+    </string-array>
+    <string-array name="pref_language_values">
+        <item>default</item>    
+        <item>en</item>         
+        <item>eo</item>         
+        <item>fi</item>         
+        <item>fr</item>         
+        <item>de</item>         
+        <item>ja</item>         
+        <item>nl</item>         
+        <item>pl</item>         
+        <item>tr</item>         
+    </string-array>
+    <string-array name="pref_menu_columns_list" translatable="false">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+    </string-array>
+    <string-array name="pref_movement_speed_titles">
+        <item>Very slow</item>
+        <item>Slow</item>
+        <item>Normal</item>
+        <item>Fast</item>
+    </string-array>
+    <string-array name="pref_movement_speed_values" translatable="false">
+        <item>0.5</item>
+        <item>1</item>
+        <item>2</item>
+        <item>4</item>
+    </string-array>
+    <string-array name="pref_number_of_recycles_values" translatable="false">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+    <string-array name="pref_orientation_titles">
+        <item>Follow system settings</item>
+        <item>Portrait</item>
+        <item>Landscape</item>
+        <item>Landscape upside down</item>
+    </string-array>
+    <string-array name="pref_orientation_values" translatable="false">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </string-array>
+    <string-array name="pref_pyramid_difficulty_titles">
+        <item>Easy: Game is won when tableau is empty</item>
+        <item>Hard: Game is won when tableau and stock are empty</item>
+    </string-array>
+    <string-array name="pref_pyramid_difficulty_values" translatable="false">
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="pref_spider_difficulty_titles">
+        <item>1 (Easy)</item>
+        <item>2 (Medium)</item>
+        <item>4 (Hard)</item>
+    </string-array>
+    <string-array name="pref_spider_difficulty_values" translatable="false">
+        <item>1</item>
+        <item>2</item>
+        <item>4</item>
+    </string-array>
+    <string-array name="pref_win_sounds_titles">
+        <item>Default</item>
+        <item>Piano</item>
+        <item>8-Bit voice \"You win\"</item>
+        <item>Cheering crowd</item>
+    </string-array>
+    <string-array name="pref_win_sounds_values" translatable="false">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="pref_yukon_rules_titles">
+        <item>different colors (Default)</item>
+        <item>same suit (Russian Solitaire)</item>
+    </string-array>
+    <string-array name="pref_yukon_rules_values" translatable="false">
+        <item>default</item>
+        <item>russian</item>
+    </string-array>
+    <string-array name="restart_menu">
+        <item>Start new game</item>
+        <item>Give cards again</item>
+        <item>Game rules</item>
+        <item>Logout</item>
+
+    </string-array>
+    <string-array name="won_menu">
+        <item>Start new game</item>
+        <item>Give cards again</item>
+
+    </string-array>
+</resources>

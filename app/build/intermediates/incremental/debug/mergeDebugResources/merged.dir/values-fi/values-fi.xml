@@ -1,0 +1,604 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2" xmlns:ns2="http://schemas.android.com/tools">
+    <string-array name="pref_background_musics_titles">
+        <item>Pois käytöstä</item>
+        <item>Teema 1</item>
+        <item>Teema 2</item>
+        <item>Teema 3</item>
+        <item>Soittorasia</item>
+    </string-array>
+    <string-array name="pref_draw_titles">
+        <item>Nosta 1</item>
+        <item>Nosta 3</item>
+    </string-array>
+    <string-array name="pref_language_titles">
+        <item>Oletus kieli</item>
+        <item>Englanti</item>
+        <item>Esperanto</item>
+        <item>Japani</item>
+        <item>Puola</item>
+        <item>Ranska</item>
+        <item>Saksa</item>
+        <item>Suomi</item>
+        <item>Turkki</item>
+    </string-array>
+    <string-array name="pref_language_values">
+        <item>default</item>
+        <item>en</item>
+        <item>eo</item>
+        <item>ja</item>
+        <item>pl</item>
+        <item>fr</item>
+        <item>de</item>
+        <item>fi</item>
+        <item>tr</item>
+    </string-array>
+    <string-array name="pref_movement_speed_titles">
+        <item>Erittäin hidas</item>
+        <item>Hidas</item>
+        <item>Normaali</item>
+        <item>Nopea</item>
+    </string-array>
+    <string-array name="pref_orientation_titles">
+        <item>Seuraa järjestelmän asetuksia</item>
+        <item>Pystysuunta</item>
+        <item>Vaakataso</item>
+        <item>Vaakataso ylösalaisin</item>
+    </string-array>
+    <string-array name="pref_pyramid_difficulty_titles">
+        <item>Helppo: Peli on voitettu kun pöytä on tyhjä</item>
+        <item>Vaikea: Peli on voitettu kun pöytä ja pino ovat tyhjiä</item>
+    </string-array>
+    <string-array name="pref_spider_difficulty_titles">
+        <item>1 (Helppo)</item>
+        <item>2 (Keskitaso)</item>
+        <item>4 (Vaikea)</item>
+    </string-array>
+    <string-array name="pref_win_sounds_titles">
+        <item>Oletus</item>
+        <item>Piano</item>
+        <item>8 bittinen ääni \"You win\"</item>
+        <item>Hurraava yleisö</item>
+    </string-array>
+    <string-array name="pref_yukon_rules_titles">
+        <item>Eri värit (Oletus)</item>
+        <item>Samaa maata (Venäläinen pasianssi)</item>
+    </string-array>
+    <string-array name="restart_menu">
+        <item>Aloita uusi peli</item>
+        <item>Jaa kortit uudelleen</item>
+        <item>Pelin säännöt</item>
+        <item>Palaa päävalikkoon</item>
+    </string-array>
+    <string-array name="won_menu">
+        <item>Aloita uusi peli</item>
+        <item>Jaa kortit uudelleen</item>
+        <item>Palaa päävalikkoon</item>
+    </string-array>
+    <plurals name="mtrl_badge_content_description">
+    <item quantity="one">%d uusi ilmoitus</item>
+    <item quantity="other">%d uutta ilmoitusta</item>
+  </plurals>
+    <string name="Settings_background_music">Taustamusiikki</string>
+    <string name="Settings_background_volume">Taustamusiikin äänenvoimakkuus</string>
+    <string name="Settings_sound">Salli äänet</string>
+    <string name="Settings_sounds_text">Salli äänet, aseta äänitehosteet</string>
+    <string name="Settings_sounds_title">Äänet</string>
+    <string name="Settings_win_sound_title">Voiton äänitehoste</string>
+    <string msgid="5976598919945601918" name="abc_action_bar_home_description">"Siirry etusivulle"</string>
+    <string msgid="8388173803310557296" name="abc_action_bar_up_description">"Siirry ylös"</string>
+    <string msgid="3937310113216875497" name="abc_action_menu_overflow_description">"Lisäasetukset"</string>
+    <string msgid="4692188335987374352" name="abc_action_mode_done">"Valmis"</string>
+    <string msgid="1189761859438369441" name="abc_activity_chooser_view_see_all">"Näytä kaikki"</string>
+    <string msgid="2165779757652331008" name="abc_activitychooserview_choose_application">"Valitse sovellus"</string>
+    <string msgid="4215997306490295099" name="abc_capital_off">"POIS PÄÄLTÄ"</string>
+    <string msgid="884982626291842264" name="abc_capital_on">"PÄÄLLÄ"</string>
+    <string msgid="8833365367933412986" name="abc_menu_alt_shortcut_label">"Alt+"</string>
+    <string msgid="2223301931652355242" name="abc_menu_ctrl_shortcut_label">"Ctrl+"</string>
+    <string msgid="838001238306846836" name="abc_menu_delete_shortcut_label">"delete"</string>
+    <string msgid="7986526966204849475" name="abc_menu_enter_shortcut_label">"enter"</string>
+    <string msgid="375214403600139847" name="abc_menu_function_shortcut_label">"Fn+"</string>
+    <string msgid="4192209724446364286" name="abc_menu_meta_shortcut_label">"Meta+"</string>
+    <string msgid="4741552369836443843" name="abc_menu_shift_shortcut_label">"Vaihto+"</string>
+    <string msgid="5473865519181928982" name="abc_menu_space_shortcut_label">"välilyönti"</string>
+    <string msgid="6180552449598693998" name="abc_menu_sym_shortcut_label">"Sym+"</string>
+    <string msgid="5520303668377388990" name="abc_prepend_shortcut_label">"Valikko+"</string>
+    <string msgid="7208076849092622260" name="abc_search_hint">"Haku…"</string>
+    <string msgid="3741173234950517107" name="abc_searchview_description_clear">"Tyhjennä kysely"</string>
+    <string msgid="693312494995508443" name="abc_searchview_description_query">"Hakukysely"</string>
+    <string msgid="3417662926640357176" name="abc_searchview_description_search">"Haku"</string>
+    <string msgid="1486535517437947103" name="abc_searchview_description_submit">"Lähetä kysely"</string>
+    <string msgid="2293578557972875415" name="abc_searchview_description_voice">"Puhehaku"</string>
+    <string msgid="8875138169939072951" name="abc_shareactionprovider_share_with">"Jaa…"</string>
+    <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"Jaa: <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"Tiivistä"</string>
+    <string name="about_Text1">kehittänyt Tobias Bielefeld</string>
+    <string name="about_Text2">kiitos kun pelaat peliäni :)</string>
+    <string name="about_build_date">Käännöspäivä</string>
+    <string name="about_custom_color_picker">Mukautettu värivalitsin: Käyttää <a href="https://github.com/yukuku/ambilwarna">AmbilWarna kirjastoa</a>
+        joka on julkaistu <a href="https://github.com/yukuku/ambilwarna/blob/master/LICENSE">Apache 2.0 lisenssillä</a></string>
+    <string name="about_license_top_text">Tämä peli on julkaistu GPL 3.0 lisensillä:</string>
+    <string name="about_loading">Ladataan…</string>
+    <string name="about_material_icons_text">Material Design teeman ikonit ovat Google Inc:n tekemiä ja julkaistu
+        <a href="https://github.com/google/material-design-icons/blob/master/LICENSE">Apache 2.0 lisenssillä</a></string>
+    <string name="about_name">Tietoa pelistä</string>
+    <string name="about_pixa_bay_license_text">Muut korttiteemat olivat alkujaan julkaistu
+        <a href="www.pixabay.com">pixabay.com</a> sivulla
+        <a href="https://creativecommons.org/publicdomain/zero/1.0/legalcode">CC0 lisenssillä</a></string>
+    <string name="about_poker_theme">Poker card teema: Vectorized Playing Cards 2.0 - <a href="https://sourceforge.net/projects/vector-cards/">sourceforge.net</a> -
+        Copyright 2015 - Chris Aguilar - conjurenation@gmail.com - Lisensoitu <a href="https://www.gnu.org/licenses/lgpl-3.0.en.html">LGPL 3</a> lisessillä</string>
+    <string name="about_program_code_text">Lähdekoodi on saatavilla:</string>
+    <string name="about_sounds">Kaikki äänet on alkujaan julkaistu <a href="https://freesound.org">freesound.org</a> sivustolla
+        <a href="https://creativecommons.org/publicdomain/zero/1.0/legalcode">CC0 lisenssissä</a></string>
+    <string name="about_tab_1">Tietoa</string>
+    <string name="about_tab_2">Lisenssi</string>
+    <string name="about_tab_3">Muutosloki</string>
+    <string name="about_third_party_licenses">Kolmannen osapuolen lisenssit</string>
+    <string name="about_translations">Käännökset</string>
+    <string name="about_translations_esperanto_polish">Esperanto ja Puola: Github käyttäjä verdulo</string>
+    <string name="about_translations_finnish">Suomi: Github käyttäjä winjar</string>
+    <string name="about_translations_french">Ranska: Github käyttäjä romainhk ja cicithesquirrel</string>
+    <string name="about_translations_japanese">Japani: Github käyttäjä naofum</string>
+    <string name="about_translations_turkish">Turkki: Github käyttäjä sekmenhuseyin</string>
+    <string name="app_version">Versio</string>
+    <string name="blue">Sininen</string>
+    <string name="bottomsheet_action_collapse">Tiivistä alapaneeli</string>
+    <string name="bottomsheet_action_expand">Laajenna alapaneeli</string>
+    <string name="bottomsheet_action_expand_halfway">Laajenna puoliväliin</string>
+    <string name="bottomsheet_drag_handle_clicked">Vetokahvaa kaksoisnapautettu</string>
+    <string name="bottomsheet_drag_handle_content_description">Vetokahva</string>
+    <string name="canfield_longest_run">Pisin sarja:</string>
+    <string name="character_counter_content_description">%1$d/%2$d merkkiä kirjoitettu</string>
+    <string name="character_counter_overflowed_content_description">Merkkiraja ylitetty: %1$d/%2$d</string>
+    <string name="clear_text_end_icon_content_description">Tyhjennä teksti</string>
+    <string name="dialog_win_bonus">Palkkio: %1$d</string>
+    <string name="dialog_win_score">Tulos: %1$d</string>
+    <string name="dialog_win_titel">Onnittelu!</string>
+    <string name="dialog_win_total">Yleinen: %1$d</string>
+    <string name="error_icon_content_description">Virhe</string>
+    <string name="exposed_dropdown_menu_content_description">Näytä avattava valikko</string>
+    <string name="game_auto_complete_text">Automaattinen lopetus</string>
+    <string name="game_cancel">Peruuta</string>
+    <string name="game_close">Sulje peli</string>
+    <string name="game_confirm">Vahvista</string>
+    <string name="game_load_error">Tietojen lataus epäonnistui, uusi peli aloitetaan…</string>
+    <string name="game_main_menu">Päävalikko</string>
+    <string name="game_manual">Ohje</string>
+    <string name="game_press_again">Poistu painamalla uudestaan</string>
+    <string name="game_score">Tulos</string>
+    <string name="game_time">Aika</string>
+    <string name="games_AcesUp">AcesUp</string>
+    <string name="games_Canfield">Canfield</string>
+    <string name="games_FortyEight">Forty&amp;Eight</string>
+    <string name="games_Freecell">FreeCell</string>
+    <string name="games_Golf">Golf</string>
+    <string name="games_GrandfathersClock">GrandfathersClock</string>
+    <string name="games_Gypsy">Gypsy</string>
+    <string name="games_Klondike">Klondike</string>
+    <string name="games_Pyramid">Pyramid</string>
+    <string name="games_SimpleSimon">SimpleSimon</string>
+    <string name="games_Spider">Spider</string>
+    <string name="games_TriPeaks">TriPeaks</string>
+    <string name="games_Vegas">Vegas</string>
+    <string name="games_Yukon">Yukon</string>
+    <string name="games_mod3">Mod3</string>
+    <string name="green">Vihreä</string>
+    <string name="icon_content_description">Valintaikkunan kuvake</string>
+    <string name="item_view_role_description">Välilehti</string>
+    <string name="landscape">Vaakataso</string>
+    <string name="manual_AcesUp_objective">Laita ässiä lukuunottamatta kaikki kortit peruspakkaan, jolloin jokaiseen
+        pöytäpinoon jää yksi ässä.</string>
+    <string name="manual_AcesUp_rules">Ainoastaan pinon päällimmäinen kortti voidaan siirtää. Siirrä peruspinoon kortit
+        jotka ovat pienempiä kun toinen samaa maata oleva pinon päällimmäinen kortti. Esimerkki: Kahden pöytäpinon
+        päällimmäiset kortit ovat hertta viisi ja hertta 10. Hertta viisi voidaan siirtää peruspinoon.\n\n
+        Ässät ovat korkeampia kuin mikään muu kortti.\n\n
+        Jokainen pinon päällimmäinen kortti voidaan siirtää tyhjään pöytäpinoon.\n\n
+        Painamalla käsipakkaa yksi kortti jaetaan jokaiseen pöytäpinoon.</string>
+    <string name="manual_AcesUp_scoring">Kortin siirto peruspinoon:: +50</string>
+    <string name="manual_AcesUp_structure">Yksi pakka jossa 52 kortia.\n\n
+        Neljä pöytäpinoa, yksi käsipakka ja yksi peruspino.\n\n
+        Ässät ovat arvoltaan 14, joten ne ovat korkeampia kuin kuninkaat.</string>
+    <string name="manual_Canfield_objective">Järjestä kaikki kortit maittain nousevassa järjestyksessä peruspinoihin.</string>
+    <string name="manual_Canfield_rules">Kortit voidaan asettaa pöytäpinoihin alenevassa järjestyksessä vuorovärein.
+        Peruspinoihin kortit voidaan laittaa nousevassa järjestyksessä maittain. Oikeassa järjestyksessä oleva
+        korttisarja voidaan siirtää kerralla.\n\n
+        Tyhjä pöytäpino täytetään varapakassa olevalla kortilla. Mikäli varapakka on tyhjä, niin siinä tapauksessa
+        käytetään käsipakan korttia.\n\n
+        Jaon yhteydessä peruspinoon jaettu kortti määrittää mitkä kortit voidaan asettaa tyhjään peruspinoon. Esimerkiksi:
+        Mikäli hertta 10 jaettiin peruspinoon, niin silloin vain kortit joiden arvo on 10 voidaan asettaa tyhjään
+        peruspinoon. Peruspino on kierteinen, eli ässä voidaan laittaa kuninkaan päälle.\n\n
+        Painamalla käsipakasta kortit kääntyvät kääntöpakkaan josta niitä voidaan siirtää. Käännettävien korttien määrä
+        määräytyy valittujen asetusten mukaan. Mikäli \"Nosta 1\" on valittuna, niin vain yksi kortti käännetään
+        (Tämä on oletusasetus helpottamaan peliä). Kun \"Nosta 3\" on valittuna, niin silloin kolme
+        korttia käännetään kerralla.\n\n
+        Painamalla tyhjää käsipakkaa kääntöpakka siirretään käsipakaksi ja kortit on jälleen käytettävissä.</string>
+    <string name="manual_Canfield_scoring">Kortin siirto pöytäpinosta peruspinoon: +60\n\n
+        Kortin siirto kääntöpakasta peruspinoon: +45\n\n
+        Kortin siirto peruspinosta pöytäpinoon: -75\n\n
+        Kortin kääntäminen: +25\n\n
+        Korttien palauttaminen kääntöpakasta käsipakkaan: -200</string>
+    <string name="manual_Canfield_structure">Yksi pakka jossa 52 kortia.\n\n
+        Neljä pöytäpinoa, neljä peruspinoa, yksi käsipakka, yksi kääntöpakka ja yksi varapakka.</string>
+    <string name="manual_FortyEight_objective">Järjestä kaikki kortit maittain nousevassa järjestyksessä peruspinoihin.</string>
+    <string name="manual_FortyEight_rules">
+        Kortit voidaan asettaa pöytäpinoihin alenevassa järjestyksessä maittain.
+        Peruspinoihin kortit voidaan laittaa nousevassa järjestyksessä maittain.\n\n
+        Kerralla voi siirtää niin monta korttia (jotka ovat oikeassa järjestyksessä) kuin on tyhjiä pinoja.
+        Tämä perustuu sääntöön mikä määrää, että vain yhden kortin voi siirtää kerrallaan,
+        mutta kun on tyhjiä pinoja, niin silloin kortit voidaan ensiksi siirtää tyhjiin pinoihin ja
+        sen jälkeen kohdepinoon.\n\n
+        Mikä tahansa kortti voidaan asettaa tyhjään pöytäpinoon ja vain ässät voidaan laittaa tyhjään peruspinoon.\n\n
+        Painamalla käsipakasta yksi kortti kääntyy kääntöpakkaan josta sen voi siirtää.\n\n
+        Painamalla tyhjää käsipakkaa kääntöpakka siirretään käsipakaksi ja kortit on jälleen käytettävissä. Tämän voi
+        tehdä ainoastaan kerran pelin aikana. Jäljellä olevien siirtojen määrä näkyy numerona käsipakan yläpuolella.</string>
+    <string name="manual_FortyEight_scoring">Kortin siirto peruspinoon: +45\n\n
+        Kortin siirto peruspinosta pöytäpinoon: -60\n\n
+        Kortin siirto kääntöpakasta pöytäpinoon: +60\n\n
+        Korttien palauttaminen kääntöpakasta käsipakkaan: -200</string>
+    <string name="manual_FortyEight_structure">Kaksi pakkaa joissa 52 kortia.\n\n
+        Kahdeksan pöytäpinoa, kahdeksan peruspinoa, yksi käsipakka ja yksi kääntöpakka.\n\n
+        Kortit voidaan siirtää pelin aikana vain kerran kääntöpakasta käsipakkaan.</string>
+    <string name="manual_Freecell_objective">Järjestä kaikki kortit maittain nousevassa järjestyksessä peruspinoihin.</string>
+    <string name="manual_Freecell_rules">Kortit voidaan asettaa pöytäpinoihin alenevassa järjestyksessä vuorovärein.
+        Peruspinoihin kortit voidaan laittaa nousevassa järjestyksessä maittain. Jokainen ylhäällä olevasta neljästä
+        solusta voi sisältää vain yhden kortin kerrallaan.\n\n
+        Kerralla voi siirtää niin monta korttia (jotka ovat oikeassa järjestyksessä) kuin on tyhjiä pinoja
+        (pöytäpinot ja solut). Tämä perustuu sääntöön mikä määrää, että vain yhden kortin voi siirtää kerrallaan,
+        mutta kun on tyhjiä pinoja, niin silloin kortit voidaan ensiksi siirtää tyhjiin pinoihin ja
+        sen jälkeen kohdepinoon.\n\n
+        Jokainen kortti voidaan asettaa tyhjään pöytäpinoon ja soluun. Ainoastaan ässät voidaan laittaa tyhjään
+        peruspinoon.</string>
+    <string name="manual_Freecell_scoring">Kortin siirto peruspinoon: +60\n\n
+        Kortin siirto peruspinosta: -75\n\n
+        Kuninkaan siirtäminen tyhjään pöytäpinoon: +20</string>
+    <string name="manual_Freecell_structure">Yksi pakka jossa 52 kortia.\n\n
+        Kahdeksan pöytäpinoa, neljä peruspinoa ja neljä tyhjää solua.</string>
+    <string name="manual_Golf_objective">Siirrä kaikki kortit pöytäpinoista kääntöpakkaan.</string>
+    <string name="manual_Golf_rules">Pöytäpinojen päällimmäisiä kortteja voidaan siirtää kääntöpakkaan.
+        Kortit voidaan asettaa nousevassa ja alenemassa järjestyksessä maasta välittämättä.\n\n
+        Asetuksista riippuen kuningas voidaan asettaa ässän päälle ja päinvastoin (helpompi peli).\n\n
+        Mikäli mitään korttia ei voida siirtää, uusi kortti käännetään kääntöpakkaan painamalla käsipakasta.</string>
+    <string name="manual_Golf_scoring">Kortin siirto kääntöpakkaan: +50</string>
+    <string name="manual_Golf_structure">Yksi pakka jossa 52 kortia.\n\n
+        Seitsemän pöytäpinoa, yksi käsipakka ja yksi kääntöpakka.\n\n
+        Korttien siirtäminen kääntöpakasta takaisin käsipakkaan ei ole mahdollista
+        (Paitsi käyttämällä Kumoa painiketta).</string>
+    <string name="manual_GrandfathersClock_objective">Järjestä kaikki kortit maittain nousevassa järjestyksessä peruspinoihin.
+        Lopussa peruspinojen päällimmäinen kortti vastaa kellon tunteja.</string>
+    <string name="manual_GrandfathersClock_rules">Kortit voidaan asettaa pöytäpinoihin alenevassa järjestyksessä, väri ei ole väliä.
+        Peruspinoihin kortit voidaan laittaa nousevassa järjestyksessä maittain. Ässät voidaan sijoittaa kuninkaiden päälle.\n\n
+        Kerralla voi siirtää niin monta korttia (jotka ovat oikeassa järjestyksessä) kuin on tyhjiä pinoja.
+        Tämä perustuu sääntöön mikä määrää, että vain yhden kortin voi siirtää kerrallaan,
+        mutta kun on tyhjiä pinoja, niin silloin kortit voidaan ensiksi siirtää tyhjiin pinoihin ja
+        sen jälkeen kohdepinoon.
+       </string>
+    <string name="manual_GrandfathersClock_scoring">Kortin siirto pöytäpinosta peruspinoon: +50</string>
+    <string name="manual_GrandfathersClock_structure">Yksi pakka jossa 52 kortia.\n\n
+        Kahdeksan pöytäpinoa ja kaksitoista peruspinoa kellon muodossa. Jokainen peruspino sisältää yhden kortin</string>
+    <string name="manual_Gypsy_objective">Järjestä kaikki kortit maittain nousevassa järjestyksessä peruspinoihin.</string>
+    <string name="manual_Gypsy_rules">Kortit voidaan asettaa pöytäpinoihin alenevassa järjestyksessä vuorovärein.
+        Peruspinoihin kortit voidaan laittaa nousevassa järjestyksessä maittain. Oikeassa järjestyksessä oleva
+        korttisarja voidaan siirtää kerralla.\n\n
+        Mikä tahansa kortti voidaan asettaa tyhjään pöytäpinoon ja vain ässät voidaan laittaa tyhjään peruspinoon.\n\n
+        Painamalla käsipakkaa yksi kortti jaetaan jokaiseen pöytäpinoon.</string>
+    <string name="manual_Gypsy_scoring">Kortin siirto peruspinoon: +75\n\n
+        Kortin siirto peruspinosta pöytäpinoon: -100\n\n
+        Kortin kääntäminen kuvapuoli ylöspäin: +50</string>
+    <string name="manual_Gypsy_structure">Kaksi pakkaa joissa 52 kortia.\n\n
+        Kahdeksan pöytäpinoa, kahdeksan peruspinoa ja yksi käsipakka.</string>
+    <string name="manual_Klondike_objective">Järjestä kaikki kortit maittain nousevassa järjestyksessä peruspinoihin.</string>
+    <string name="manual_Klondike_rules">Kortit voidaan asettaa pöytäpinoihin alenevassa järjestyksessä vuorovärein.
+        Peruspinoon voidaan asettaa vain vastaavan maan kortteja nousevassa järjestyksessä. Kokonainen korttisarja
+        voidaan siirtää kerralla.\n\n
+        Ainoastaan kuninkaita voidaan laittaa tyhjään pöytäpinoon ja vain ässiä voidaan asettaa tyhjään peruspinoon.\n\n
+        Painamalla käsipakasta kortit kääntyvät kääntöpakkaan josta niitä voidaan siirtää. Käännettävien korttien määrä
+        määräytyy valittujen asetusten mukaan. Mikäli \"Nosta 1\" on valittuna, niin vain yksi kortti käännetään
+        (Tämä on oletusasetus helpottamaan peliä). Kun \"Nosta 3\" on valittuna, niin silloin kolme
+        korttia käännetään kerralla.\n\n
+        Painamalla tyhjää käsipakkaa kääntöpakka siirretään käsipakaksi ja kortit on jälleen käytettävissä.</string>
+    <string name="manual_Klondike_scoring">Kortin siirto pöytäpinosta peruspinoon: +60\n\n
+        Kortin siirto kääntöpakasta peruspinoon: +45\n\n
+        Kortin siirto peruspinosta pöytäpinoon: -75\n\n
+        Kortin kääntäminen: +25\n\n
+        Korttien palauttaminen kääntöpakasta käsipakkaan: -200</string>
+    <string name="manual_Klondike_structure">Yksi pakka jossa 52 kortia.\n\n
+        Seitsemän pöytäpinoa, neljä peruspinoa, yksi käsipakka ja yksi kääntöpakka.</string>
+    <string name="manual_Pyramid_objective">Siirrä kaikki kortit pöytäpinoista kaatopakkaan. Riippuen asetuksista,
+        myös kortit käsipakasta ja kääntöpakasta pitää siirtää kaatopakkaan.</string>
+    <string name="manual_Pyramid_rules">Tässä pelissä on hieman poikkeavat säännöt muihin pasiansseihin. Jokainen kortti
+        joka ei ole muiden korttien alla on pelattavissa. Kaksi korttia joiden yhteenlaskettu summa on 13 voidaan
+        siirtää kaatopakkaan. Tee tämä siirtämällä kortti toisen pelattavissa olevan kortin päälle.
+        Mikäli yhteenlaskettu summa on oikein, silloin molemmat kortit siirretään automaattisesti kaatopakkaan.\n\n
+        Käsi- ja kääntöpakan kortteja voidaan myös käyttää. Mikäli kortteja ei voida siirtää kaatopakkaan, paina nuolta
+        pakkojen välillä siirtääksesi yhden kortin käsipakasta kääntöpakkaan. Jos käsipakka on tyhjä, paina pakkaa
+        tai nuolta palauttaaksesi kortit kääntöpakasta käsipakkaan. Tämä siirto voidaan tehdä vain kahdesti pelin aikana.
+        Jäljellä olevien siirtojen määrä näkyy numerona nuolen yläpuolella.</string>
+    <string name="manual_Pyramid_scoring">Kortin siirto kaatopakkaan: +50\n\n
+        Korttien palauttaminen kääntöpakasta käsipakkaan: -200</string>
+    <string name="manual_Pyramid_structure">Yksi pakka jossa 52 kortia.\n\n
+        28 pöytäpinoa, yksi käsipakka, yksi kääntöpakka ja yksi kaatopakka.\n\n
+        Kortit voidaan siirtää pelin aikana vain kahdesti kääntöpakasta käsipakkaan.</string>
+    <string name="manual_SimpleSimon_objective">Järjestä kaikki maan kortit alenevassa järjestyksessä mihin tahansa
+        pöydällä, jolloin korttisarjan kortit siirretään automaattisesti peruspinoon.</string>
+    <string name="manual_SimpleSimon_rules">Kortit voidaan asettaa alenevassa järjestyksessä minkä tahansa maan
+        kortin päälle. Mutta ainoastaan maittain olevat korttisarjat voidaan siirtää kerralla.\n\n
+        Mikä tahansa kortti voidaan asettaa tyhjään pöytäpinoon.</string>
+    <string name="manual_SimpleSimon_scoring">Maan siirto peruspinoon: +200</string>
+    <string name="manual_SimpleSimon_structure">Yksi pakka jossa 52 kortia.\n\n
+        10 pöytäpinoa ja neljä peruspinoa.</string>
+    <string name="manual_Spider_objective">Järjestä kaikki maan kortit alenevassa järjestyksessä mihin tahansa pöydällä,
+        jolloin korttisarjan kortit siirretään automaattisesti peruspinoon.</string>
+    <string name="manual_Spider_rules">Kortit voidaan asettaa alenevassa järjestyksessä minkä tahansa maan kortin päälle.
+        Mutta ainoastaan maittain olevat korttisarjat voidaan siirtää kerralla.\n\n
+        Mikä tahansa kortti voidaan asettaa tyhjään pöytäpinoon.\n\n
+        Painamalla käsipakasta jokaiseen pöytäpinoon jaetaan uusi kortti.</string>
+    <string name="manual_Spider_scoring">Maan siirto peruspinoon: +200\n\n
+        Kortin kääntäminen kuvapuoli ylöspäin: +25</string>
+    <string name="manual_Spider_structure">Kaksi pakkaa joissa 52 kortia.\n\n
+        10 pöytäpinoa ja kahdeksan peruspinoa.\n\n
+        Yksi käsipakka jaettuna viiteen pinoon.\n\n
+        Riippuen asetuksista: yksi, kaksi tai neljä eri maata.</string>
+    <string name="manual_TriPeaks_objective">Siirrä kaikki kortit pöytäpinoista kaatopakkaan.</string>
+    <string name="manual_TriPeaks_rules">Tämän pelin säännöt ovat samankaltaiset kuin \"Golf\" pelissä.
+        Jokainen kortti joka ei ole muiden korttien alla on pelattavissa.
+        Kortit voidaan asettaa nousevassa ja alenemassa järjestyksessä maasta välittämättä.\n\n
+        Asetuksista riippuen kuningas voidaan asettaa ässän päälle ja päinvastoin.\n\n
+        Mikäli mitään korttia ei voida siirtää, uusi kortti käännetään kääntöpakkaan painamalla käsipakasta.</string>
+    <string name="manual_TriPeaks_scoring">Kortin siirto kaatopakkaan: +50</string>
+    <string name="manual_TriPeaks_structure">Yksi pakka jossa 52 kortia.\n\n
+        28 pöytäpinoa, yksi käsipakka ja yksi kääntöpakka.\n\n
+        Korttien siirtäminen kääntöpakasta takaisin käsipakkaan ei ole mahdollista
+        (Paitsi käyttämällä Kumoa painiketta).</string>
+    <string name="manual_Vegas_objective">Siirrä kortit peruspinoihin voittaaksesi rahaa.</string>
+    <string name="manual_Vegas_rules">Säännöt ovat samat kuin \"Klondike\"-pelissä. Kortit voidaan asettaa pöytäpinoihin alenevassa järjestyksessä vuorovärein.
+        Peruspinoon voidaan asettaa vain vastaavan maan kortteja nousevassa järjestyksessä. Kokonainen korttisarja
+        voidaan siirtää kerralla.\n\n
+        Ainoastaan kuninkaita voidaan laittaa tyhjään pöytäpinoon ja vain ässiä voidaan asettaa tyhjään peruspinoon.\n\n
+        Painamalla käsipakasta kortit kääntyvät kääntöpakkaan josta niitä voidaan siirtää. Käännettävien korttien määrä
+        määräytyy valittujen asetusten mukaan. Mikäli \"Nosta 1\" on valittuna, niin vain yksi kortti käännetään.
+        Kun \"Nosta 3\" on valittuna, niin silloin kolme korttia käännetään kerralla.\n\n
+        Painamalla tyhjää käsipakkaa kääntöpakka siirretään käsipakaksi ja kortit on jälleen käytettävissä.</string>
+    <string name="manual_Vegas_scoring">Voittosumma määräytyy asetuksissa määritellyn panoksen mukaan.
+        Maksat pelin alussa esimerksi $50 ja jokaisesta peruspinoon siirretystä kortista voitat 1/10 panoksesta.
+        \n\nPeli tulkitaan voitetuksi, kun tulos on yli 0. Kortin siirtäminen pois peruspinosta maksaa 2/10 panoksesta.
+        \n\nVihje ja kumoa-toiminto maksavat 1/10 panoksesta.
+        \n\EROTUSLAUSUMA: Pelissä ei pelata oikeilla rahoilla :)</string>
+    <string name="manual_Vegas_structure">@string/manual_Klondike_structure</string>
+    <string name="manual_Yukon_objective">Järjestä kaikki kortit maittain nousevassa järjestyksessä peruspinoihin.</string>
+    <string name="manual_Yukon_rules">Kortit voidaan asettaa pöytäpinoihin alenevassa järjestyksessä vuorovärein.
+        Peruspinoihin kortit voidaan laittaa nousevassa järjestyksessä maittain.n\n
+        Jokainen kuvapuoli ylöspäin oleva kortti voidaan siirtää, oli sen päällä kuinka monta korttia tahansa ja
+        missä tahansa järjestyksessä.\n\n
+        Ainoastaan kuninkaat voidaan asettaa tyhjään pöytäpinoon ja vain ässät voidaan laittaa tyhjään peruspinoon.</string>
+    <string name="manual_Yukon_scoring">Kortin siirto peruspinoon: +60\n\n
+        Kortin siirto peruspinosta: -75\n\n
+        Kuninkaan siirtäminen tyhjään pöytäpinoon: +20\n\n
+        Kortin kääntäminen kuvapuoli ylöspäin: +25</string>
+    <string name="manual_Yukon_structure">Yksi pakka jossa 52 kortia.\n\n
+        Seitsemän pöytäpinoa, neljä peruspinoa.</string>
+    <string name="manual_back_to_game">Takaisin peliin</string>
+    <string name="manual_bonus">Pelin voittamisen jälkeen saat bonuksen: Mitä nopeammin voitat, sitä korkeampi bonus on.</string>
+    <string name="manual_feedback">Palaute</string>
+    <string name="manual_feedback_text">Löytyikö bugi tai virhe? Jotakin mitä minun pitäisi parantaa?
+        Pitäisikö minun lisätä uusi peli valikoimaan? Ehkä haluat auttaa käännöksissä? Tai jokin muu idea?\n\n
+        Otan mielelläni vastaan kaikenlaista palautetta. Jos haluat ottaa yhteyttä,
+        niin voit valita kahdesta vaihtoehdosta:\n\n
+        Käytä GitHub:n Issue Tracker:iä: Tämän sovelluksen projektilla GitHub:ssa on näppärä toiminnallisuus jolla voi
+        raportoida ongelmista. Näytön vasemmassa reunassa olevalla painikkeella voit avata Issue Tracker:n selaimessa.\n\n
+        Käytä arviointia Google Play:ssä: Jätä arvio tästä soveluksesta ja kirjoita siihen mitä haluat.
+        Näytön oikealla puolella olevalla painikkeella voit avata Google Play Store:n (mikäli se on asennettu).\n\n
+        Kiitos etukäteen palautteestasi :)</string>
+    <string name="manual_games">Pelit</string>
+    <string name="manual_games_text1">Valitse peli nähdäksesi sen kokoonpano, tavoite, säännöt
+        ja pisteytys.</string>
+    <string name="manual_general_main_menu">Päävalikon käyttäminen on suhteellisen helppoa.
+        Aloita peli vain napauttamalla sitä.\n\n
+        Uudelleen käynnistäessä sovellus automaattisesti lataa edellisen pelatun pelin jos se on keskeytynyt.
+        Tämän toiminnon voi ottaa pois käytöstä asetusten \"Yleistä\" valikosta.\n\n
+        Asetuksista löytyy myös \"Päävalikko\" osio, mistä voi piilottaa pelit valikosta
+        ja muuttaa sarakkeiden määrää, jotta pelit mahtuisivat paremmin näytölle.</string>
+    <string name="manual_main_menu">Päävalikko</string>
+    <string name="manual_mod3_objective">Järjestä kaikki kortit kolmeen ylinpään riviin seuraavanlaiseen maan mukaiseen
+        järjestykseen:\n\n
+        Ensimmäinen rivi: 2-5-8-J\n
+        Toinen rivi: 3-6-9-Q\n
+        Kolmas rivi: 4-7-10-K\n\n
+        Ässät siirretään ässäpinoon.</string>
+    <string name="manual_mod3_rules">Ainoastaan pinon päällimmäinen kortti voidaan siirtää kerrallaan. Kortti voidaan
+        asettaa ainoastaan mikäli pinon järjestys täyttää \"Tavoitteet\" osion määrittelemät vaatimukset. Esimerkiksi
+        hertta viisi voidaan asettaa heltta kaksosen päälle, mutta ainoastaan silloin kun hertta kaksi on ensimmäisessä
+        rivissä. Eri maita ei myöskään sallita.\n\n
+        Siirtämällä ässät ässäpinoon vapautuu tyhjiä pinoja.\n\n
+        Neljäs rivi on kääntörivi käsipakasta käännettäville korteille. Mikä tahansa kortti voidaan asettaa tyhjään
+        pinoon neljännellä rivillä.\n\n
+        Painamalla käsipakkaa yksi kortti jaetaan neljännen rivin jokaiseen pinoon.</string>
+    <string name="manual_mod3_scoring">Kortin siirto oikeaan kenttään: +50\n\n
+        Kortin siirto neljänteen riviin: -75</string>
+    <string name="manual_mod3_structure">Kaksi pakkaa joissa 52 kortia.\n\n
+        32 pöytäpinoa, yksi käsipakka ja yksi ässäpino.</string>
+    <string name="manual_objective">Tavoite</string>
+    <string name="manual_open_github">Avaa GitHub Repo</string>
+    <string name="manual_open_google_play">Avaa Google Play</string>
+    <string name="manual_rules">Säännöt</string>
+    <string name="manual_scoring">Pisteytys</string>
+    <string name="manual_startpage">Aloitussivu</string>
+    <string name="manual_startpage_text">Tervetuloa tämän pelikokoelman ohjeeseen! Toivon, että se selittää
+        kaiken tarvittavan.\n\n
+        Käytä vasemmalla olevaa valikkoa siirtyäksesi eri ohjesivuille.</string>
+    <string name="manual_structure">Kokoonpano</string>
+    <string name="manual_ui">Käyttöliittymä</string>
+    <string name="manual_ui_text">Peli näyttää aina pienen valikon näytön alaosassa (pystynäkymä) tai
+        oikealla puollella (vaakanäkymä). Se näyttää myös sen hetkiset pisteet ja käytetyn ajan.
+        Mikäli mahdollista, nämä kaksi arvoa talletetaan ennätyksiin.
+        Valikko pitää sisällään viisi kohtaa joilla on seuraavat toiminnot (painikkeet vasemmalta oikealle):\n\n
+        \"Tulokset\" painike näyttää uudessa ikkunassa kyseisen pelin ennätykset ja voitettujen pelien lukumäärän.\n\n
+        \"Vihje\" painike avustaa näyttämällä kerrallaan kolme mahdollista siirtoa. Mutta tämä vähentää pisteistä
+        25 pistettä. Huomioi, että yksinkertaisia siirtoja kuten kaikkien korttien siirtäminen tyhjään pinoon tai
+        käsipakan painamista ei näytetä vihjeinä. Mikäli vihjettä ei näytetä, silloin ei pisteitäkään vähennetä.\n\n
+        \"Valikko\" painike näyttää kolme eri toimintoa: Aloita uusi peli sekoittamalla kortit
+        ja jakamalla uusi jako. Jaa kortit uudelleen tekee saman ilman, että kortteja sekoitetaan.
+        Eli se on sama kuin nykyisen pelin aloittaminen alusta. Viimeinen vaihtoehto lopettaa pelin ja
+        sovellus palaa päävalikkoon.\n\n
+        \"Kumoa\" painike peruuttaa edellisen siirron, mutta se maksaa 20 pistettä.
+        Tätä voidaan käyttää aina 20 viimeisimpään siirtoon.\n\n
+        \"Asetukset\" painike avaa asetukset-valikon.</string>
+    <string name="material_clock_toggle_content_description">Valitse AP tai IP</string>
+    <string name="material_hour_24h_suffix">%1$s tuntia</string>
+    <string name="material_hour_selection">Valitse tunti</string>
+    <string name="material_hour_suffix">klo %1$s</string>
+    <string name="material_minute_selection">Valitse minuutit</string>
+    <string name="material_minute_suffix">%1$s minuuttia</string>
+    <string name="material_timepicker_am">ap</string>
+    <string name="material_timepicker_clock_mode_description">Vaihda ajan syöttämiseen kellotilassa.</string>
+    <string name="material_timepicker_hour">Tunnit</string>
+    <string name="material_timepicker_minute">Minuutti</string>
+    <string name="material_timepicker_pm">ip</string>
+    <string name="material_timepicker_select_time">Valitse aika</string>
+    <string name="material_timepicker_text_input_mode_description">Vaihda ajan syöttämiseen tekstitilassa.</string>
+    <string name="menu_hint">Vihje</string>
+    <string name="menu_main_menu">Valikko</string>
+    <string name="menu_settings">Asetukset</string>
+    <string name="menu_statistics">Kojelauta</string>
+    <string name="menu_undo">Kumoa</string>
+    <string name="mtrl_badge_numberless_content_description">Uusi ilmoitus</string>
+    <string name="mtrl_chip_close_icon_content_description">Poista %1$s</string>
+    <string name="mtrl_exceed_max_badge_number_content_description" ns2:ignore="PluralsCandidate">Yli %1$d uutta ilmoitusta</string>
+    <string name="mtrl_picker_a11y_next_month">Vaihda seuraavaan kuukauteen</string>
+    <string name="mtrl_picker_a11y_prev_month">Vaihda edelliseen kuukauteen</string>
+    <string name="mtrl_picker_announce_current_selection">Nykyinen valinta: %1$s</string>
+    <string name="mtrl_picker_cancel">Peru</string>
+    <string name="mtrl_picker_confirm">OK</string>
+    <string name="mtrl_picker_date_header_selected">%1$s</string>
+    <string name="mtrl_picker_date_header_title">Valitse päivämäärä</string>
+    <string name="mtrl_picker_date_header_unselected">Valittu päivämäärä</string>
+    <string name="mtrl_picker_day_of_week_column_header">Päiväsarake: %1$s</string>
+    <string name="mtrl_picker_invalid_format">Virheellinen muoto</string>
+    <string name="mtrl_picker_invalid_format_example">Esimerkki: %1$s</string>
+    <string name="mtrl_picker_invalid_format_use">Käytä muotoa %1$s</string>
+    <string name="mtrl_picker_invalid_range">Virheellinen alue</string>
+    <string name="mtrl_picker_navigate_to_year_description">Siirry vuoteen %1$s</string>
+    <string name="mtrl_picker_out_of_range">Aikavälin ulkop.: %1$s</string>
+    <string name="mtrl_picker_range_header_only_end_selected">Alkamispäivä – %1$s</string>
+    <string name="mtrl_picker_range_header_only_start_selected">%1$s – päättymispäivä</string>
+    <string name="mtrl_picker_range_header_selected">%1$s – %2$s</string>
+    <string name="mtrl_picker_range_header_title">Valitse jakso</string>
+    <string name="mtrl_picker_range_header_unselected">Alkamispäivä – päättymispäivä</string>
+    <string name="mtrl_picker_save">Tallenna</string>
+    <string name="mtrl_picker_text_input_date_hint">Päivämäärä</string>
+    <string name="mtrl_picker_text_input_date_range_end_hint">Päättymispäivä</string>
+    <string name="mtrl_picker_text_input_date_range_start_hint">Alkamispäivä</string>
+    <string name="mtrl_picker_text_input_day_abbr">p</string>
+    <string name="mtrl_picker_text_input_month_abbr">k</string>
+    <string name="mtrl_picker_text_input_year_abbr">v</string>
+    <string name="mtrl_picker_toggle_to_calendar_input_mode">Vaihda syöttötavaksi kalenteri</string>
+    <string name="mtrl_picker_toggle_to_day_selection">Siirry päivän valintaan napauttamalla</string>
+    <string name="mtrl_picker_toggle_to_text_input_mode">Valitse syöttötavaksi teksti</string>
+    <string name="mtrl_picker_toggle_to_year_selection">Siirry vuoden valintaan napauttamalla</string>
+    <string name="mtrl_timepicker_cancel">Peru</string>
+    <string name="mtrl_timepicker_confirm">OK</string>
+    <string name="orange">Oranssi</string>
+    <string name="page_load_error">Tälle pelille ei ole sivua…</string>
+    <string name="password_toggle_content_description">Näytä salasana</string>
+    <string name="portrait">Pystysuunta</string>
+    <string name="purple">Purppura</string>
+    <string name="red">Punainen</string>
+    <string msgid="6264217191555673260" name="search_menu_title">"Haku"</string>
+    <string name="settings">Asetukset</string>
+    <string name="settings_4_color_mode_text">Muuta ristit vihreiksi ja ruudut sinisiksi</string>
+    <string name="settings_4_color_mode_title">Neliväri pakat</string>
+    <string name="settings_about_description">Näytä tietoa pelistä kuten lisenssi ja muutosloki</string>
+    <string name="settings_abstract">Abstrakti</string>
+    <string name="settings_additional_movements">Muut korttien siirrot</string>
+    <string name="settings_additional_movements_description">Salli tai estä kaksoisnapautus ja muut korttien siirtomenetelmät</string>
+    <string name="settings_auto_start_new_game_text">Mikäli palataan peliin joka on jo voitettu, käynnistä uusi peli automaattisesti</string>
+    <string name="settings_auto_start_new_game_title">Aloita uusi peli voiton jälkeen</string>
+    <string name="settings_back_press">Vahvista pelin sulkeminen</string>
+    <string name="settings_back_press_description">Paina takaisin painiketta kahdesti sulkeaksesi pelin</string>
+    <string name="settings_background">Taustanumero</string>
+    <string name="settings_background_color">Taustaväri</string>
+    <string name="settings_background_color_custom">Mukautettu</string>
+    <string name="settings_basic">Perus</string>
+    <string name="settings_canfield_draw">Kuinka monta korttia nostetaan</string>
+    <string name="settings_cards">Kortit</string>
+    <string name="settings_cards_back">Korttien taustat</string>
+    <string name="settings_change_language">Vaihda kieli</string>
+    <string name="settings_classic">Klassinen</string>
+    <string name="settings_customization">Ulkoasu</string>
+    <string name="settings_customization_description">Muuta kortteja ja taustaa</string>
+    <string name="settings_double_tap">Kaksoisnapautus</string>
+    <string name="settings_double_tap_all_cards">Siirrä kaikki mahdolliset kortit</string>
+    <string name="settings_double_tap_all_cards_text">Siirrä niin monta korttia pinosta kuin on mahdollista,
+        eikä ainoastaan korttia johon on koskettu</string>
+    <string name="settings_double_tap_enable">Salli siirrot kaksoisnapautuksella</string>
+    <string name="settings_double_tap_enable_text">Siirrä kortti seuraavaan mahdolliseen pinoon painamalla korttia kahdesti</string>
+    <string name="settings_double_tap_foundation_first">Siirretään ensiksi peruspinoon</string>
+    <string name="settings_double_tap_foundation_first_text">Yritä siirtää napautetun pinon päällimmäinen kortti peruspinoon ennen muiden korttien siirtoa</string>
+    <string name="settings_games">Pelit</string>
+    <string name="settings_games_description">Aseta valinnat eri peleille</string>
+    <string name="settings_golf_easy">Kierteiset siirrot (Helpompi)</string>
+    <string name="settings_golf_easy_description">Salli ässien asettaminen kuninkaiden päälle ja päinvastoin</string>
+    <string name="settings_hide_status_bar">Piilota tilapalkki</string>
+    <string name="settings_icon_theme">Kuvake teema</string>
+    <string name="settings_klondike_draw">Kuinka monta korttia nostetaan</string>
+    <string name="settings_left_handed_mode">Vasenkätinen tila</string>
+    <string name="settings_left_handed_mode_description">Siirtää kortit ja pinot vasemmalle puolelle</string>
+    <string name="settings_limit_number_of_recycles">Rajoita uudelleen jakojen määrää</string>
+    <string name="settings_limit_number_of_recycles_text">Kääntäminen kääntöpakasta takaisin käsipakkaan on rajoitettu</string>
+    <string name="settings_menu">Päävalikko</string>
+    <string name="settings_menu_bar_position">Valikkopalkin sijanti</string>
+    <string name="settings_menu_bar_position_bottom">Alhaalla</string>
+    <string name="settings_menu_bar_position_left">Vasemmalla</string>
+    <string name="settings_menu_bar_position_right">Oikealla</string>
+    <string name="settings_menu_bar_position_top">Ylhäällä</string>
+    <string name="settings_menu_columns">Sarakkeiden määrä</string>
+    <string name="settings_menu_description">Muuta sarakkeiden määrää, tuo esiin ja piilota pelejä</string>
+    <string name="settings_menu_games">Tuo esiin ja piilota pelejä</string>
+    <string name="settings_menu_games_description">Valitse mitkä pelit näytetään valikossa</string>
+    <string name="settings_menu_order_set_default">Palauta järjestys</string>
+    <string name="settings_menu_order_summary">Paina pitkään valikon kohtaa, jonka jälkeen vedä ja pudota muuttaaksesi valikon järjestystä</string>
+    <string name="settings_menu_order_title">Valikon järjestys</string>
+    <string name="settings_modern">Moderni</string>
+    <string name="settings_movement_speed">Korttien siirtonopeus</string>
+    <string name="settings_number_of_recycles">Kääntämisten määrä</string>
+    <string name="settings_orientation">Näytön orientaatio</string>
+    <string name="settings_other">Yleistä</string>
+    <string name="settings_other_description">Aseta kaikki muut asetukset</string>
+    <string name="settings_oxygen_dark">Oxygen Tumma</string>
+    <string name="settings_oxygen_light">Oxygen Vaalea</string>
+    <string name="settings_poker">Pokeri</string>
+    <string name="settings_pyramid_difficulty">Vaikeustaso</string>
+    <string name="settings_restart_canfield">Aloita uusi Canfield peli jotta muutokset tulevat voimaan</string>
+    <string name="settings_restart_fortyeight">Aloita uusi Forty&amp;Eight peli jotta muutokset tulevat voimaan</string>
+    <string name="settings_restart_klondike">Aloita uusi Klondike peli jotta muutokset tulevat voimaan</string>
+    <string name="settings_restart_spider">Aloita uusi Spider peli jotta muutokset tulevat voimaan</string>
+    <string name="settings_restart_vegas">Aloita uusi Vegas peli jotta muutokset tulevat voimaan</string>
+    <string name="settings_restart_yukon">Aloita uusi Yukon peli jotta muutokset tulevat voimaan</string>
+    <string name="settings_show_main_menu">Käynnisty päävalikkoon</string>
+    <string name="settings_show_main_menu_description">Älä siirry käynnistyessä edelliseen pelattuun peliin</string>
+    <string name="settings_show_manual_in_menu">Ohjesivu pelivalikossa</string>
+    <string name="settings_show_manual_in_menu_description">Näytä painike jolla avata kyseisen pelin ohje</string>
+    <string name="settings_simple">Yksinkertainen</string>
+    <string name="settings_single_tap">Yksittäinen napautus</string>
+    <string name="settings_single_tap_enable">Salli siirrot yksittäisellä napautuksella</string>
+    <string name="settings_single_tap_enable_text">Vain Golf ja TriPeaks: Siirrä kortti kääntöpakkaan painamalla korttia kerran</string>
+    <string name="settings_spider_difficulty">Kuinka monta eri maata</string>
+    <string name="settings_tap_to_select">Valitse napauttamalla</string>
+    <string name="settings_tap_to_select_enable">Salli Valitse napauttamalla siirrot</string>
+    <string name="settings_tap_to_select_enable_text">Valitse kortti napauttamalla sitä, jonka jälkeen suorita siirto napauttamalla kohdepinoa</string>
+    <string name="settings_vegas_bet_amount">Panos</string>
+    <string name="settings_vegas_bet_amount_progress_text">Alkujako maksaa %1$d$, jokainen peruspinoon siirretty kortti tuottaa %2$d$.</string>
+    <string name="settings_vegas_bet_amount_summary">Alkujako: -%1$d$, kortti peruspinoon: +%2$d$</string>
+    <string name="settings_yukon_rules">Aseta kortit…</string>
+    <string name="statistics_button_delete">Poista kaikki tulokset!</string>
+    <string name="statistics_button_delete_text">Poista kaikki tämän pelin tulokset! Oletko varma?</string>
+    <string name="statistics_button_deleted_all_entries">Kaikki tulokset poistettu</string>
+    <string name="statistics_date">Päiväys</string>
+    <string name="statistics_text_won_games">%1$d voittoa, %2$d peliä</string>
+    <string name="statistics_time_of_day">Kellonaika</string>
+    <string name="statistics_win_percentage">Voittoprosentti: %1$.0f%%</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="title_activity_manual">Ohje</string>
+    <string name="title_activity_settings">Asetukset</string>
+    <string name="title_activity_statistics">Ennätykset</string>
+    <string name="yellow">Keltainen</string>
+</resources>

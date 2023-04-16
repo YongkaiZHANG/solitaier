@@ -1,0 +1,37 @@
+<preference-headers xmlns:android="http://schemas.android.com/apk/res/android">
+    <header
+        android:fragment="be.kuleuven.drsolitaire.ui.settings.Settings$CustomizationPreferenceFragment"
+        android:summary="@string/settings_customization_description"
+        android:title="@string/settings_customization" />
+
+    <header
+        android:fragment="be.kuleuven.drsolitaire.ui.settings.Settings$MenuPreferenceFragment"
+        android:summary="@string/settings_menu_description"
+        android:title="@string/settings_menu" />
+
+    <header
+        android:summary="@string/settings_games_description"
+        android:title="@string/settings_games" >
+
+        <intent
+            android:targetClass="be.kuleuven.drsolitaire.ui.settings.SettingsGames"
+            android:targetPackage="be.kuleuven.drsolitaire" />
+    </header>
+
+    <header
+        android:fragment="be.kuleuven.drsolitaire.ui.settings.Settings$SoundPreferenceFragment"
+        android:summary="@string/Settings_sounds_text"
+        android:title="@string/Settings_sounds_title" />
+
+    <header
+        android:fragment="be.kuleuven.drsolitaire.ui.settings.Settings$AdditionalMovementsPreferenceFragment"
+        android:summary="@string/settings_additional_movements_description"
+        android:title="@string/settings_additional_movements" />
+
+    <header
+        android:fragment="be.kuleuven.drsolitaire.ui.settings.Settings$OtherPreferenceFragment"
+        android:summary="@string/settings_other_description"
+        android:title="@string/settings_other" />
+
+
+</preference-headers>

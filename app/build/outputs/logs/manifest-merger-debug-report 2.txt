@@ -1,0 +1,437 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/kai/Desktop/master_thesis/solitaire/app/src/main/AndroidManifest.xml:2:1-65:12
+INJECTED from /Users/kai/Desktop/master_thesis/solitaire/app/src/main/AndroidManifest.xml:2:1-65:12
+INJECTED from /Users/kai/Desktop/master_thesis/solitaire/app/src/main/AndroidManifest.xml:2:1-65:12
+INJECTED from /Users/kai/Desktop/master_thesis/solitaire/app/src/main/AndroidManifest.xml:2:1-65:12
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/4a5808e698dd83ee1998088d413ce090/transformed/lifecycle-extensions-2.2.0/AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.android.material:material:1.8.0] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/33cb7cfb4965debf2bab5187aabbbc8c/transformed/material-1.8.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/62d45331bb1033af7460f0f3de36bbe9/transformed/constraintlayout-2.1.4/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/843a1b13bc178299aaae103e34a64238/transformed/jetified-appcompat-resources-1.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.6.1] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/393d5dc5f6c538b729e435f1d80aebd6/transformed/appcompat-1.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/8728359f56b56a6836b5dfe9aff3eaa9/transformed/legacy-support-v4-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/62fd44b0d38aab7c6e99b02e2377e543/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.5.5] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/396d452354cc1a62b9553a8799722e0d/transformed/fragment-1.5.5/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.6.0] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/5574b45df44cae1fb3290be6f8e56670/transformed/jetified-activity-1.6.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.0] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/3b498f6e5a29b4359f2a1515b4ec63b5/transformed/jetified-lifecycle-viewmodel-savedstate-2.6.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.0] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/fc47073495fa7c9274f8a57c990bf99e/transformed/lifecycle-livedata-core-2.6.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.6.0] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/4fa267b806992e4dd92edbe94c23760c/transformed/jetified-lifecycle-service-2.6.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/e6b557288aaea3b579e1f0fe168f4fc3/transformed/jetified-emoji2-views-helper-1.2.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/234a7e46019801cf96dc21c0bd4ecaae/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.0] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/667bf8a737cf3deed637de1ca72d2f7e/transformed/jetified-lifecycle-process-2.6.0/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.savedstate:savedstate:1.2.0] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/b5b63a5fd351f06b636942253db4df7f/transformed/jetified-savedstate-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-reactivestreams:2.6.0] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/a683996bca70f38b72e03cf561c7b7d9/transformed/lifecycle-reactivestreams-2.6.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.9.0] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/7c74bbb014216d2fb8f0aa12da402415/transformed/jetified-core-ktx-1.9.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/99840d69fd3fb88011a112e917a00440/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/7cfd7b88dd4ffda45f46de35edd550d9/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/86d73f71d6c5c6ffbd70bac0d77f8711/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/c4ffc80642e95fcf0af70db5982a49b7/transformed/drawerlayout-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.media:media:1.0.0] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/8a802f27e182ae81be5fb7f30d4de58f/transformed/media-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/9a8969ec3277dc49b0392975e4e5b8bf/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/9cc3b5edbc3c916ffeb56b18e21a9c62/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/3c654c5632cec64653fedcd8d656d22e/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/003f7a67e57f698a527f34f314bcb544/transformed/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/925fb20b4f3b9bfb6f28388fb43a337d/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/e75c82380c85cc98ccd2a10cf1d026b8/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/c2210350b09de8dba7748b854e5d1420/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/01740a73a1ab930996d58b2808472357/transformed/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.1.0] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/ba9c3089b41ceb1f6346606348a8607d/transformed/customview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/938a1110d8fc8e489e8d3045d5c8d3b5/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/41048e3c824e81f483ec0aff11450fd3/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.9.0] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/c41bd5b9faf91085284eee970caf62c4/transformed/core-1.9.0/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.0] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/64fe02e6546de19e7ab02391bfd1e66a/transformed/lifecycle-runtime-2.6.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.0] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/1791cb830812cca0e3580c2699a987c1/transformed/lifecycle-livedata-2.6.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.0] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/af636d21c166b9a16f1e23d17bf27441/transformed/lifecycle-viewmodel-2.6.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.room:room-rxjava3:2.5.0] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/7757bd86d8c805b0f893e81a5e8c073c/transformed/jetified-room-rxjava3-2.5.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.room:room-runtime:2.5.0] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/ec0cd4adf74397a05420351140d25500/transformed/room-runtime-2.5.0/AndroidManifest.xml:17:1-31:12
+MERGED from [com.github.yukuku:ambilwarna:2.0.1] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/9fa78623454b44f36b1fdd0b6ee1b1f1/transformed/jetified-ambilwarna-2.0.1/AndroidManifest.xml:2:1-12:12
+MERGED from [com.android.volley:volley:1.2.1] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/5db8d13814a5fdc5d390b1f6bbd865a3/transformed/jetified-volley-1.2.1/AndroidManifest.xml:2:1-7:12
+MERGED from [com.github.warkiz.widget:indicatorseekbar:2.0.6] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/37c69f9e4bce6f194f1bb939e5c84480/transformed/jetified-indicatorseekbar-2.0.6/AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.PhilJay:MPAndroidChart:v3.1.0] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/fc6999812bfbfd25c8c8ea203b643de5/transformed/jetified-MPAndroidChart-v3.1.0/AndroidManifest.xml:2:1-20:12
+MERGED from [androidx.sqlite:sqlite-framework:2.3.0] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/9bc34392de57689b7c71b6894ad64691/transformed/sqlite-framework-2.3.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite:2.3.0] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/94f76503fa13a2eb85a82f6969598b20/transformed/sqlite-2.3.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/b8322a807b4a306c03717a7bb4e12298/transformed/jetified-annotation-experimental-1.3.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/ea5a99889b9160735abb29be52fe151d/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/56ff60499fc0d9b491ca9ba29c02c4eb/transformed/core-runtime-2.2.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.2.1] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/873ae5d0e41d75a45a7658446518f46e/transformed/jetified-profileinstaller-1.2.1/AndroidManifest.xml:17:1-50:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/07c409dd0ba9887a9d960b40983698fe/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/f7e1f2b473ac53fdf07f70e09eac70ad/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/a80ea98dbd1752ce8ccc186690ed7eba/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/afd4676cbdac98ad036f01b6a258d8df/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/38a47689e20605daa613e2d2fe93d0dc/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/2389db5fa466dd95a5ccc4ef4dda9149/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/84ac47a3fb887376447961931847e709/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/55d271a179a24aab227bb82ecc1851f0/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/kai/Desktop/master_thesis/solitaire/app/src/main/AndroidManifest.xml:2:1-65:12
+INJECTED from /Users/kai/Desktop/master_thesis/solitaire/app/src/main/AndroidManifest.xml:2:1-65:12
+INJECTED from /Users/kai/Desktop/master_thesis/solitaire/app/src/main/AndroidManifest.xml:2:1-65:12
+	package
+		INJECTED from /Users/kai/Desktop/master_thesis/solitaire/app/src/main/AndroidManifest.xml
+		ADDED from /Users/kai/Desktop/master_thesis/solitaire/app/src/main/AndroidManifest.xml:2:1-65:12
+		INJECTED from /Users/kai/Desktop/master_thesis/solitaire/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/kai/Desktop/master_thesis/solitaire/app/src/main/AndroidManifest.xml
+		ADDED from /Users/kai/Desktop/master_thesis/solitaire/app/src/main/AndroidManifest.xml:2:1-65:12
+		INJECTED from /Users/kai/Desktop/master_thesis/solitaire/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/kai/Desktop/master_thesis/solitaire/app/src/main/AndroidManifest.xml
+		ADDED from /Users/kai/Desktop/master_thesis/solitaire/app/src/main/AndroidManifest.xml:2:1-65:12
+		INJECTED from /Users/kai/Desktop/master_thesis/solitaire/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/kai/Desktop/master_thesis/solitaire/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/kai/Desktop/master_thesis/solitaire/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /Users/kai/Desktop/master_thesis/solitaire/app/src/main/AndroidManifest.xml:4:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/kai/Desktop/master_thesis/solitaire/app/src/main/AndroidManifest.xml:5:5-79
+	android:name
+		ADDED from /Users/kai/Desktop/master_thesis/solitaire/app/src/main/AndroidManifest.xml:5:22-76
+application
+ADDED from /Users/kai/Desktop/master_thesis/solitaire/app/src/main/AndroidManifest.xml:7:5-63:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/4a5808e698dd83ee1998088d413ce090/transformed/lifecycle-extensions-2.2.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/4a5808e698dd83ee1998088d413ce090/transformed/lifecycle-extensions-2.2.0/AndroidManifest.xml:24:5-25:19
+MERGED from [com.google.android.material:material:1.8.0] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/33cb7cfb4965debf2bab5187aabbbc8c/transformed/material-1.8.0/AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.material:material:1.8.0] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/33cb7cfb4965debf2bab5187aabbbc8c/transformed/material-1.8.0/AndroidManifest.xml:24:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/62d45331bb1033af7460f0f3de36bbe9/transformed/constraintlayout-2.1.4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/62d45331bb1033af7460f0f3de36bbe9/transformed/constraintlayout-2.1.4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/234a7e46019801cf96dc21c0bd4ecaae/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/234a7e46019801cf96dc21c0bd4ecaae/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.0] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/667bf8a737cf3deed637de1ca72d2f7e/transformed/jetified-lifecycle-process-2.6.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.0] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/667bf8a737cf3deed637de1ca72d2f7e/transformed/jetified-lifecycle-process-2.6.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.9.0] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/c41bd5b9faf91085284eee970caf62c4/transformed/core-1.9.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.9.0] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/c41bd5b9faf91085284eee970caf62c4/transformed/core-1.9.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.room:room-runtime:2.5.0] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/ec0cd4adf74397a05420351140d25500/transformed/room-runtime-2.5.0/AndroidManifest.xml:23:5-29:19
+MERGED from [androidx.room:room-runtime:2.5.0] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/ec0cd4adf74397a05420351140d25500/transformed/room-runtime-2.5.0/AndroidManifest.xml:23:5-29:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.2.1] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/873ae5d0e41d75a45a7658446518f46e/transformed/jetified-profileinstaller-1.2.1/AndroidManifest.xml:24:5-48:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.2.1] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/873ae5d0e41d75a45a7658446518f46e/transformed/jetified-profileinstaller-1.2.1/AndroidManifest.xml:24:5-48:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/f7e1f2b473ac53fdf07f70e09eac70ad/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/f7e1f2b473ac53fdf07f70e09eac70ad/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/a80ea98dbd1752ce8ccc186690ed7eba/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/a80ea98dbd1752ce8ccc186690ed7eba/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.9.0] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/c41bd5b9faf91085284eee970caf62c4/transformed/core-1.9.0/AndroidManifest.xml:28:18-86
+	android:label
+		ADDED from /Users/kai/Desktop/master_thesis/solitaire/app/src/main/AndroidManifest.xml:13:9-41
+	android:fullBackupContent
+		ADDED from /Users/kai/Desktop/master_thesis/solitaire/app/src/main/AndroidManifest.xml:10:9-57
+	android:largeHeap
+		ADDED from /Users/kai/Desktop/master_thesis/solitaire/app/src/main/AndroidManifest.xml:14:9-33
+	android:installLocation
+		ADDED from /Users/kai/Desktop/master_thesis/solitaire/app/src/main/AndroidManifest.xml:12:9-39
+	android:icon
+		ADDED from /Users/kai/Desktop/master_thesis/solitaire/app/src/main/AndroidManifest.xml:11:9-43
+	android:allowBackup
+		ADDED from /Users/kai/Desktop/master_thesis/solitaire/app/src/main/AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from /Users/kai/Desktop/master_thesis/solitaire/app/src/main/AndroidManifest.xml:15:9-51
+	android:name
+		ADDED from /Users/kai/Desktop/master_thesis/solitaire/app/src/main/AndroidManifest.xml:8:9-40
+activity#be.kuleuven.drsolitaire.ui.about.AboutActivity
+ADDED from /Users/kai/Desktop/master_thesis/solitaire/app/src/main/AndroidManifest.xml:16:9-20:56
+	android:label
+		ADDED from /Users/kai/Desktop/master_thesis/solitaire/app/src/main/AndroidManifest.xml:19:13-47
+	android:configChanges
+		ADDED from /Users/kai/Desktop/master_thesis/solitaire/app/src/main/AndroidManifest.xml:18:13-74
+	android:theme
+		ADDED from /Users/kai/Desktop/master_thesis/solitaire/app/src/main/AndroidManifest.xml:20:13-53
+	android:name
+		ADDED from /Users/kai/Desktop/master_thesis/solitaire/app/src/main/AndroidManifest.xml:17:13-51
+activity#be.kuleuven.drsolitaire.ui.Statistics
+ADDED from /Users/kai/Desktop/master_thesis/solitaire/app/src/main/AndroidManifest.xml:21:9-24:56
+	android:label
+		ADDED from /Users/kai/Desktop/master_thesis/solitaire/app/src/main/AndroidManifest.xml:23:13-62
+	android:theme
+		ADDED from /Users/kai/Desktop/master_thesis/solitaire/app/src/main/AndroidManifest.xml:24:13-53
+	android:name
+		ADDED from /Users/kai/Desktop/master_thesis/solitaire/app/src/main/AndroidManifest.xml:22:13-42
+activity#be.kuleuven.drsolitaire.ui.settings.Settings
+ADDED from /Users/kai/Desktop/master_thesis/solitaire/app/src/main/AndroidManifest.xml:25:9-28:56
+	android:label
+		ADDED from /Users/kai/Desktop/master_thesis/solitaire/app/src/main/AndroidManifest.xml:27:13-60
+	android:theme
+		ADDED from /Users/kai/Desktop/master_thesis/solitaire/app/src/main/AndroidManifest.xml:28:13-53
+	android:name
+		ADDED from /Users/kai/Desktop/master_thesis/solitaire/app/src/main/AndroidManifest.xml:26:13-49
+activity#be.kuleuven.drsolitaire.ui.settings.SettingsGames
+ADDED from /Users/kai/Desktop/master_thesis/solitaire/app/src/main/AndroidManifest.xml:29:9-32:56
+	android:label
+		ADDED from /Users/kai/Desktop/master_thesis/solitaire/app/src/main/AndroidManifest.xml:31:13-51
+	android:theme
+		ADDED from /Users/kai/Desktop/master_thesis/solitaire/app/src/main/AndroidManifest.xml:32:13-53
+	android:name
+		ADDED from /Users/kai/Desktop/master_thesis/solitaire/app/src/main/AndroidManifest.xml:30:13-54
+activity#be.kuleuven.drsolitaire.ui.GameManager
+ADDED from /Users/kai/Desktop/master_thesis/solitaire/app/src/main/AndroidManifest.xml:33:9-52
+	android:name
+		ADDED from /Users/kai/Desktop/master_thesis/solitaire/app/src/main/AndroidManifest.xml:33:19-49
+activity#be.kuleuven.drsolitaire.ui.manual.Manual
+ADDED from /Users/kai/Desktop/master_thesis/solitaire/app/src/main/AndroidManifest.xml:34:9-38:58
+	android:label
+		ADDED from /Users/kai/Desktop/master_thesis/solitaire/app/src/main/AndroidManifest.xml:37:13-48
+	android:configChanges
+		ADDED from /Users/kai/Desktop/master_thesis/solitaire/app/src/main/AndroidManifest.xml:36:13-74
+	android:theme
+		ADDED from /Users/kai/Desktop/master_thesis/solitaire/app/src/main/AndroidManifest.xml:38:13-55
+	android:name
+		ADDED from /Users/kai/Desktop/master_thesis/solitaire/app/src/main/AndroidManifest.xml:35:13-45
+activity#be.kuleuven.drsolitaire.ui.GameSelector
+ADDED from /Users/kai/Desktop/master_thesis/solitaire/app/src/main/AndroidManifest.xml:39:9-42:67
+	android:label
+		ADDED from /Users/kai/Desktop/master_thesis/solitaire/app/src/main/AndroidManifest.xml:41:13-45
+	android:theme
+		ADDED from /Users/kai/Desktop/master_thesis/solitaire/app/src/main/AndroidManifest.xml:42:13-55
+	android:name
+		ADDED from /Users/kai/Desktop/master_thesis/solitaire/app/src/main/AndroidManifest.xml:40:13-44
+activity#be.kuleuven.drsolitaire.LoginActivity
+ADDED from /Users/kai/Desktop/master_thesis/solitaire/app/src/main/AndroidManifest.xml:43:9-53:20
+	android:label
+		ADDED from /Users/kai/Desktop/master_thesis/solitaire/app/src/main/AndroidManifest.xml:45:13-48
+	android:exported
+		ADDED from /Users/kai/Desktop/master_thesis/solitaire/app/src/main/AndroidManifest.xml:47:13-36
+	android:theme
+		ADDED from /Users/kai/Desktop/master_thesis/solitaire/app/src/main/AndroidManifest.xml:46:13-55
+	android:name
+		ADDED from /Users/kai/Desktop/master_thesis/solitaire/app/src/main/AndroidManifest.xml:44:13-42
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/kai/Desktop/master_thesis/solitaire/app/src/main/AndroidManifest.xml:48:13-52:29
+action#android.intent.action.MAIN
+ADDED from /Users/kai/Desktop/master_thesis/solitaire/app/src/main/AndroidManifest.xml:49:17-69
+	android:name
+		ADDED from /Users/kai/Desktop/master_thesis/solitaire/app/src/main/AndroidManifest.xml:49:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/kai/Desktop/master_thesis/solitaire/app/src/main/AndroidManifest.xml:51:17-77
+	android:name
+		ADDED from /Users/kai/Desktop/master_thesis/solitaire/app/src/main/AndroidManifest.xml:51:27-74
+activity#be.kuleuven.drsolitaire.RegistrationActivity
+ADDED from /Users/kai/Desktop/master_thesis/solitaire/app/src/main/AndroidManifest.xml:54:9-58:20
+	android:label
+		ADDED from /Users/kai/Desktop/master_thesis/solitaire/app/src/main/AndroidManifest.xml:56:13-64
+	android:theme
+		ADDED from /Users/kai/Desktop/master_thesis/solitaire/app/src/main/AndroidManifest.xml:57:13-55
+	android:name
+		ADDED from /Users/kai/Desktop/master_thesis/solitaire/app/src/main/AndroidManifest.xml:55:13-49
+meta-data#preloaded_fonts
+ADDED from /Users/kai/Desktop/master_thesis/solitaire/app/src/main/AndroidManifest.xml:60:9-62:57
+	android:resource
+		ADDED from /Users/kai/Desktop/master_thesis/solitaire/app/src/main/AndroidManifest.xml:62:13-54
+	android:name
+		ADDED from /Users/kai/Desktop/master_thesis/solitaire/app/src/main/AndroidManifest.xml:61:13-43
+uses-sdk
+INJECTED from /Users/kai/Desktop/master_thesis/solitaire/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/kai/Desktop/master_thesis/solitaire/app/src/main/AndroidManifest.xml
+INJECTED from /Users/kai/Desktop/master_thesis/solitaire/app/src/main/AndroidManifest.xml
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/4a5808e698dd83ee1998088d413ce090/transformed/lifecycle-extensions-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/4a5808e698dd83ee1998088d413ce090/transformed/lifecycle-extensions-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.8.0] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/33cb7cfb4965debf2bab5187aabbbc8c/transformed/material-1.8.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.8.0] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/33cb7cfb4965debf2bab5187aabbbc8c/transformed/material-1.8.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/62d45331bb1033af7460f0f3de36bbe9/transformed/constraintlayout-2.1.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/62d45331bb1033af7460f0f3de36bbe9/transformed/constraintlayout-2.1.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/843a1b13bc178299aaae103e34a64238/transformed/jetified-appcompat-resources-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/843a1b13bc178299aaae103e34a64238/transformed/jetified-appcompat-resources-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/393d5dc5f6c538b729e435f1d80aebd6/transformed/appcompat-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/393d5dc5f6c538b729e435f1d80aebd6/transformed/appcompat-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/8728359f56b56a6836b5dfe9aff3eaa9/transformed/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/8728359f56b56a6836b5dfe9aff3eaa9/transformed/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/62fd44b0d38aab7c6e99b02e2377e543/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/62fd44b0d38aab7c6e99b02e2377e543/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.5.5] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/396d452354cc1a62b9553a8799722e0d/transformed/fragment-1.5.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.5.5] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/396d452354cc1a62b9553a8799722e0d/transformed/fragment-1.5.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.6.0] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/5574b45df44cae1fb3290be6f8e56670/transformed/jetified-activity-1.6.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.6.0] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/5574b45df44cae1fb3290be6f8e56670/transformed/jetified-activity-1.6.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.0] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/3b498f6e5a29b4359f2a1515b4ec63b5/transformed/jetified-lifecycle-viewmodel-savedstate-2.6.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.0] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/3b498f6e5a29b4359f2a1515b4ec63b5/transformed/jetified-lifecycle-viewmodel-savedstate-2.6.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.0] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/fc47073495fa7c9274f8a57c990bf99e/transformed/lifecycle-livedata-core-2.6.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.0] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/fc47073495fa7c9274f8a57c990bf99e/transformed/lifecycle-livedata-core-2.6.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.6.0] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/4fa267b806992e4dd92edbe94c23760c/transformed/jetified-lifecycle-service-2.6.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.6.0] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/4fa267b806992e4dd92edbe94c23760c/transformed/jetified-lifecycle-service-2.6.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/e6b557288aaea3b579e1f0fe168f4fc3/transformed/jetified-emoji2-views-helper-1.2.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/e6b557288aaea3b579e1f0fe168f4fc3/transformed/jetified-emoji2-views-helper-1.2.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/234a7e46019801cf96dc21c0bd4ecaae/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/234a7e46019801cf96dc21c0bd4ecaae/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.0] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/667bf8a737cf3deed637de1ca72d2f7e/transformed/jetified-lifecycle-process-2.6.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.0] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/667bf8a737cf3deed637de1ca72d2f7e/transformed/jetified-lifecycle-process-2.6.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.0] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/b5b63a5fd351f06b636942253db4df7f/transformed/jetified-savedstate-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.2.0] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/b5b63a5fd351f06b636942253db4df7f/transformed/jetified-savedstate-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-reactivestreams:2.6.0] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/a683996bca70f38b72e03cf561c7b7d9/transformed/lifecycle-reactivestreams-2.6.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-reactivestreams:2.6.0] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/a683996bca70f38b72e03cf561c7b7d9/transformed/lifecycle-reactivestreams-2.6.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.9.0] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/7c74bbb014216d2fb8f0aa12da402415/transformed/jetified-core-ktx-1.9.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.9.0] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/7c74bbb014216d2fb8f0aa12da402415/transformed/jetified-core-ktx-1.9.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/99840d69fd3fb88011a112e917a00440/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/99840d69fd3fb88011a112e917a00440/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/7cfd7b88dd4ffda45f46de35edd550d9/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/7cfd7b88dd4ffda45f46de35edd550d9/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/86d73f71d6c5c6ffbd70bac0d77f8711/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/86d73f71d6c5c6ffbd70bac0d77f8711/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/c4ffc80642e95fcf0af70db5982a49b7/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/c4ffc80642e95fcf0af70db5982a49b7/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.0.0] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/8a802f27e182ae81be5fb7f30d4de58f/transformed/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/8a802f27e182ae81be5fb7f30d4de58f/transformed/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/9a8969ec3277dc49b0392975e4e5b8bf/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/9a8969ec3277dc49b0392975e4e5b8bf/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/9cc3b5edbc3c916ffeb56b18e21a9c62/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/9cc3b5edbc3c916ffeb56b18e21a9c62/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/3c654c5632cec64653fedcd8d656d22e/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/3c654c5632cec64653fedcd8d656d22e/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/003f7a67e57f698a527f34f314bcb544/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/003f7a67e57f698a527f34f314bcb544/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/925fb20b4f3b9bfb6f28388fb43a337d/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/925fb20b4f3b9bfb6f28388fb43a337d/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/e75c82380c85cc98ccd2a10cf1d026b8/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/e75c82380c85cc98ccd2a10cf1d026b8/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/c2210350b09de8dba7748b854e5d1420/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/c2210350b09de8dba7748b854e5d1420/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/01740a73a1ab930996d58b2808472357/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/01740a73a1ab930996d58b2808472357/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/ba9c3089b41ceb1f6346606348a8607d/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/ba9c3089b41ceb1f6346606348a8607d/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/938a1110d8fc8e489e8d3045d5c8d3b5/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/938a1110d8fc8e489e8d3045d5c8d3b5/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/41048e3c824e81f483ec0aff11450fd3/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/41048e3c824e81f483ec0aff11450fd3/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.9.0] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/c41bd5b9faf91085284eee970caf62c4/transformed/core-1.9.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.9.0] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/c41bd5b9faf91085284eee970caf62c4/transformed/core-1.9.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.0] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/64fe02e6546de19e7ab02391bfd1e66a/transformed/lifecycle-runtime-2.6.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.0] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/64fe02e6546de19e7ab02391bfd1e66a/transformed/lifecycle-runtime-2.6.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.0] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/1791cb830812cca0e3580c2699a987c1/transformed/lifecycle-livedata-2.6.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.0] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/1791cb830812cca0e3580c2699a987c1/transformed/lifecycle-livedata-2.6.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.0] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/af636d21c166b9a16f1e23d17bf27441/transformed/lifecycle-viewmodel-2.6.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.0] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/af636d21c166b9a16f1e23d17bf27441/transformed/lifecycle-viewmodel-2.6.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.room:room-rxjava3:2.5.0] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/7757bd86d8c805b0f893e81a5e8c073c/transformed/jetified-room-rxjava3-2.5.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.room:room-rxjava3:2.5.0] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/7757bd86d8c805b0f893e81a5e8c073c/transformed/jetified-room-rxjava3-2.5.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.room:room-runtime:2.5.0] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/ec0cd4adf74397a05420351140d25500/transformed/room-runtime-2.5.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.room:room-runtime:2.5.0] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/ec0cd4adf74397a05420351140d25500/transformed/room-runtime-2.5.0/AndroidManifest.xml:21:5-44
+MERGED from [com.github.yukuku:ambilwarna:2.0.1] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/9fa78623454b44f36b1fdd0b6ee1b1f1/transformed/jetified-ambilwarna-2.0.1/AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.yukuku:ambilwarna:2.0.1] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/9fa78623454b44f36b1fdd0b6ee1b1f1/transformed/jetified-ambilwarna-2.0.1/AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.volley:volley:1.2.1] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/5db8d13814a5fdc5d390b1f6bbd865a3/transformed/jetified-volley-1.2.1/AndroidManifest.xml:5:5-43
+MERGED from [com.android.volley:volley:1.2.1] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/5db8d13814a5fdc5d390b1f6bbd865a3/transformed/jetified-volley-1.2.1/AndroidManifest.xml:5:5-43
+MERGED from [com.github.warkiz.widget:indicatorseekbar:2.0.6] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/37c69f9e4bce6f194f1bb939e5c84480/transformed/jetified-indicatorseekbar-2.0.6/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.warkiz.widget:indicatorseekbar:2.0.6] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/37c69f9e4bce6f194f1bb939e5c84480/transformed/jetified-indicatorseekbar-2.0.6/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.PhilJay:MPAndroidChart:v3.1.0] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/fc6999812bfbfd25c8c8ea203b643de5/transformed/jetified-MPAndroidChart-v3.1.0/AndroidManifest.xml:16:5-18:41
+MERGED from [com.github.PhilJay:MPAndroidChart:v3.1.0] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/fc6999812bfbfd25c8c8ea203b643de5/transformed/jetified-MPAndroidChart-v3.1.0/AndroidManifest.xml:16:5-18:41
+MERGED from [androidx.sqlite:sqlite-framework:2.3.0] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/9bc34392de57689b7c71b6894ad64691/transformed/sqlite-framework-2.3.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.3.0] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/9bc34392de57689b7c71b6894ad64691/transformed/sqlite-framework-2.3.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.3.0] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/94f76503fa13a2eb85a82f6969598b20/transformed/sqlite-2.3.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.3.0] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/94f76503fa13a2eb85a82f6969598b20/transformed/sqlite-2.3.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/b8322a807b4a306c03717a7bb4e12298/transformed/jetified-annotation-experimental-1.3.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/b8322a807b4a306c03717a7bb4e12298/transformed/jetified-annotation-experimental-1.3.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/ea5a99889b9160735abb29be52fe151d/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/ea5a99889b9160735abb29be52fe151d/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/56ff60499fc0d9b491ca9ba29c02c4eb/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/56ff60499fc0d9b491ca9ba29c02c4eb/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.2.1] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/873ae5d0e41d75a45a7658446518f46e/transformed/jetified-profileinstaller-1.2.1/AndroidManifest.xml:21:5-22:38
+MERGED from [androidx.profileinstaller:profileinstaller:1.2.1] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/873ae5d0e41d75a45a7658446518f46e/transformed/jetified-profileinstaller-1.2.1/AndroidManifest.xml:21:5-22:38
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/07c409dd0ba9887a9d960b40983698fe/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/07c409dd0ba9887a9d960b40983698fe/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/f7e1f2b473ac53fdf07f70e09eac70ad/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/f7e1f2b473ac53fdf07f70e09eac70ad/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/a80ea98dbd1752ce8ccc186690ed7eba/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/a80ea98dbd1752ce8ccc186690ed7eba/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/afd4676cbdac98ad036f01b6a258d8df/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/afd4676cbdac98ad036f01b6a258d8df/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/38a47689e20605daa613e2d2fe93d0dc/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/38a47689e20605daa613e2d2fe93d0dc/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/2389db5fa466dd95a5ccc4ef4dda9149/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/2389db5fa466dd95a5ccc4ef4dda9149/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/84ac47a3fb887376447961931847e709/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/84ac47a3fb887376447961931847e709/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/55d271a179a24aab227bb82ecc1851f0/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/55d271a179a24aab227bb82ecc1851f0/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+INJECTED from /Users/kai/Desktop/master_thesis/solitaire/app/src/main/AndroidManifest.xml
+INJECTED from /Users/kai/Desktop/master_thesis/solitaire/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/kai/Desktop/master_thesis/solitaire/app/src/main/AndroidManifest.xml
+		ADDED from /Users/kai/Desktop/master_thesis/solitaire/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/kai/Desktop/master_thesis/solitaire/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/kai/Desktop/master_thesis/solitaire/app/src/main/AndroidManifest.xml
+		ADDED from /Users/kai/Desktop/master_thesis/solitaire/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/kai/Desktop/master_thesis/solitaire/app/src/main/AndroidManifest.xml
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/234a7e46019801cf96dc21c0bd4ecaae/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.0] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/667bf8a737cf3deed637de1ca72d2f7e/transformed/jetified-lifecycle-process-2.6.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.0] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/667bf8a737cf3deed637de1ca72d2f7e/transformed/jetified-lifecycle-process-2.6.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.2.1] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/873ae5d0e41d75a45a7658446518f46e/transformed/jetified-profileinstaller-1.2.1/AndroidManifest.xml:25:9-33:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.2.1] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/873ae5d0e41d75a45a7658446518f46e/transformed/jetified-profileinstaller-1.2.1/AndroidManifest.xml:25:9-33:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/a80ea98dbd1752ce8ccc186690ed7eba/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/a80ea98dbd1752ce8ccc186690ed7eba/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/234a7e46019801cf96dc21c0bd4ecaae/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/234a7e46019801cf96dc21c0bd4ecaae/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/234a7e46019801cf96dc21c0bd4ecaae/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/234a7e46019801cf96dc21c0bd4ecaae/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/234a7e46019801cf96dc21c0bd4ecaae/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/234a7e46019801cf96dc21c0bd4ecaae/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/234a7e46019801cf96dc21c0bd4ecaae/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:30:17-75
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.6.0] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/667bf8a737cf3deed637de1ca72d2f7e/transformed/jetified-lifecycle-process-2.6.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.0] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/667bf8a737cf3deed637de1ca72d2f7e/transformed/jetified-lifecycle-process-2.6.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.0] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/667bf8a737cf3deed637de1ca72d2f7e/transformed/jetified-lifecycle-process-2.6.0/AndroidManifest.xml:30:17-78
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/c41bd5b9faf91085284eee970caf62c4/transformed/core-1.9.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.9.0] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/c41bd5b9faf91085284eee970caf62c4/transformed/core-1.9.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.9.0] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/c41bd5b9faf91085284eee970caf62c4/transformed/core-1.9.0/AndroidManifest.xml:23:9-81
+permission#be.kuleuven.drsolitaire.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/c41bd5b9faf91085284eee970caf62c4/transformed/core-1.9.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.9.0] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/c41bd5b9faf91085284eee970caf62c4/transformed/core-1.9.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.9.0] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/c41bd5b9faf91085284eee970caf62c4/transformed/core-1.9.0/AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/c41bd5b9faf91085284eee970caf62c4/transformed/core-1.9.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.9.0] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/c41bd5b9faf91085284eee970caf62c4/transformed/core-1.9.0/AndroidManifest.xml:26:22-94
+uses-permission#be.kuleuven.drsolitaire.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/c41bd5b9faf91085284eee970caf62c4/transformed/core-1.9.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.9.0] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/c41bd5b9faf91085284eee970caf62c4/transformed/core-1.9.0/AndroidManifest.xml:26:22-94
+service#androidx.room.MultiInstanceInvalidationService
+ADDED from [androidx.room:room-runtime:2.5.0] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/ec0cd4adf74397a05420351140d25500/transformed/room-runtime-2.5.0/AndroidManifest.xml:24:9-28:63
+	android:exported
+		ADDED from [androidx.room:room-runtime:2.5.0] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/ec0cd4adf74397a05420351140d25500/transformed/room-runtime-2.5.0/AndroidManifest.xml:27:13-37
+	tools:ignore
+		ADDED from [androidx.room:room-runtime:2.5.0] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/ec0cd4adf74397a05420351140d25500/transformed/room-runtime-2.5.0/AndroidManifest.xml:28:13-60
+	android:directBootAware
+		ADDED from [androidx.room:room-runtime:2.5.0] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/ec0cd4adf74397a05420351140d25500/transformed/room-runtime-2.5.0/AndroidManifest.xml:26:13-43
+	android:name
+		ADDED from [androidx.room:room-runtime:2.5.0] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/ec0cd4adf74397a05420351140d25500/transformed/room-runtime-2.5.0/AndroidManifest.xml:25:13-74
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.2.1] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/873ae5d0e41d75a45a7658446518f46e/transformed/jetified-profileinstaller-1.2.1/AndroidManifest.xml:30:13-32:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.2.1] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/873ae5d0e41d75a45a7658446518f46e/transformed/jetified-profileinstaller-1.2.1/AndroidManifest.xml:32:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.2.1] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/873ae5d0e41d75a45a7658446518f46e/transformed/jetified-profileinstaller-1.2.1/AndroidManifest.xml:31:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.2.1] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/873ae5d0e41d75a45a7658446518f46e/transformed/jetified-profileinstaller-1.2.1/AndroidManifest.xml:35:9-47:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.2.1] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/873ae5d0e41d75a45a7658446518f46e/transformed/jetified-profileinstaller-1.2.1/AndroidManifest.xml:38:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.2.1] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/873ae5d0e41d75a45a7658446518f46e/transformed/jetified-profileinstaller-1.2.1/AndroidManifest.xml:39:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.2.1] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/873ae5d0e41d75a45a7658446518f46e/transformed/jetified-profileinstaller-1.2.1/AndroidManifest.xml:40:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.2.1] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/873ae5d0e41d75a45a7658446518f46e/transformed/jetified-profileinstaller-1.2.1/AndroidManifest.xml:37:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.2.1] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/873ae5d0e41d75a45a7658446518f46e/transformed/jetified-profileinstaller-1.2.1/AndroidManifest.xml:36:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.2.1] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/873ae5d0e41d75a45a7658446518f46e/transformed/jetified-profileinstaller-1.2.1/AndroidManifest.xml:41:13-43:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.2.1] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/873ae5d0e41d75a45a7658446518f46e/transformed/jetified-profileinstaller-1.2.1/AndroidManifest.xml:42:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.2.1] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/873ae5d0e41d75a45a7658446518f46e/transformed/jetified-profileinstaller-1.2.1/AndroidManifest.xml:42:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.2.1] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/873ae5d0e41d75a45a7658446518f46e/transformed/jetified-profileinstaller-1.2.1/AndroidManifest.xml:44:13-46:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.2.1] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/873ae5d0e41d75a45a7658446518f46e/transformed/jetified-profileinstaller-1.2.1/AndroidManifest.xml:45:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.2.1] /Users/kai/StudioProjects/Simple-Solitaire-DSS/caches/transforms-3/873ae5d0e41d75a45a7658446518f46e/transformed/jetified-profileinstaller-1.2.1/AndroidManifest.xml:45:25-82

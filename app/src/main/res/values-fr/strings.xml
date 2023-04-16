@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_version">Version</string>
+
+    <string name="portrait">Portrait</string>
+    <string name="landscape">Paysage</string>
+
+    <string name="settings">Réglages</string>
+    <string name="game_manual">Manuels</string>
+    <string name="game_score">Points</string>
+    <string name="game_time">Temps</string>
+    <string name="game_cancel">Annuler</string>
+    <string name="game_confirm">Confirmer</string>
+    <string name="game_auto_complete_text">Finir automatiquement</string>
+    <string name="game_press_again">Appuyer encore pour sortir</string>
+    <string name="game_load_error">Echec du chargement des données, démarrage d\'une nouvelle partie…</string>
+    <string name="game_close">Fermer le jeu</string>
+    <string name="game_main_menu">Menu principal</string>
+
+    <!-- Menu -->
+    <string name="menu_statistics">Points</string>
+    <string name="menu_undo">Annuler</string>
+    <string name="menu_hint">Indice</string>
+    <string name="menu_main_menu">Menu</string>
+    <string name="menu_settings">Réglages</string>
+
+    <!-- game names -->
+    <string name="games_Klondike">Solitaire</string>
+    <string name="games_Freecell">FreeCell</string>
+    <string name="games_Yukon">Yukon</string>
+    <string name="games_Spider">Spider</string>
+    <string name="games_SimpleSimon">SimpleSimon</string>
+    <string name="games_Golf">Golf</string>
+    <string name="games_Pyramid">Pyramide</string>
+    <string name="games_TriPeaks">TriPeaks</string>
+    <string name="games_FortyEight">Forty&amp;Eight</string>
+    <string name="games_AcesUp">4 As</string>
+    <string name="games_Gypsy">Gypsy</string>
+    <string name="games_mod3">Mod3</string>
+    <string name="games_Canfield">Canfield</string>
+    <string name="games_GrandfathersClock">GrandfathersClock</string>
+    <string name="games_Vegas">Vegas</string>
+
+    <!-- colors -->
+    <string name="blue">Bleu</string>
+    <string name="green">Vert</string>
+    <string name="red">Rouge</string>
+    <string name="yellow">Jaune</string>
+    <string name="orange">Orange</string>
+    <string name="purple">Violet</string>
+
+    <!-- game stuff -->
+    <string name="canfield_longest_run">Plus longue série :</string> <!-- also used by golf -->
+
+    <!-- dialog won-->
+    <string name="dialog_win_titel">Félicitation!</string>
+    <string name="dialog_win_score">Points: %1$d</string>
+    <string name="dialog_win_bonus">Prime: %1$d</string>
+    <string name="dialog_win_total">Total: %1$d</string>
+
+</resources>
